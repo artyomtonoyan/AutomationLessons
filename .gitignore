@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+.iml
+/target
+/AutomationHomeworks.iml
+/src/main/resources/.DS_Store
+/src/main/.DS_Store

@@ -1,0 +1,110 @@
+Time: Action: Data
+2021/05/16 19:19:14: Opening: https://picsart.com/
+2021/05/16 19:19:41: Opening: https://picsart.com/
+2021/05/16 20:03:39: Opening: https://picsart.com/
+2021/05/16 20:03:43: Find element: By.cssSelector: [type='file']
+2021/05/16 20:04:59: Opening: https://picsart.com/
+2021/05/16 20:05:36: Opening: https://picsart.com/
+2021/05/16 20:06:04: Opening: https://picsart.com/
+2021/05/16 20:06:07: Find element: By.cssSelector: [type='file']
+2021/05/16 20:09:30: Opening: https://picsart.com/
+2021/05/16 20:12:48: Opening: https://picsart.com/
+2021/05/16 20:13:03: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:13:50: Opening: https://picsart.com/
+2021/05/16 20:14:08: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:14:08: Clicking on the element: [[ChromeDriver: chrome on MAC (54c003a178bbb1adfe858b1f81b1bbcd)] -> css selector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']]
+2021/05/16 20:17:38: Opening: https://picsart.com/
+2021/05/16 20:17:54: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:21:07: Opening: https://picsart.com/
+2021/05/16 20:21:17: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:22:43: Opening: https://picsart.com/
+2021/05/16 20:24:53: Opening: https://picsart.com/
+2021/05/16 20:25:06: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:25:47: Opening: https://picsart.com/
+2021/05/16 20:26:04: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:27:52: Opening: https://picsart.com/
+2021/05/16 20:28:06: Find element: By.cssSelector: .uploadButtonFixed-0-2-582
+2021/05/16 20:28:53: Opening: https://picsart.com/
+2021/05/16 20:29:03: Find element: By.cssSelector: .uploadButtonWrapper-0-2-619
+2021/05/16 20:30:46: Opening: https://picsart.com/
+2021/05/16 20:31:00: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:31:22: Opening: https://picsart.com/
+2021/05/16 20:31:36: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:33:53: Opening: https://picsart.com/
+2021/05/16 20:34:06: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:34:51: Opening: https://picsart.com/
+2021/05/16 20:35:02: Opening: https://picsart.com/
+2021/05/16 20:35:20: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:36:09: Opening: https://picsart.com/
+2021/05/16 20:36:25: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:42:30: Opening: https://picsart.com/
+2021/05/16 20:42:40: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:42:50: Writing: /Users/artyomtonoyan/AutomationHomeworks/3.JPEGin: [[ChromeDriver: chrome on MAC (c9ff1bd08939a36a9fc52b9b1ab1dbb0)] -> css selector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']]
+2021/05/16 20:46:14: Opening: https://picsart.com/
+2021/05/16 20:46:25: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:46:35: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (68069069f7f8ec7f5db42fa0e9d5e215)] -> css selector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']]
+2021/05/16 20:48:00: Opening: https://picsart.com/
+2021/05/16 20:48:14: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:48:57: Opening: https://picsart.com/
+2021/05/16 20:49:11: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:56:18: Opening: https://picsart.com/
+2021/05/16 20:56:32: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 20:58:11: Opening: https://picsart.com/
+2021/05/16 20:58:26: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 21:03:59: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 21:06:43: Find element: By.cssSelector: [class='pw-button-0-2-623 uploadButton-0-2-620 large-0-2-628 left-0-2-633 primary-0-2-625 uploadButton-0-2-620']
+2021/05/16 21:42:48: Opening: https://picsartstage2.com/
+2021/05/16 21:43:48: Opening: https://picsartstage2.com/
+2021/05/16 21:45:26: Opening: https://picsartstage2.com/
+2021/05/16 21:47:04: Opening: https://picsartstage2.com/
+2021/05/16 21:48:59: Opening: https://picsartstage2.com/
+2021/05/16 21:50:18: Opening: https://picsartstage2.com/
+2021/05/16 21:50:44: Opening: https://picsartstage2.com/
+2021/05/16 21:54:03: Opening: https://picsartstage2.com/
+2021/05/16 21:56:35: Opening: https://picsartstage2.com/
+2021/05/16 21:59:10: Opening: https://picsartstage2.com/
+2021/05/16 22:00:56: Opening: https://picsartstage2.com/
+2021/05/16 22:02:42: Opening: https://picsartstage2.com/
+2021/05/16 22:04:23: Opening: https://picsartstage2.com/
+2021/05/16 22:05:08: Opening: https://picsartstage2.com/
+2021/05/16 22:07:02: Opening: https://picsartstage2.com/
+2021/05/16 22:07:11: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:07:13: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (5caf38fd3ee351c3fbd19601b9d4c05b)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/16 22:15:18: Opening: https://picsartstage2.com/
+2021/05/16 22:15:26: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:15:30: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (88f7b533371440823a96dfed9a6d9bd9)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/16 22:49:28: Opening: https://picsartstage2.com/
+2021/05/16 22:49:37: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:49:40: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (7e9022dcd9cb0ad631b7441f1bc46eef)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+Waiting 20for the element by locator to appear: By.id: download-button
+2021/05/16 22:50:08: Opening: https://picsartstage2.com/
+Waiting 20for the element by locator to appear: By.id: download-button
+2021/05/16 22:52:08: Opening: https://picsartstage2.com/
+2021/05/16 22:52:17: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:52:19: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (3a453a91c3fe65712027099bb10934b1)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+Waiting 20for the element by locator to appear: By.id: download-button
+2021/05/16 22:53:00: Opening: https://picsartstage2.com/
+2021/05/16 22:53:09: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:53:11: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (bc5b046dff0f02afad88af99b241d6cf)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+Waiting 20 seconds for the element by locator to appear: By.id: download-button
+2021/05/16 22:54:12: Opening: https://picsartstage2.com/
+2021/05/16 22:54:20: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:54:23: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (96a1cfe6295292073d46e6d64b620db0)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/16 22:54:23: Waiting for the element by locator to appear: By.id: download-button
+2021/05/16 22:55:34: Opening: https://picsartstage2.com/
+2021/05/16 22:55:43: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:55:45: Writing: src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (56640a257f0971169587feb489dad461)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/16 22:56:33: Opening: https://picsartstage2.com/
+2021/05/16 22:56:44: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 22:56:49: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (920200e25f37f439f9a95cfb73a91fce)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/16 22:56:49: Waiting for the element by locator to appear: By.id: download-button
+2021/05/16 22:59:41: Opening: https://picsartstage2.com/
+2021/05/16 22:59:46: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/16 23:00:37: Opening: https://picsartstage2.com/
+2021/05/16 23:00:41: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/16 23:02:43: Opening: https://picsartstage2.com/
+2021/05/16 23:02:46: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/16 23:03:17: Opening: https://picsartstage2.com/
+2021/05/16 23:03:26: Find element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/16 23:03:30: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (4e2c96c871ffa30c12b45c35fe9cc9f5)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/16 23:03:30: Waiting for the element by locator to appear: By.id: download-button
