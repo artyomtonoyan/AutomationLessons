@@ -1,6 +1,4 @@
 import org.openqa.selenium.By;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage extends BasePage {
 
@@ -11,14 +9,12 @@ public class LoginPage extends BasePage {
     private final By avatarLocation = By.cssSelector(".pa-uiLib-headerProfileInfo-avatar");
 
     public LoginPage() {
-        super();
-        open(BASE_URL);
+        open(BASE_URL_PICSART);
     }
 
     public void clickLoginButton() {
         click(loginButtonLocation);
-        new WebDriverWait(driver, 3).until(ExpectedConditions
-                .visibilityOfAllElementsLocatedBy(usernameFieldLocation));
+        WaitHelper.getInstance().waitForElementToDisplayed(usernameFieldLocation);
     }
 
     public void typeUsername(String username) {
@@ -39,15 +35,15 @@ public class LoginPage extends BasePage {
 
     public boolean isUserLoggedIn() {
         try {
-            waitUntilExpectedCondition(driver, 30, avatarLocation);
+            WaitHelper.getInstance().waitForElementToDisplayed(avatarLocation);
             return true;
-        } catch (Exception e) {
+        } catch (Error e) {
             return false;
         }
     }
 
     @Override
     public String getURL() {
-        return BASE_URL;
+        return BASE_URL_PICSART;
     }
 }

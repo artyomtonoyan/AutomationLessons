@@ -1,31 +1,27 @@
 import org.openqa.selenium.Cookie;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-import static org.testng.Assert.assertTrue;
+import static org.testng.Assert.assertEquals;
 import static setup.DriverSetup.getWebDriver;
 
 
-public class EditorTest {
-    @BeforeMethod
-    public void login() {
-        new LoginPage();
-        Cookie userKeyCookie = new Cookie("user_key", "54f47d1d-fa5d-4a8a-a451-269ebd49dd3b");
-        getWebDriver().manage().addCookie(userKeyCookie);
-        getWebDriver().navigate().refresh();
-    }
-
-    @AfterMethod
-    public void exit() {
-        getWebDriver().quit();
-    }
+public class EditorTest extends BaseTest{
 
     @Test
     public void editorOpen() {
         EditorPage editorPage = new EditorPage();
-        editorPage.uploadPhoto("/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg");
+        editorPage.clickInstagramStory();
+        editorPage.changeTab(1);
+        Cookie myCookie = new Cookie("we-editor-first-open", "true");
+        getWebDriver().manage().addCookie(myCookie);
+        getWebDriver().navigate().refresh();
+        editorPage.clickOnFitIcon();
+        assertEquals(editorPage.getCountOfItemsInSideBar(), 28, "It's not 28");
+    }
 
-        assertTrue(editorPage.isEditorOpen(), "Editor screen is not opened");
+    @Test
+    public void uploadPhoto() {
+        EditorPage editorPage = new EditorPage();
+        editorPage.uploadPhoto("/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg");
     }
 }

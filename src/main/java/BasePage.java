@@ -2,10 +2,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 
 import static setup.DriverSetup.getWebDriver;
 import static utilities.DateAndTimeService.getCurrentDateAndTime;
@@ -13,10 +13,18 @@ import static utilities.FileService.write;
 
 public abstract class BasePage {
     protected WebDriver driver;
-    public static final String BASE_URL = "https://picsartstage2.com/";
+    public static final String BASE_URL_PICSART = "https://picsartstage2.com/";
+    public static final String BASE_URL_DESMOS = "https://www.desmos.com/";
 
     public BasePage() {
         this.driver = getWebDriver();
+        try {
+            String message = getCurrentDateAndTime() + ": " + "Setting Driver: " + driver.toString();
+            System.out.println(message);
+            write("src/files/logs.txt", "\n" + message);
+        } catch (IOException e) {
+            System.out.println("File not found / Can't write: Current log can't be saved");
+        }
     }
 
     public abstract String getURL();
@@ -34,13 +42,24 @@ public abstract class BasePage {
 
     public WebElement find(By location) {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Find element: " + location.toString();
+            String message = getCurrentDateAndTime() + ": " + "Finding the element: " + location.toString();
             System.out.println(message);
             write("src/files/logs.txt", "\n" + message);
         } catch (IOException e) {
             System.out.println("File not found / Can't write: Current log can't be saved");
         }
         return driver.findElement(location);
+    }
+
+    public List<WebElement> findAll(By location) {
+        try {
+            String message = getCurrentDateAndTime() + ": " + "Finding all elements: " + location.toString();
+            System.out.println(message);
+            write("src/files/logs.txt", "\n" + message);
+        } catch (IOException e) {
+            System.out.println("File not found / Can't write: Current log can't be saved");
+        }
+        return driver.findElements(location);
     }
 
     public void type(WebElement element, String input) {
@@ -73,15 +92,29 @@ public abstract class BasePage {
         click(find(location));
     }
 
-    public boolean isDisplayed(WebElement element) {
+/**    public boolean isDisplayed(WebElement element) {
+        try {
+            String message = getCurrentDateAndTime() + ": " + "Checking is the element displayed: " + element.toString();
+            System.out.println(message);
+            write("src/files/logs.txt", "\n" + message);
+        } catch (IOException e) {
+            System.out.println("File not found / Can't write: Current log can't be saved");
+        }
         try {
             return element.isDisplayed();
         } catch (NoSuchElementException e) {
             return false;
         }
     }
-
+**/
     public boolean isDisplayed(By location) {
+        try {
+            String message = getCurrentDateAndTime() + ": " + "Checking is the element by locator displayed: " + location.toString();
+            System.out.println(message);
+            write("src/files/logs.txt", "\n" + message);
+        } catch (IOException e) {
+            System.out.println("File not found / Can't write: Current log can't be saved");
+        }
         try {
             return find(location).isDisplayed();
         } catch (NoSuchElementException e) {
@@ -89,15 +122,15 @@ public abstract class BasePage {
         }
     }
 
-    public WebElement waitUntilExpectedCondition(WebDriver driver, int seconds, By locator) {
+    public void changeTab(int tabIndex) {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Waiting for the element by locator to appear: " + locator.toString();
+            String message = getCurrentDateAndTime() + ": " + "Switching to tab by the index of: " + tabIndex;
             System.out.println(message);
             write("src/files/logs.txt", "\n" + message);
         } catch (IOException e) {
             System.out.println("File not found / Can't write: Current log can't be saved");
         }
-        return new WebDriverWait(driver, seconds)
-                .until(ExpectedConditions.visibilityOfElementLocated((locator)));
+        List<String> windowHandlers = new ArrayList<>(getWebDriver().getWindowHandles());
+        getWebDriver().switchTo().window(windowHandlers.get(tabIndex));
     }
 }
