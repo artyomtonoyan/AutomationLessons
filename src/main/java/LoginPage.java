@@ -42,6 +42,10 @@ public class LoginPage extends BasePage {
         }
     }
 
+    public void waitForAvatarToDisplayed() {
+        WaitHelper.getInstance().waitForElementToDisplayed(avatarLocation);
+    }
+
     @Override
     public String getURL() {
         return BASE_URL_PICSART;

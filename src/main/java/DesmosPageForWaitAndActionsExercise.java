@@ -7,7 +7,7 @@ import java.time.Duration;
 public class DesmosPageForWaitAndActionsExercise extends BasePage {
 
     private final By graphingCalculatorButtonLocation = By.cssSelector("[href='/calculator'].dcg-shared-btn-blue");
-    private final By secondExpressionField = By.className(".dcg-new-expression-fade");
+    private final By secondExpressionField = By.className("dcg-new-expression-fade");
     private final By rightNavbarLocation = By.className("align-right-container");
     private final By textArea = By.cssSelector("textarea[aria-label='Expression 1:']");
     private final By graphingArea = By.className("dcg-graph-outer");

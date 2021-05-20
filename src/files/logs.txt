@@ -891,3 +891,155 @@ Time: Action: Data
 2021/05/20 01:11:31: Writing: y=cos(x) in: [[ChromeDriver: chrome on MAC (9bf6ac4ddcec442c9f8e1796dfb2f5d5)] -> css selector: textarea[aria-label='Expression 1:']]
 2021/05/20 01:11:31: Finding the element: By.className: dcg-graph-outer
 2021/05/20 01:11:31: Finding the element: By.className: dcg-graph-outer
+2021/05/20 10:10:24: Setting Driver: ChromeDriver: chrome on MAC (26437a20189a3dd9b97db38aab1cdf65)
+2021/05/20 10:10:25: Opening: https://picsartstage2.com/
+2021/05/20 10:10:27: Setting Driver: ChromeDriver: chrome on MAC (26437a20189a3dd9b97db38aab1cdf65)
+2021/05/20 10:10:27: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:10:28: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:10:28: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:10:28: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:10:28: Clicking on the element: [[ChromeDriver: chrome on MAC (26437a20189a3dd9b97db38aab1cdf65)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:10:31: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:10:53: Setting Driver: ChromeDriver: chrome on MAC (b19105938884e8689582a8ef82dbaf80)
+2021/05/20 10:10:53: Opening: https://picsartstage2.com/
+2021/05/20 10:11:05: Setting Driver: ChromeDriver: chrome on MAC (b19105938884e8689582a8ef82dbaf80)
+2021/05/20 10:11:05: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:11:05: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:11:05: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:11:05: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:11:05: Clicking on the element: [[ChromeDriver: chrome on MAC (b19105938884e8689582a8ef82dbaf80)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:11:10: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:11:10: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:11:10: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:11:10: Clicking on the element: [[ChromeDriver: chrome on MAC (b19105938884e8689582a8ef82dbaf80)] -> css selector: .grid-cards .card]
+2021/05/20 10:11:12: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:11:12: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:11:12: Clicking on the element: [[ChromeDriver: chrome on MAC (b19105938884e8689582a8ef82dbaf80)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 10:11:12: Checking is the element by locator displayed: By.id: qrcode
+2021/05/20 10:11:12: Finding the element: By.id: qrcode
+2021/05/20 10:11:40: Setting Driver: ChromeDriver: chrome on MAC (d23c09f2abccbfb10472287b53fe25a3)
+2021/05/20 10:11:40: Opening: https://www.desmos.com/
+2021/05/20 10:11:41: Waiting for the element by locator to appear: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:11:41: Finding the element: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:11:41: Clicking on the element: [[ChromeDriver: chrome on MAC (d23c09f2abccbfb10472287b53fe25a3)] -> css selector: [href='/calculator'].dcg-shared-btn-blue]
+2021/05/20 10:11:42: Finding the element: By.className: align-right-container
+2021/05/20 10:11:42: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (d23c09f2abccbfb10472287b53fe25a3)] -> class name: align-right-container]
+2021/05/20 10:11:42: Waiting for the element by locator to appear: By.className: .dcg-new-expression-fade
+2021/05/20 10:12:06: Setting Driver: ChromeDriver: chrome on MAC (357ed20aa4d18c7bc6b08cd851a33b19)
+2021/05/20 10:12:06: Opening: https://www.desmos.com/
+2021/05/20 10:12:07: Waiting for the element by locator to appear: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:12:07: Finding the element: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:12:07: Clicking on the element: [[ChromeDriver: chrome on MAC (357ed20aa4d18c7bc6b08cd851a33b19)] -> css selector: [href='/calculator'].dcg-shared-btn-blue]
+2021/05/20 10:12:08: Finding the element: By.cssSelector: textarea[aria-label='Expression 1:']
+2021/05/20 10:12:08: Writing: y=cos(x) in: [[ChromeDriver: chrome on MAC (357ed20aa4d18c7bc6b08cd851a33b19)] -> css selector: textarea[aria-label='Expression 1:']]
+2021/05/20 10:12:08: Finding the element: By.className: dcg-graph-outer
+2021/05/20 10:12:08: Finding the element: By.className: dcg-graph-outer
+2021/05/20 10:12:50: Setting Driver: ChromeDriver: chrome on MAC (fb455274cc3ce7ea31507ac2de30bb31)
+2021/05/20 10:12:50: Opening: https://www.desmos.com/
+2021/05/20 10:12:51: Waiting for the element by locator to appear: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:12:51: Finding the element: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:12:51: Clicking on the element: [[ChromeDriver: chrome on MAC (fb455274cc3ce7ea31507ac2de30bb31)] -> css selector: [href='/calculator'].dcg-shared-btn-blue]
+2021/05/20 10:12:52: Finding the element: By.className: align-right-container
+2021/05/20 10:12:53: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (fb455274cc3ce7ea31507ac2de30bb31)] -> class name: align-right-container]
+2021/05/20 10:12:53: Waiting for the element by locator to appear: By.className: .dcg-new-expression-fade
+2021/05/20 10:14:24: Setting Driver: ChromeDriver: chrome on MAC (57eeaadc1a92951dafb2676b32033700)
+2021/05/20 10:14:24: Opening: https://www.desmos.com/
+2021/05/20 10:14:25: Waiting for the element by locator to appear: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:14:25: Finding the element: By.cssSelector: [href='/calculator'].dcg-shared-btn-blue
+2021/05/20 10:14:25: Clicking on the element: [[ChromeDriver: chrome on MAC (57eeaadc1a92951dafb2676b32033700)] -> css selector: [href='/calculator'].dcg-shared-btn-blue]
+2021/05/20 10:14:26: Finding the element: By.className: align-right-container
+2021/05/20 10:14:26: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (57eeaadc1a92951dafb2676b32033700)] -> class name: align-right-container]
+2021/05/20 10:14:26: Waiting for the element by locator to appear: By.className: dcg-new-expression-fade
+2021/05/20 10:14:26: Finding the element: By.className: dcg-new-expression-fade
+2021/05/20 10:14:26: Clicking on the element: [[ChromeDriver: chrome on MAC (57eeaadc1a92951dafb2676b32033700)] -> class name: dcg-new-expression-fade]
+2021/05/20 10:14:27: Waiting for alert message to appear: 
+2021/05/20 10:35:16: Setting Driver: ChromeDriver: chrome on MAC (e8a6e855eb94f977144020037fe5b2a6)
+2021/05/20 10:35:16: Opening: https://picsartstage2.com/
+2021/05/20 10:35:18: Setting Driver: ChromeDriver: chrome on MAC (e8a6e855eb94f977144020037fe5b2a6)
+2021/05/20 10:35:18: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:35:19: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:35:19: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:35:19: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:35:19: Clicking on the element: [[ChromeDriver: chrome on MAC (e8a6e855eb94f977144020037fe5b2a6)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:35:22: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:35:47: Setting Driver: ChromeDriver: chrome on MAC (38be2b3ebc2efbd65aa7f85bb770b9f5)
+2021/05/20 10:35:47: Opening: https://picsartstage2.com/
+2021/05/20 10:35:49: Setting Driver: ChromeDriver: chrome on MAC (38be2b3ebc2efbd65aa7f85bb770b9f5)
+2021/05/20 10:35:59: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:35:59: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:35:59: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:35:59: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:35:59: Clicking on the element: [[ChromeDriver: chrome on MAC (38be2b3ebc2efbd65aa7f85bb770b9f5)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:36:03: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:36:03: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:36:03: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:36:03: Clicking on the element: [[ChromeDriver: chrome on MAC (38be2b3ebc2efbd65aa7f85bb770b9f5)] -> css selector: .grid-cards .card]
+2021/05/20 10:36:06: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:36:06: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:36:06: Clicking on the element: [[ChromeDriver: chrome on MAC (38be2b3ebc2efbd65aa7f85bb770b9f5)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 10:36:06: Checking is the element by locator displayed: By.id: qrcode
+2021/05/20 10:36:06: Finding the element: By.id: qrcode
+2021/05/20 10:40:19: Setting Driver: ChromeDriver: chrome on MAC (170b4ea407d1d41b308ea6f43876a49d)
+2021/05/20 10:40:19: Opening: https://picsartstage2.com/
+2021/05/20 10:40:21: Waiting for the element by locator to appear: By.className: pa-uiLib-headerProfileInfo-avatarBlock
+2021/05/20 10:40:27: Setting Driver: ChromeDriver: chrome on MAC (170b4ea407d1d41b308ea6f43876a49d)
+2021/05/20 10:40:27: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:40:28: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:40:28: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:40:28: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:40:28: Clicking on the element: [[ChromeDriver: chrome on MAC (170b4ea407d1d41b308ea6f43876a49d)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:40:31: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:40:54: Setting Driver: ChromeDriver: chrome on MAC (dbafcdcbd42051c3fcb09ff61029aa3d)
+2021/05/20 10:40:54: Opening: https://picsartstage2.com/
+2021/05/20 10:40:56: Waiting for the element by locator to appear: By.className: pa-uiLib-headerProfileInfo-avatarBlock
+2021/05/20 10:41:02: Setting Driver: ChromeDriver: chrome on MAC (dbafcdcbd42051c3fcb09ff61029aa3d)
+2021/05/20 10:41:02: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:41:02: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:41:02: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:41:02: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:41:02: Clicking on the element: [[ChromeDriver: chrome on MAC (dbafcdcbd42051c3fcb09ff61029aa3d)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:41:06: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:41:06: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:41:06: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:41:06: Clicking on the element: [[ChromeDriver: chrome on MAC (dbafcdcbd42051c3fcb09ff61029aa3d)] -> css selector: .grid-cards .card]
+2021/05/20 10:41:09: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:41:09: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:41:09: Clicking on the element: [[ChromeDriver: chrome on MAC (dbafcdcbd42051c3fcb09ff61029aa3d)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 10:41:09: Checking is the element by locator displayed: By.id: qrcode
+2021/05/20 10:41:09: Finding the element: By.id: qrcode
+2021/05/20 10:43:40: Setting Driver: ChromeDriver: chrome on MAC (d1d182d7e4efb8d0ce3b401dea236e07)
+2021/05/20 10:43:40: Opening: https://picsartstage2.com/
+2021/05/20 10:43:42: Waiting for the element by locator to appear: By.className: pa-uiLib-headerProfileInfo-avatarBlock
+2021/05/20 10:43:48: Setting Driver: ChromeDriver: chrome on MAC (d1d182d7e4efb8d0ce3b401dea236e07)
+2021/05/20 10:43:48: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:43:48: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:43:48: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:43:49: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:43:49: Clicking on the element: [[ChromeDriver: chrome on MAC (d1d182d7e4efb8d0ce3b401dea236e07)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:43:52: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:43:52: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:43:52: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:43:52: Clicking on the element: [[ChromeDriver: chrome on MAC (d1d182d7e4efb8d0ce3b401dea236e07)] -> css selector: .grid-cards .card]
+2021/05/20 10:43:56: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:43:56: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:43:56: Clicking on the element: [[ChromeDriver: chrome on MAC (d1d182d7e4efb8d0ce3b401dea236e07)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 10:43:57: Checking is the element by locator displayed: By.id: qrcode
+2021/05/20 10:43:57: Finding the element: By.id: qrcode
+2021/05/20 10:47:26: Setting Driver: ChromeDriver: chrome on MAC (b2fea8f9c03caafb051af4a5d62eff9d)
+2021/05/20 10:47:26: Opening: https://picsartstage2.com/
+2021/05/20 10:47:29: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/20 10:47:35: Setting Driver: ChromeDriver: chrome on MAC (b2fea8f9c03caafb051af4a5d62eff9d)
+2021/05/20 10:47:35: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:47:35: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/20 10:47:35: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:47:35: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/20 10:47:35: Clicking on the element: [[ChromeDriver: chrome on MAC (b2fea8f9c03caafb051af4a5d62eff9d)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/20 10:47:39: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/20 10:47:39: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:47:39: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/20 10:47:39: Clicking on the element: [[ChromeDriver: chrome on MAC (b2fea8f9c03caafb051af4a5d62eff9d)] -> css selector: .grid-cards .card]
+2021/05/20 10:47:43: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:47:44: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 10:47:44: Clicking on the element: [[ChromeDriver: chrome on MAC (b2fea8f9c03caafb051af4a5d62eff9d)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 10:47:44: Checking is the element by locator displayed: By.id: qrcode
+2021/05/20 10:47:44: Finding the element: By.id: qrcode
