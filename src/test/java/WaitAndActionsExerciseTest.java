@@ -22,11 +22,8 @@ public class WaitAndActionsExerciseTest {
         desmosPage.typeFormulaAndChangePositionOfGraph("y=cos(x)");
     }
 
-
-
     @AfterMethod
     public void exit() {
 //        getWebDriver().quit();
     }
-
 }

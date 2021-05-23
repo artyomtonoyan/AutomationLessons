@@ -9,7 +9,7 @@ public class DesmosPageForWaitAndActionsExercise extends BasePage {
     private final By graphingCalculatorButtonLocation = By.cssSelector("[href='/calculator'].dcg-shared-btn-blue");
     private final By secondExpressionField = By.className("dcg-new-expression-fade");
     private final By rightNavbarLocation = By.className("align-right-container");
-    private final By textArea = By.cssSelector("textarea[aria-label='Expression 1:']");
+    private final By firstExpressionTextArea = By.cssSelector("textarea[aria-label='Expression 1:']");
     private final By graphingArea = By.className("dcg-graph-outer");
 
     public DesmosPageForWaitAndActionsExercise() {
@@ -45,7 +45,7 @@ public class DesmosPageForWaitAndActionsExercise extends BasePage {
     }
 
     public void typeFormulaAndChangePositionOfGraph(String formula) {
-        type(textArea, formula);
+        type(firstExpressionTextArea, formula);
         Actions actions = new Actions(driver);
         actions.moveToElement(find(graphingArea))
                 .pause(Duration.ofSeconds(1))
@@ -60,6 +60,6 @@ public class DesmosPageForWaitAndActionsExercise extends BasePage {
 
     @Override
     public String getURL() {
-        return BASE_URL_DESMOS;
+        return "https://www.desmos.com/";
     }
 }

@@ -2,16 +2,26 @@ import org.testng.annotations.Test;
 
 import static org.testng.Assert.assertTrue;
 
-public class ChallengeTest extends BaseTest {
+public class ChallengeTest extends BaseTestWithoutLogin {
 
     @Test
-    public void challengesOpen(){
+    public void challengesOpenLongWayTest() {
+        HomePage homePage = new HomePage();
+        homePage.hoverOnDiscoverMenuAndClickOnChallengesFromIt();
+        ChallengePage challengePage = new ChallengePage();
         ChallengesPage challengesPage = new ChallengesPage();
-        // We can just open https://picsart.com/challenges page by constructor without opening dropdown menu
-        // Also we can click on Challenges in footer without opening dropdown menu
-        challengesPage.hoverOnDiscoverMenuAndClickOnChallenges();
         challengesPage.clickOnRandomActiveChallenge();
-        challengesPage.clickOnParticipateButton();
-        assertTrue(challengesPage.isQrCodeDisplayed(), "QR code isn't displayed");
+        challengePage.clickOnParticipateButton();
+        GetFreeAppDialog getFreeAppDialog = new GetFreeAppDialog();
+        assertTrue(getFreeAppDialog.isQrCodeVisible(), "QR code isn't visible");
     }
+
+    @Test
+    public void qrTest() {
+        ChallengePage challengePageWithID = new ChallengePage("ircbadmintonbirdie");
+        challengePageWithID.clickOnParticipateButton();
+        GetFreeAppDialog getFreeAppDialog = new GetFreeAppDialog();
+        assertTrue(getFreeAppDialog.isQrCodeVisible(), "QR is not visible");
+    }
+
 }

@@ -1043,3 +1043,904 @@ Time: Action: Data
 2021/05/20 10:47:44: Clicking on the element: [[ChromeDriver: chrome on MAC (b2fea8f9c03caafb051af4a5d62eff9d)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
 2021/05/20 10:47:44: Checking is the element by locator displayed: By.id: qrcode
 2021/05/20 10:47:44: Finding the element: By.id: qrcode
+2021/05/20 19:29:05: Setting Driver: ChromeDriver: chrome on MAC (896b35c91e636a101dc03bffebd1ca16)
+2021/05/20 19:29:05: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:29:09: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:29:09: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:29:09: Setting Driver: ChromeDriver: chrome on MAC (896b35c91e636a101dc03bffebd1ca16)
+2021/05/20 19:29:09: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/20 19:29:09: Finding the element: By.cssSelector: .qrcode
+2021/05/20 19:29:42: Setting Driver: ChromeDriver: chrome on MAC (1034659303b8aa05059fb44800ac9653)
+2021/05/20 19:29:42: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:29:46: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:29:46: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:29:46: Setting Driver: ChromeDriver: chrome on MAC (1034659303b8aa05059fb44800ac9653)
+2021/05/20 19:29:46: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/20 19:29:46: Finding the element: By.cssSelector: .qrcode
+2021/05/20 19:30:10: Setting Driver: ChromeDriver: chrome on MAC (30049ca1b04394297fd340dfa2c9b132)
+2021/05/20 19:30:10: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:30:16: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:30:16: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:30:16: Clicking on the element: [[ChromeDriver: chrome on MAC (30049ca1b04394297fd340dfa2c9b132)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 19:30:16: Setting Driver: ChromeDriver: chrome on MAC (30049ca1b04394297fd340dfa2c9b132)
+2021/05/20 19:30:16: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/20 19:30:16: Finding the element: By.cssSelector: .qrcode
+2021/05/20 19:35:51: Setting Driver: ChromeDriver: chrome on MAC (058e8da170e045ad91a77115ba914f7e)
+2021/05/20 19:35:51: Opening: https://picsartstage2.com/
+2021/05/20 19:35:53: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/20 19:36:00: Setting Driver: ChromeDriver: chrome on MAC (058e8da170e045ad91a77115ba914f7e)
+2021/05/20 19:36:00: Opening: https://picsartstage2.com/create
+2021/05/20 19:36:01: Waiting for the element by locator to appear: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/20 19:44:25: Setting Driver: ChromeDriver: chrome on MAC (11c16cd0a3b9e1896b961825f680061e)
+2021/05/20 19:44:25: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:44:31: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:44:31: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:44:32: Clicking on the element: [[ChromeDriver: chrome on MAC (11c16cd0a3b9e1896b961825f680061e)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 19:44:32: Setting Driver: ChromeDriver: chrome on MAC (11c16cd0a3b9e1896b961825f680061e)
+2021/05/20 19:44:32: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/20 19:44:32: Finding the element: By.cssSelector: .qrcode
+2021/05/20 19:45:41: Setting Driver: ChromeDriver: chrome on MAC (039d068c7641a85de6eee34a7b88d4c9)
+2021/05/20 19:45:41: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:45:46: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:46:03: Setting Driver: ChromeDriver: chrome on MAC (ab1a89b60a85ec716acdfacbdd449a36)
+2021/05/20 19:46:03: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:46:08: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:46:08: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:46:08: Clicking on the element: [[ChromeDriver: chrome on MAC (ab1a89b60a85ec716acdfacbdd449a36)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 19:46:09: Setting Driver: ChromeDriver: chrome on MAC (ab1a89b60a85ec716acdfacbdd449a36)
+2021/05/20 19:46:09: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/20 19:46:09: Finding the element: By.cssSelector: .qrcode
+2021/05/20 19:48:41: Setting Driver: ChromeDriver: chrome on MAC (b039d689262cf9de09da8d8036b1bca4)
+2021/05/20 19:48:41: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:49:03: Setting Driver: ChromeDriver: chrome on MAC (5ae64126b3193dfe7c576815f1c337ad)
+2021/05/20 19:49:03: Opening: https://picsartstage2.com/challenge/srcglitterpaintstroke
+2021/05/20 19:49:10: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:49:10: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/20 19:49:10: Clicking on the element: [[ChromeDriver: chrome on MAC (5ae64126b3193dfe7c576815f1c337ad)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/20 19:49:10: Setting Driver: ChromeDriver: chrome on MAC (5ae64126b3193dfe7c576815f1c337ad)
+2021/05/20 19:49:10: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/20 19:49:10: Finding the element: By.cssSelector: .qrcode
+2021/05/23 15:43:59: Setting Driver: ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)
+2021/05/23 15:43:59: Setting Driver: ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)
+2021/05/23 15:43:59: Opening: https://picsartstage2.com/challenges
+2021/05/23 15:44:17: Setting Driver: ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)
+2021/05/23 15:44:17: Setting Driver: ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)
+2021/05/23 15:44:17: Setting Driver: ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)
+2021/05/23 15:44:17: Setting Driver: ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)
+2021/05/23 15:44:17: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 15:44:22: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:44:22: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:44:22: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:44:22: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:44:22: Clicking on the element: [[ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 15:44:22: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 15:44:22: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 15:44:22: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 15:44:22: Clicking on the element: [[ChromeDriver: chrome on MAC (6818de70ef1ad45ad1a6edfcd9c2a9d4)] -> css selector: .grid-cards .card]
+2021/05/23 15:44:26: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 15:45:57: Setting Driver: ChromeDriver: chrome on MAC (d23aba2eebce4d91221cfb64da9e2877)
+2021/05/23 15:45:57: Setting Driver: ChromeDriver: chrome on MAC (d23aba2eebce4d91221cfb64da9e2877)
+2021/05/23 15:45:57: Setting Driver: ChromeDriver: chrome on MAC (d23aba2eebce4d91221cfb64da9e2877)
+2021/05/23 15:45:57: Setting Driver: ChromeDriver: chrome on MAC (d23aba2eebce4d91221cfb64da9e2877)
+2021/05/23 15:45:57: Setting Driver: ChromeDriver: chrome on MAC (d23aba2eebce4d91221cfb64da9e2877)
+2021/05/23 15:45:57: Setting Driver: ChromeDriver: chrome on MAC (d23aba2eebce4d91221cfb64da9e2877)
+2021/05/23 15:46:16: Setting Driver: ChromeDriver: chrome on MAC (87cfb8d18bf67503f6db5784604b55e3)
+2021/05/23 15:46:16: Setting Driver: ChromeDriver: chrome on MAC (87cfb8d18bf67503f6db5784604b55e3)
+2021/05/23 15:46:16: Setting Driver: ChromeDriver: chrome on MAC (87cfb8d18bf67503f6db5784604b55e3)
+2021/05/23 15:46:16: Setting Driver: ChromeDriver: chrome on MAC (87cfb8d18bf67503f6db5784604b55e3)
+2021/05/23 15:46:16: Setting Driver: ChromeDriver: chrome on MAC (87cfb8d18bf67503f6db5784604b55e3)
+2021/05/23 15:46:16: Setting Driver: ChromeDriver: chrome on MAC (87cfb8d18bf67503f6db5784604b55e3)
+2021/05/23 15:47:03: Setting Driver: ChromeDriver: chrome on MAC (199c4d326388721d7ab88b4ae0a6957d)
+2021/05/23 15:47:03: Setting Driver: ChromeDriver: chrome on MAC (199c4d326388721d7ab88b4ae0a6957d)
+2021/05/23 15:47:03: Setting Driver: ChromeDriver: chrome on MAC (199c4d326388721d7ab88b4ae0a6957d)
+2021/05/23 15:47:03: Setting Driver: ChromeDriver: chrome on MAC (199c4d326388721d7ab88b4ae0a6957d)
+2021/05/23 15:47:03: Setting Driver: ChromeDriver: chrome on MAC (199c4d326388721d7ab88b4ae0a6957d)
+2021/05/23 15:47:03: Setting Driver: ChromeDriver: chrome on MAC (199c4d326388721d7ab88b4ae0a6957d)
+2021/05/23 15:48:12: Setting Driver: ChromeDriver: chrome on MAC (e2b4b7e15ad721f21fd6987afae2aaaa)
+2021/05/23 15:48:12: Setting Driver: ChromeDriver: chrome on MAC (e2b4b7e15ad721f21fd6987afae2aaaa)
+2021/05/23 15:48:12: Opening: https://picsartstage2.com/challenges
+2021/05/23 15:48:17: Setting Driver: ChromeDriver: chrome on MAC (e2b4b7e15ad721f21fd6987afae2aaaa)
+2021/05/23 15:48:17: Setting Driver: ChromeDriver: chrome on MAC (e2b4b7e15ad721f21fd6987afae2aaaa)
+2021/05/23 15:48:17: Setting Driver: ChromeDriver: chrome on MAC (e2b4b7e15ad721f21fd6987afae2aaaa)
+2021/05/23 15:48:17: Setting Driver: ChromeDriver: chrome on MAC (e2b4b7e15ad721f21fd6987afae2aaaa)
+2021/05/23 15:48:54: Setting Driver: ChromeDriver: chrome on MAC (84ccb0c689e578872cc9a0c38f944bb9)
+2021/05/23 15:48:54: Setting Driver: ChromeDriver: chrome on MAC (84ccb0c689e578872cc9a0c38f944bb9)
+2021/05/23 15:48:54: Setting Driver: ChromeDriver: chrome on MAC (84ccb0c689e578872cc9a0c38f944bb9)
+2021/05/23 15:48:54: Setting Driver: ChromeDriver: chrome on MAC (84ccb0c689e578872cc9a0c38f944bb9)
+2021/05/23 15:48:54: Opening: https://picsartstage2.com/
+2021/05/23 15:48:57: Setting Driver: ChromeDriver: chrome on MAC (84ccb0c689e578872cc9a0c38f944bb9)
+2021/05/23 15:48:57: Setting Driver: ChromeDriver: chrome on MAC (84ccb0c689e578872cc9a0c38f944bb9)
+2021/05/23 15:49:18: Setting Driver: ChromeDriver: chrome on MAC (c02a2b23c37e3960d3e3ff56107b4212)
+2021/05/23 15:49:18: Setting Driver: ChromeDriver: chrome on MAC (c02a2b23c37e3960d3e3ff56107b4212)
+2021/05/23 15:49:18: Setting Driver: ChromeDriver: chrome on MAC (c02a2b23c37e3960d3e3ff56107b4212)
+2021/05/23 15:49:18: Setting Driver: ChromeDriver: chrome on MAC (c02a2b23c37e3960d3e3ff56107b4212)
+2021/05/23 15:49:18: Opening: https://picsartstage2.com/
+2021/05/23 15:49:21: Setting Driver: ChromeDriver: chrome on MAC (c02a2b23c37e3960d3e3ff56107b4212)
+2021/05/23 15:49:21: Setting Driver: ChromeDriver: chrome on MAC (c02a2b23c37e3960d3e3ff56107b4212)
+2021/05/23 15:49:32: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 15:49:41: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:49:41: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:49:41: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:50:37: Setting Driver: ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)
+2021/05/23 15:50:37: Setting Driver: ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)
+2021/05/23 15:50:37: Setting Driver: ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)
+2021/05/23 15:50:37: Setting Driver: ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)
+2021/05/23 15:50:37: Opening: https://picsartstage2.com/
+2021/05/23 15:50:41: Setting Driver: ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)
+2021/05/23 15:50:41: Setting Driver: ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)
+2021/05/23 15:50:41: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 15:50:59: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:51:00: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:51:00: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:51:00: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:51:00: Clicking on the element: [[ChromeDriver: chrome on MAC (686a0d45ad071533b042b3674b311263)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 15:51:51: Setting Driver: ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)
+2021/05/23 15:51:51: Setting Driver: ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)
+2021/05/23 15:51:51: Setting Driver: ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)
+2021/05/23 15:51:51: Setting Driver: ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)
+2021/05/23 15:51:51: Opening: https://picsartstage2.com/
+2021/05/23 15:51:55: Setting Driver: ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)
+2021/05/23 15:51:55: Setting Driver: ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)
+2021/05/23 15:51:55: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 15:52:13: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:52:13: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:52:13: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:52:13: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:52:13: Clicking on the element: [[ChromeDriver: chrome on MAC (6d0f6b7aa02f90bce9434ae60d644f46)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 15:52:37: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 15:52:37: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 15:52:37: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 15:54:25: Setting Driver: ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)
+2021/05/23 15:54:25: Setting Driver: ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)
+2021/05/23 15:54:25: Setting Driver: ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)
+2021/05/23 15:54:25: Setting Driver: ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)
+2021/05/23 15:54:25: Opening: https://picsartstage2.com/
+2021/05/23 15:54:28: Setting Driver: ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)
+2021/05/23 15:54:28: Setting Driver: ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)
+2021/05/23 15:54:28: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 15:54:47: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:54:47: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 15:54:47: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:54:47: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 15:54:47: Clicking on the element: [[ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 15:55:06: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 15:55:06: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 15:55:06: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 15:55:06: Clicking on the element: [[ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)] -> css selector: .grid-cards .card]
+2021/05/23 15:55:43: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 15:55:43: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 15:55:43: Clicking on the element: [[ChromeDriver: chrome on MAC (9cd088a4171c69b3a6e4fb842ea1b8d8)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 15:55:43: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 15:55:43: Finding the element: By.cssSelector: .qrcode
+2021/05/23 16:00:20: Setting Driver: ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)
+2021/05/23 16:00:20: Setting Driver: ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)
+2021/05/23 16:00:20: Setting Driver: ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)
+2021/05/23 16:00:20: Setting Driver: ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)
+2021/05/23 16:00:20: Opening: https://picsartstage2.com/
+2021/05/23 16:00:23: Setting Driver: ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)
+2021/05/23 16:00:23: Setting Driver: ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)
+2021/05/23 16:00:25: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:00:42: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 16:00:42: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 16:00:42: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 16:00:42: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 16:00:42: Clicking on the element: [[ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 16:01:07: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 16:01:07: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 16:01:07: Clicking on the element: [[ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)] -> css selector: .grid-cards .card]
+2021/05/23 16:01:18: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:01:18: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:01:18: Clicking on the element: [[ChromeDriver: chrome on MAC (f5e64c8735ee56e597cd94304fe45bc6)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 16:01:19: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 16:01:19: Finding the element: By.cssSelector: .qrcode
+2021/05/23 16:03:07: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:07: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:07: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:07: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:07: Opening: https://picsartstage2.com/
+2021/05/23 16:03:10: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:10: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:11: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:03:28: Setting Driver: ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)
+2021/05/23 16:03:28: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 16:03:51: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:03:51: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:03:51: Clicking on the element: [[ChromeDriver: chrome on MAC (25fc91706cefc83f20c947dcf39691e3)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 16:03:51: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 16:03:51: Finding the element: By.cssSelector: .qrcode
+2021/05/23 16:04:04: Setting Driver: ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)
+2021/05/23 16:04:04: Setting Driver: ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)
+2021/05/23 16:04:04: Setting Driver: ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)
+2021/05/23 16:04:04: Setting Driver: ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)
+2021/05/23 16:04:04: Opening: https://picsartstage2.com/
+2021/05/23 16:04:07: Setting Driver: ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)
+2021/05/23 16:04:07: Setting Driver: ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)
+2021/05/23 16:04:08: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:04:27: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 16:04:27: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 16:04:27: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (63aeb7b4f9ecd4c234972ef67df84abe)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 16:06:00: Setting Driver: ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)
+2021/05/23 16:06:00: Setting Driver: ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)
+2021/05/23 16:06:00: Setting Driver: ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)
+2021/05/23 16:06:00: Setting Driver: ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)
+2021/05/23 16:06:00: Opening: https://picsartstage2.com/
+2021/05/23 16:06:03: Setting Driver: ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)
+2021/05/23 16:06:03: Setting Driver: ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)
+2021/05/23 16:06:03: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:06:20: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 16:06:20: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 16:06:20: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (3419869c6bde71bb05c3c6faeb3eb07e)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 16:06:50: Setting Driver: ChromeDriver: chrome on MAC (e79523fbcc219c745f47cb7ae25b1b3d)
+2021/05/23 16:06:50: Setting Driver: ChromeDriver: chrome on MAC (e79523fbcc219c745f47cb7ae25b1b3d)
+2021/05/23 16:06:50: Setting Driver: ChromeDriver: chrome on MAC (e79523fbcc219c745f47cb7ae25b1b3d)
+2021/05/23 16:06:50: Setting Driver: ChromeDriver: chrome on MAC (e79523fbcc219c745f47cb7ae25b1b3d)
+2021/05/23 16:06:50: Opening: https://picsartstage2.com/
+2021/05/23 16:06:54: Setting Driver: ChromeDriver: chrome on MAC (e79523fbcc219c745f47cb7ae25b1b3d)
+2021/05/23 16:06:54: Setting Driver: ChromeDriver: chrome on MAC (e79523fbcc219c745f47cb7ae25b1b3d)
+2021/05/23 16:06:55: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:07:12: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:07:13: Finding the element: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:07:13: Switching to tab by the index of: 1
+2021/05/23 16:08:36: Setting Driver: ChromeDriver: chrome on MAC (c6b9036a80f4a150e6d131f28ec8f2a4)
+2021/05/23 16:08:36: Setting Driver: ChromeDriver: chrome on MAC (c6b9036a80f4a150e6d131f28ec8f2a4)
+2021/05/23 16:08:36: Setting Driver: ChromeDriver: chrome on MAC (c6b9036a80f4a150e6d131f28ec8f2a4)
+2021/05/23 16:08:36: Setting Driver: ChromeDriver: chrome on MAC (c6b9036a80f4a150e6d131f28ec8f2a4)
+2021/05/23 16:08:36: Opening: https://picsartstage2.com/
+2021/05/23 16:08:40: Setting Driver: ChromeDriver: chrome on MAC (c6b9036a80f4a150e6d131f28ec8f2a4)
+2021/05/23 16:08:40: Setting Driver: ChromeDriver: chrome on MAC (c6b9036a80f4a150e6d131f28ec8f2a4)
+2021/05/23 16:08:41: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:08:59: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:08:59: Finding the element: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:08:59: Switching to tab by the index of: 1
+2021/05/23 16:12:26: Setting Driver: ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)
+2021/05/23 16:12:26: Setting Driver: ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)
+2021/05/23 16:12:26: Setting Driver: ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)
+2021/05/23 16:12:26: Setting Driver: ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)
+2021/05/23 16:12:26: Opening: https://picsartstage2.com/
+2021/05/23 16:12:29: Setting Driver: ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)
+2021/05/23 16:12:29: Setting Driver: ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)
+2021/05/23 16:12:39: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:12:46: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:12:46: Finding the element: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:12:46: Switching to tab by the index of: 1
+2021/05/23 16:12:46: Waiting for the element by locator to appear: By.id: background-category
+2021/05/23 16:12:58: Finding the element: By.id: background-category
+2021/05/23 16:12:58: Clicking on the element: [[ChromeDriver: chrome on MAC (0b2f77dece809a30f574df4d561481b8)] -> id: background-category]
+2021/05/23 16:12:58: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/05/23 16:14:20: Setting Driver: ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)
+2021/05/23 16:14:20: Setting Driver: ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)
+2021/05/23 16:14:20: Setting Driver: ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)
+2021/05/23 16:14:20: Setting Driver: ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)
+2021/05/23 16:14:20: Opening: https://picsartstage2.com/
+2021/05/23 16:14:24: Setting Driver: ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)
+2021/05/23 16:14:24: Setting Driver: ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)
+2021/05/23 16:14:25: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:14:36: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:14:36: Finding the element: By.cssSelector: [data-test='insta-story']
+2021/05/23 16:14:36: Switching to tab by the index of: 1
+2021/05/23 16:14:36: Waiting for the element by locator to appear: By.id: background-category
+2021/05/23 16:14:56: Finding the element: By.id: background-category
+2021/05/23 16:14:56: Clicking on the element: [[ChromeDriver: chrome on MAC (108fbbe342f322e9c455d08ac65f0f6d)] -> id: background-category]
+2021/05/23 16:14:56: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/05/23 16:15:01: Finding all elements: By.cssSelector: [class*='customSizeContainer']
+2021/05/23 16:15:11: Setting Driver: ChromeDriver: chrome on MAC (d58501dadb2599fad80804bc7fac5c2e)
+2021/05/23 16:15:11: Setting Driver: ChromeDriver: chrome on MAC (d58501dadb2599fad80804bc7fac5c2e)
+2021/05/23 16:15:11: Setting Driver: ChromeDriver: chrome on MAC (d58501dadb2599fad80804bc7fac5c2e)
+2021/05/23 16:15:11: Setting Driver: ChromeDriver: chrome on MAC (d58501dadb2599fad80804bc7fac5c2e)
+2021/05/23 16:15:11: Opening: https://picsartstage2.com/
+2021/05/23 16:15:15: Setting Driver: ChromeDriver: chrome on MAC (d58501dadb2599fad80804bc7fac5c2e)
+2021/05/23 16:15:15: Setting Driver: ChromeDriver: chrome on MAC (d58501dadb2599fad80804bc7fac5c2e)
+2021/05/23 16:15:15: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:15:38: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:17:38: Setting Driver: ChromeDriver: chrome on MAC (511066921f58d05214528639d42f44bc)
+2021/05/23 16:17:38: Opening: https://picsartstage2.com/create
+2021/05/23 16:18:03: Setting Driver: ChromeDriver: chrome on MAC (511066921f58d05214528639d42f44bc)
+2021/05/23 16:18:03: Setting Driver: ChromeDriver: chrome on MAC (511066921f58d05214528639d42f44bc)
+2021/05/23 16:18:03: Setting Driver: ChromeDriver: chrome on MAC (511066921f58d05214528639d42f44bc)
+2021/05/23 16:18:03: Opening: https://picsartstage2.com/
+2021/05/23 16:18:05: Setting Driver: ChromeDriver: chrome on MAC (511066921f58d05214528639d42f44bc)
+2021/05/23 16:18:05: Setting Driver: ChromeDriver: chrome on MAC (511066921f58d05214528639d42f44bc)
+2021/05/23 16:18:05: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 16:18:56: Setting Driver: ChromeDriver: chrome on MAC (1558ef40e9ce9b0c8d01994a2e0930bd)
+2021/05/23 16:18:56: Opening: https://picsartstage2.com/create
+2021/05/23 16:19:35: Setting Driver: ChromeDriver: chrome on MAC (1558ef40e9ce9b0c8d01994a2e0930bd)
+2021/05/23 16:19:35: Setting Driver: ChromeDriver: chrome on MAC (1558ef40e9ce9b0c8d01994a2e0930bd)
+2021/05/23 16:19:35: Setting Driver: ChromeDriver: chrome on MAC (1558ef40e9ce9b0c8d01994a2e0930bd)
+2021/05/23 16:19:35: Opening: https://picsartstage2.com/
+2021/05/23 16:19:39: Setting Driver: ChromeDriver: chrome on MAC (1558ef40e9ce9b0c8d01994a2e0930bd)
+2021/05/23 16:19:39: Setting Driver: ChromeDriver: chrome on MAC (1558ef40e9ce9b0c8d01994a2e0930bd)
+2021/05/23 16:19:39: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 16:20:16: Setting Driver: ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)
+2021/05/23 16:20:16: Opening: https://picsartstage2.com/create
+2021/05/23 16:20:39: Setting Driver: ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)
+2021/05/23 16:20:39: Setting Driver: ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)
+2021/05/23 16:20:39: Setting Driver: ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)
+2021/05/23 16:20:39: Opening: https://picsartstage2.com/
+2021/05/23 16:20:42: Setting Driver: ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)
+2021/05/23 16:20:42: Setting Driver: ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)
+2021/05/23 16:20:42: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 16:20:47: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 16:20:47: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 16:20:47: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (82f3d86e09820637a2e6c591bfb50fd5)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 16:42:23: Setting Driver: ChromeDriver: chrome on MAC (83c3646268265e9e2dfcba5c60455164)
+2021/05/23 16:42:23: Opening: https://picsartstage2.com/create
+2021/05/23 16:42:28: Setting Driver: ChromeDriver: chrome on MAC (83c3646268265e9e2dfcba5c60455164)
+2021/05/23 16:42:28: Setting Driver: ChromeDriver: chrome on MAC (83c3646268265e9e2dfcba5c60455164)
+2021/05/23 16:42:28: Setting Driver: ChromeDriver: chrome on MAC (83c3646268265e9e2dfcba5c60455164)
+2021/05/23 16:42:28: Opening: https://picsartstage2.com/
+2021/05/23 16:42:46: Setting Driver: ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)
+2021/05/23 16:42:46: Opening: https://picsartstage2.com/create
+2021/05/23 16:43:09: Setting Driver: ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)
+2021/05/23 16:43:09: Setting Driver: ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)
+2021/05/23 16:43:09: Setting Driver: ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)
+2021/05/23 16:43:09: Opening: https://picsartstage2.com/
+2021/05/23 16:43:11: Setting Driver: ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)
+2021/05/23 16:43:11: Setting Driver: ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)
+2021/05/23 16:43:11: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 16:43:14: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 16:43:14: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 16:43:14: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 16:43:14: Clicking on the element: [[ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 16:43:38: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 16:43:38: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 16:43:38: Clicking on the element: [[ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)] -> css selector: .grid-cards .card]
+2021/05/23 16:43:48: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:43:49: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:43:49: Clicking on the element: [[ChromeDriver: chrome on MAC (4f7ee594ecd4141ba84d38c563350d22)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 16:43:49: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 16:43:49: Finding the element: By.cssSelector: .qrcode
+2021/05/23 16:44:49: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:44:49: Opening: https://picsartstage2.com/create
+2021/05/23 16:45:05: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:45:05: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:45:05: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:45:05: Opening: https://picsartstage2.com/
+2021/05/23 16:45:07: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:45:07: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:45:08: Setting Driver: ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)
+2021/05/23 16:45:08: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 16:45:30: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:45:30: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:45:30: Clicking on the element: [[ChromeDriver: chrome on MAC (d55358f9e16c2f4c1c2eee2015be5626)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 16:45:30: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 16:45:30: Finding the element: By.cssSelector: .qrcode
+2021/05/23 16:45:38: Setting Driver: ChromeDriver: chrome on MAC (3e5e04cc0291ed7003764488e82d79a0)
+2021/05/23 16:45:38: Opening: https://picsartstage2.com/create
+2021/05/23 16:45:50: Setting Driver: ChromeDriver: chrome on MAC (3e5e04cc0291ed7003764488e82d79a0)
+2021/05/23 16:45:50: Setting Driver: ChromeDriver: chrome on MAC (3e5e04cc0291ed7003764488e82d79a0)
+2021/05/23 16:45:50: Setting Driver: ChromeDriver: chrome on MAC (3e5e04cc0291ed7003764488e82d79a0)
+2021/05/23 16:45:50: Opening: https://picsartstage2.com/
+2021/05/23 16:45:56: Setting Driver: ChromeDriver: chrome on MAC (87279797d679b54cf4881e611f5909fd)
+2021/05/23 16:45:56: Opening: https://picsartstage2.com/create
+2021/05/23 16:46:08: Setting Driver: ChromeDriver: chrome on MAC (87279797d679b54cf4881e611f5909fd)
+2021/05/23 16:46:08: Setting Driver: ChromeDriver: chrome on MAC (87279797d679b54cf4881e611f5909fd)
+2021/05/23 16:46:08: Setting Driver: ChromeDriver: chrome on MAC (87279797d679b54cf4881e611f5909fd)
+2021/05/23 16:46:08: Opening: https://picsartstage2.com/
+2021/05/23 16:47:12: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:12: Opening: https://picsartstage2.com/create
+2021/05/23 16:47:31: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:31: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:31: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:31: Opening: https://picsartstage2.com/
+2021/05/23 16:47:33: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:33: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:33: Setting Driver: ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)
+2021/05/23 16:47:33: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 16:47:47: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:47:47: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:47:47: Clicking on the element: [[ChromeDriver: chrome on MAC (62bdf74d5c2f1c4661e6ef20bf491640)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 16:47:47: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 16:47:47: Finding the element: By.cssSelector: .qrcode
+2021/05/23 16:48:26: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:26: Opening: https://picsartstage2.com/create
+2021/05/23 16:48:42: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:42: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:42: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:42: Opening: https://picsartstage2.com/
+2021/05/23 16:48:45: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:45: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:45: Setting Driver: ChromeDriver: chrome on MAC (59d0be01a80b3bce120d014dc48ca590)
+2021/05/23 16:48:45: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 16:48:50: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:50:20: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:20: Opening: https://picsartstage2.com/create
+2021/05/23 16:50:36: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:36: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:36: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:36: Opening: https://picsartstage2.com/
+2021/05/23 16:50:37: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:37: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:38: Setting Driver: ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)
+2021/05/23 16:50:38: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 16:50:56: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:50:56: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 16:50:56: Clicking on the element: [[ChromeDriver: chrome on MAC (3a534c74c29ddba86eec7a1ddd2f8a3d)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 16:50:57: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 16:50:57: Finding the element: By.cssSelector: .qrcode
+2021/05/23 17:09:40: Setting Driver: ChromeDriver: chrome on MAC (573f45d16b4ac3174cbf62a3d26579e0)
+2021/05/23 17:09:40: Opening: https://picsartstage2.com/
+2021/05/23 17:09:50: Setting Driver: ChromeDriver: chrome on MAC (573f45d16b4ac3174cbf62a3d26579e0)
+2021/05/23 17:09:50: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 17:09:59: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:09:59: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:09:59: Clicking on the element: [[ChromeDriver: chrome on MAC (573f45d16b4ac3174cbf62a3d26579e0)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 17:09:59: Setting Driver: ChromeDriver: chrome on MAC (573f45d16b4ac3174cbf62a3d26579e0)
+2021/05/23 17:09:59: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 17:09:59: Finding the element: By.cssSelector: .qrcode
+2021/05/23 17:11:57: Setting Driver: ChromeDriver: chrome on MAC (92c581b0c8a8e3a4f1989e91b5c34651)
+2021/05/23 17:11:57: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 17:12:06: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:13:32: Setting Driver: ChromeDriver: chrome on MAC (4e5acc97a56679cbbac4bce9912700a1)
+2021/05/23 17:13:32: Opening: https://picsartstage2.com/
+2021/05/23 17:13:48: Setting Driver: ChromeDriver: chrome on MAC (3ef49aa5b6901cd69a4a76fc43508cd7)
+2021/05/23 17:13:48: Opening: https://picsartstage2.com/
+2021/05/23 17:13:52: Setting Driver: ChromeDriver: chrome on MAC (3ef49aa5b6901cd69a4a76fc43508cd7)
+2021/05/23 17:13:52: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 17:14:02: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:14:02: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:14:02: Clicking on the element: [[ChromeDriver: chrome on MAC (3ef49aa5b6901cd69a4a76fc43508cd7)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 17:14:02: Setting Driver: ChromeDriver: chrome on MAC (3ef49aa5b6901cd69a4a76fc43508cd7)
+2021/05/23 17:14:02: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 17:14:02: Finding the element: By.cssSelector: .qrcode
+2021/05/23 17:14:38: Setting Driver: ChromeDriver: chrome on MAC (b32cd3b2c943b5a888a471bfc45e75d8)
+2021/05/23 17:14:38: Opening: https://picsartstage2.com/
+2021/05/23 17:14:45: Setting Driver: ChromeDriver: chrome on MAC (b32cd3b2c943b5a888a471bfc45e75d8)
+2021/05/23 17:14:45: Opening: https://picsartstage2.com/
+2021/05/23 17:14:46: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 17:14:46: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 17:14:46: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 17:14:46: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 17:14:46: Clicking on the element: [[ChromeDriver: chrome on MAC (b32cd3b2c943b5a888a471bfc45e75d8)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 17:15:06: Setting Driver: ChromeDriver: chrome on MAC (b32cd3b2c943b5a888a471bfc45e75d8)
+2021/05/23 17:15:06: Setting Driver: ChromeDriver: chrome on MAC (b32cd3b2c943b5a888a471bfc45e75d8)
+2021/05/23 17:15:06: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 17:15:06: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 17:15:06: Clicking on the element: [[ChromeDriver: chrome on MAC (b32cd3b2c943b5a888a471bfc45e75d8)] -> css selector: .grid-cards .card]
+2021/05/23 17:15:34: Setting Driver: ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)
+2021/05/23 17:15:34: Opening: https://picsartstage2.com/
+2021/05/23 17:15:40: Setting Driver: ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)
+2021/05/23 17:15:40: Opening: https://picsartstage2.com/
+2021/05/23 17:15:41: Waiting for the element by locator to appear: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 17:15:41: Finding the element: By.cssSelector: [data-test='headerNavigation-navigationListItem-Discover']
+2021/05/23 17:15:41: Waiting for the element by locator to appear: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 17:15:41: Finding the element: By.cssSelector: [data-test='subNavigation-groupList'] [href='/challenges']
+2021/05/23 17:15:41: Clicking on the element: [[ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/05/23 17:16:00: Setting Driver: ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)
+2021/05/23 17:16:00: Setting Driver: ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)
+2021/05/23 17:16:00: Finding all elements: By.cssSelector: .grid-cards .card
+2021/05/23 17:16:00: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/05/23 17:16:00: Clicking on the element: [[ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)] -> css selector: .grid-cards .card]
+2021/05/23 17:16:10: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:16:10: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 17:16:10: Clicking on the element: [[ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 17:16:10: Setting Driver: ChromeDriver: chrome on MAC (843967c1ea2cfae8f28411ba3fff67a9)
+2021/05/23 17:16:10: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 17:16:10: Finding the element: By.cssSelector: .qrcode
+2021/05/23 17:16:29: Setting Driver: ChromeDriver: chrome on MAC (ea71c8a934877a612b48ccc2020b18d7)
+2021/05/23 17:16:29: Opening: https://picsartstage2.com/
+2021/05/23 17:16:33: Setting Driver: ChromeDriver: chrome on MAC (ea71c8a934877a612b48ccc2020b18d7)
+2021/05/23 17:16:33: Opening: https://picsartstage2.com/create
+2021/05/23 17:16:41: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/05/23 17:16:41: Finding the element: By.cssSelector: [data-test='insta-story']
+2021/05/23 17:16:42: Switching to tab by the index of: 1
+2021/05/23 17:16:42: Setting Driver: ChromeDriver: chrome on MAC (ea71c8a934877a612b48ccc2020b18d7)
+2021/05/23 17:16:42: Waiting for the element by locator to appear: By.id: background-category
+2021/05/23 17:16:54: Finding the element: By.id: background-category
+2021/05/23 17:16:54: Clicking on the element: [[ChromeDriver: chrome on MAC (ea71c8a934877a612b48ccc2020b18d7)] -> id: background-category]
+2021/05/23 17:16:54: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/05/23 17:16:56: Finding all elements: By.cssSelector: [class*='customSizeContainer']
+2021/05/23 17:17:10: Setting Driver: ChromeDriver: chrome on MAC (af6527e6a3f96049d11be4f135713455)
+2021/05/23 17:17:10: Opening: https://picsartstage2.com/
+2021/05/23 17:17:17: Setting Driver: ChromeDriver: chrome on MAC (af6527e6a3f96049d11be4f135713455)
+2021/05/23 17:17:17: Opening: https://picsartstage2.com/create
+2021/05/23 17:17:23: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:17:23: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:17:23: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (af6527e6a3f96049d11be4f135713455)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:18:03: Setting Driver: ChromeDriver: chrome on MAC (cd6c5143d124c7fad20361e4b14c677d)
+2021/05/23 17:18:03: Opening: https://picsartstage2.com/
+2021/05/23 17:18:11: Setting Driver: ChromeDriver: chrome on MAC (cd6c5143d124c7fad20361e4b14c677d)
+2021/05/23 17:18:11: Opening: https://picsartstage2.com/create
+2021/05/23 17:18:22: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 17:20:01: Setting Driver: ChromeDriver: chrome on MAC (053902267fb307b1599f8b28b98616d2)
+2021/05/23 17:20:01: Opening: https://picsartstage2.com/
+2021/05/23 17:20:08: Setting Driver: ChromeDriver: chrome on MAC (053902267fb307b1599f8b28b98616d2)
+2021/05/23 17:20:08: Opening: https://picsartstage2.com/create
+2021/05/23 17:20:29: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/23 17:50:12: Setting Driver: ChromeDriver: chrome on MAC (ff5e6532df87f15592637163486f0bea)
+2021/05/23 17:50:12: Opening: https://picsartstage2.com/
+2021/05/23 17:50:16: Setting Driver: ChromeDriver: chrome on MAC (ff5e6532df87f15592637163486f0bea)
+2021/05/23 17:50:16: Opening: https://picsartstage2.com/create
+2021/05/23 17:50:22: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:50:22: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:50:22: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (ff5e6532df87f15592637163486f0bea)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:51:28: Setting Driver: ChromeDriver: chrome on MAC (6ba1bc032520a13be5163e55a75f2ba6)
+2021/05/23 17:51:28: Opening: https://picsartstage2.com/
+2021/05/23 17:51:34: Setting Driver: ChromeDriver: chrome on MAC (6ba1bc032520a13be5163e55a75f2ba6)
+2021/05/23 17:51:34: Opening: https://picsartstage2.com/create
+2021/05/23 17:51:41: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:51:41: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:51:41: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (6ba1bc032520a13be5163e55a75f2ba6)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:52:48: Setting Driver: ChromeDriver: chrome on MAC (c8a6cb68a65cd361f9d01cce259f407c)
+2021/05/23 17:52:48: Opening: https://picsartstage2.com/
+2021/05/23 17:52:55: Setting Driver: ChromeDriver: chrome on MAC (c8a6cb68a65cd361f9d01cce259f407c)
+2021/05/23 17:52:55: Opening: https://picsartstage2.com/create
+2021/05/23 17:53:02: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:53:02: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:53:02: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (c8a6cb68a65cd361f9d01cce259f407c)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:55:16: Setting Driver: ChromeDriver: chrome on MAC (8f81e9effe3d2cda5298ea21f7251372)
+2021/05/23 17:55:16: Opening: https://picsartstage2.com/
+2021/05/23 17:55:19: Setting Driver: ChromeDriver: chrome on MAC (8f81e9effe3d2cda5298ea21f7251372)
+2021/05/23 17:55:19: Opening: https://picsartstage2.com/create
+2021/05/23 17:55:29: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:55:30: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:55:30: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (8f81e9effe3d2cda5298ea21f7251372)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:56:13: Setting Driver: ChromeDriver: chrome on MAC (2600eb3eeefff065173370ffffcb19ef)
+2021/05/23 17:56:13: Opening: https://picsartstage2.com/
+2021/05/23 17:56:20: Setting Driver: ChromeDriver: chrome on MAC (2600eb3eeefff065173370ffffcb19ef)
+2021/05/23 17:56:20: Opening: https://picsartstage2.com/create
+2021/05/23 17:56:33: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:56:33: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:56:33: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (2600eb3eeefff065173370ffffcb19ef)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:57:18: Setting Driver: ChromeDriver: chrome on MAC (3d896b3a47eaef590d265a681bd5bac9)
+2021/05/23 17:57:18: Opening: https://picsartstage2.com/
+2021/05/23 17:57:25: Setting Driver: ChromeDriver: chrome on MAC (3d896b3a47eaef590d265a681bd5bac9)
+2021/05/23 17:57:25: Opening: https://picsartstage2.com/create
+2021/05/23 17:57:36: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:57:36: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:57:36: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (3d896b3a47eaef590d265a681bd5bac9)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:58:28: Setting Driver: ChromeDriver: chrome on MAC (4fa0491f2421d8e71ef27d7b2ab8d16e)
+2021/05/23 17:58:28: Opening: https://picsartstage2.com/
+2021/05/23 17:58:34: Setting Driver: ChromeDriver: chrome on MAC (4fa0491f2421d8e71ef27d7b2ab8d16e)
+2021/05/23 17:58:34: Opening: https://picsartstage2.com/create
+2021/05/23 17:58:44: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:58:44: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:58:44: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (4fa0491f2421d8e71ef27d7b2ab8d16e)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 17:59:26: Setting Driver: ChromeDriver: chrome on MAC (e0e2efc329d7bc245d93e9ac7a6f1fe9)
+2021/05/23 17:59:26: Opening: https://picsartstage2.com/
+2021/05/23 17:59:30: Setting Driver: ChromeDriver: chrome on MAC (e0e2efc329d7bc245d93e9ac7a6f1fe9)
+2021/05/23 17:59:30: Opening: https://picsartstage2.com/create
+2021/05/23 17:59:47: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 17:59:47: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 17:59:47: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (e0e2efc329d7bc245d93e9ac7a6f1fe9)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:01:00: Setting Driver: ChromeDriver: chrome on MAC (d217910a51ab0889640fb52f3cbdb35b)
+2021/05/23 18:01:00: Opening: https://picsartstage2.com/
+2021/05/23 18:01:06: Setting Driver: ChromeDriver: chrome on MAC (d217910a51ab0889640fb52f3cbdb35b)
+2021/05/23 18:01:06: Opening: https://picsartstage2.com/create
+2021/05/23 18:01:15: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:01:15: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:01:15: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (d217910a51ab0889640fb52f3cbdb35b)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:03:40: Setting Driver: ChromeDriver: chrome on MAC (ce3f88b6ba0a3bce786bc92c9271e896)
+2021/05/23 18:03:40: Opening: https://picsartstage2.com/
+2021/05/23 18:03:44: Setting Driver: ChromeDriver: chrome on MAC (ce3f88b6ba0a3bce786bc92c9271e896)
+2021/05/23 18:03:44: Opening: https://picsartstage2.com/create
+2021/05/23 18:03:50: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:03:50: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:03:50: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (ce3f88b6ba0a3bce786bc92c9271e896)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:05:35: Setting Driver: ChromeDriver: chrome on MAC (21252b4062aeb7ca2faf3de8b7c37dd2)
+2021/05/23 18:05:35: Opening: https://picsartstage2.com/
+2021/05/23 18:05:38: Setting Driver: ChromeDriver: chrome on MAC (21252b4062aeb7ca2faf3de8b7c37dd2)
+2021/05/23 18:05:38: Opening: https://picsartstage2.com/create
+2021/05/23 18:05:46: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:05:46: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:05:46: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (21252b4062aeb7ca2faf3de8b7c37dd2)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:08:36: Setting Driver: ChromeDriver: chrome on MAC (435def693be756cdfdbaf36757e2c586)
+2021/05/23 18:08:36: Opening: https://picsartstage2.com/
+2021/05/23 18:08:40: Setting Driver: ChromeDriver: chrome on MAC (435def693be756cdfdbaf36757e2c586)
+2021/05/23 18:08:40: Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
+2021/05/23 18:08:49: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 18:08:50: Finding the element: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/05/23 18:08:50: Clicking on the element: [[ChromeDriver: chrome on MAC (435def693be756cdfdbaf36757e2c586)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/05/23 18:08:50: Setting Driver: ChromeDriver: chrome on MAC (435def693be756cdfdbaf36757e2c586)
+2021/05/23 18:08:50: Checking is the element by locator displayed: By.cssSelector: .qrcode
+2021/05/23 18:08:50: Finding the element: By.cssSelector: .qrcode
+2021/05/23 18:09:56: Setting Driver: ChromeDriver: chrome on MAC (ae3b4bf05bd5a97061b08c14abbdd46a)
+2021/05/23 18:09:56: Opening: https://picsartstage2.com/
+2021/05/23 18:10:03: Setting Driver: ChromeDriver: chrome on MAC (ae3b4bf05bd5a97061b08c14abbdd46a)
+2021/05/23 18:10:03: Opening: https://picsartstage2.com/create
+2021/05/23 18:10:15: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:10:15: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:10:15: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (ae3b4bf05bd5a97061b08c14abbdd46a)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:15:32: Setting Driver: ChromeDriver: chrome on MAC (59c4a3a7bf5d66b1fa66ff1b6b7752a0)
+2021/05/23 18:15:32: Opening: https://picsartstage2.com/
+2021/05/23 18:15:36: Setting Driver: ChromeDriver: chrome on MAC (59c4a3a7bf5d66b1fa66ff1b6b7752a0)
+2021/05/23 18:15:36: Opening: https://picsartstage2.com/create
+2021/05/23 18:15:42: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:15:43: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:15:43: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (59c4a3a7bf5d66b1fa66ff1b6b7752a0)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:15:43: Setting Driver: ChromeDriver: chrome on MAC (59c4a3a7bf5d66b1fa66ff1b6b7752a0)
+2021/05/23 18:15:43: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:15:53: Finding the element: By.id: download-button
+2021/05/23 18:15:53: Clicking on the element: [[ChromeDriver: chrome on MAC (59c4a3a7bf5d66b1fa66ff1b6b7752a0)] -> id: download-button]
+2021/05/23 18:17:50: Setting Driver: ChromeDriver: chrome on MAC (39b2ac4d96ce541ac548d60481fe81ca)
+2021/05/23 18:17:50: Opening: https://picsartstage2.com/
+2021/05/23 18:17:55: Setting Driver: ChromeDriver: chrome on MAC (39b2ac4d96ce541ac548d60481fe81ca)
+2021/05/23 18:17:55: Opening: https://picsartstage2.com/create
+2021/05/23 18:18:05: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:18:05: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:18:05: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (39b2ac4d96ce541ac548d60481fe81ca)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:18:06: Setting Driver: ChromeDriver: chrome on MAC (39b2ac4d96ce541ac548d60481fe81ca)
+2021/05/23 18:18:06: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:18:22: Finding the element: By.id: download-button
+2021/05/23 18:18:22: Clicking on the element: [[ChromeDriver: chrome on MAC (39b2ac4d96ce541ac548d60481fe81ca)] -> id: download-button]
+2021/05/23 18:18:23: Waiting for the element by locator to appear: By.cssSelector: data-test='downloaded-button'
+2021/05/23 18:19:17: Setting Driver: ChromeDriver: chrome on MAC (929c8c1b76f94aad51daeb7931a5f024)
+2021/05/23 18:19:17: Opening: https://picsartstage2.com/
+2021/05/23 18:19:22: Setting Driver: ChromeDriver: chrome on MAC (929c8c1b76f94aad51daeb7931a5f024)
+2021/05/23 18:19:22: Opening: https://picsartstage2.com/create
+2021/05/23 18:19:34: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:19:34: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:19:34: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (929c8c1b76f94aad51daeb7931a5f024)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:19:34: Setting Driver: ChromeDriver: chrome on MAC (929c8c1b76f94aad51daeb7931a5f024)
+2021/05/23 18:19:34: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:19:44: Finding the element: By.id: download-button
+2021/05/23 18:19:44: Clicking on the element: [[ChromeDriver: chrome on MAC (929c8c1b76f94aad51daeb7931a5f024)] -> id: download-button]
+2021/05/23 18:19:44: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:19:45: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:19:45: Clicking on the element: [[ChromeDriver: chrome on MAC (929c8c1b76f94aad51daeb7931a5f024)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 18:24:02: Setting Driver: ChromeDriver: chrome on MAC (3b492b37ffc3c256dd6e6a434088344f)
+2021/05/23 18:24:02: Opening: https://picsartstage2.com/
+2021/05/23 18:24:06: Setting Driver: ChromeDriver: chrome on MAC (3b492b37ffc3c256dd6e6a434088344f)
+2021/05/23 18:24:06: Opening: https://picsartstage2.com/create
+2021/05/23 18:24:19: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:24:19: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:24:19: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (3b492b37ffc3c256dd6e6a434088344f)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:24:20: Setting Driver: ChromeDriver: chrome on MAC (3b492b37ffc3c256dd6e6a434088344f)
+2021/05/23 18:24:20: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:24:31: Finding the element: By.id: download-button
+2021/05/23 18:24:31: Clicking on the element: [[ChromeDriver: chrome on MAC (3b492b37ffc3c256dd6e6a434088344f)] -> id: download-button]
+2021/05/23 18:24:31: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:24:32: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:24:32: Clicking on the element: [[ChromeDriver: chrome on MAC (3b492b37ffc3c256dd6e6a434088344f)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 18:24:32: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/23 18:26:08: Setting Driver: ChromeDriver: chrome on MAC (a5bac98f01caeddf2216397ada7caff0)
+2021/05/23 18:26:08: Opening: https://picsartstage2.com/
+2021/05/23 18:26:13: Setting Driver: ChromeDriver: chrome on MAC (a5bac98f01caeddf2216397ada7caff0)
+2021/05/23 18:26:13: Opening: https://picsartstage2.com/create
+2021/05/23 18:26:23: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:26:23: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:26:23: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (a5bac98f01caeddf2216397ada7caff0)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:26:23: Setting Driver: ChromeDriver: chrome on MAC (a5bac98f01caeddf2216397ada7caff0)
+2021/05/23 18:26:23: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:26:33: Finding the element: By.id: download-button
+2021/05/23 18:26:33: Clicking on the element: [[ChromeDriver: chrome on MAC (a5bac98f01caeddf2216397ada7caff0)] -> id: download-button]
+2021/05/23 18:26:33: Finding the element: By.id: download-button
+2021/05/23 18:26:33: Clicking on the element: [[ChromeDriver: chrome on MAC (a5bac98f01caeddf2216397ada7caff0)] -> id: download-button]
+2021/05/23 18:26:33: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:30:12: Setting Driver: ChromeDriver: chrome on MAC (8e1e704f1657490b19a62e70a3c280bf)
+2021/05/23 18:30:12: Opening: https://picsartstage2.com/
+2021/05/23 18:30:18: Setting Driver: ChromeDriver: chrome on MAC (8e1e704f1657490b19a62e70a3c280bf)
+2021/05/23 18:30:18: Opening: https://picsartstage2.com/create
+2021/05/23 18:30:27: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:30:27: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:30:27: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (8e1e704f1657490b19a62e70a3c280bf)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:30:27: Setting Driver: ChromeDriver: chrome on MAC (8e1e704f1657490b19a62e70a3c280bf)
+2021/05/23 18:30:27: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:30:38: Finding the element: By.id: download-button
+2021/05/23 18:30:38: Clicking on the element: [[ChromeDriver: chrome on MAC (8e1e704f1657490b19a62e70a3c280bf)] -> id: download-button]
+2021/05/23 18:30:38: Finding the element: By.id: download-button
+2021/05/23 18:30:38: Clicking on the element: [[ChromeDriver: chrome on MAC (8e1e704f1657490b19a62e70a3c280bf)] -> id: download-button]
+2021/05/23 18:30:39: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:31:02: Setting Driver: ChromeDriver: chrome on MAC (eecf46979383d6bef4bd3050ea11f36a)
+2021/05/23 18:31:02: Opening: https://picsartstage2.com/
+2021/05/23 18:31:06: Setting Driver: ChromeDriver: chrome on MAC (eecf46979383d6bef4bd3050ea11f36a)
+2021/05/23 18:31:06: Opening: https://picsartstage2.com/create
+2021/05/23 18:31:14: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:31:14: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:31:14: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (eecf46979383d6bef4bd3050ea11f36a)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:31:14: Setting Driver: ChromeDriver: chrome on MAC (eecf46979383d6bef4bd3050ea11f36a)
+2021/05/23 18:31:14: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:31:22: Finding the element: By.id: download-button
+2021/05/23 18:31:22: Clicking on the element: [[ChromeDriver: chrome on MAC (eecf46979383d6bef4bd3050ea11f36a)] -> id: download-button]
+2021/05/23 18:31:22: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:31:22: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:31:22: Clicking on the element: [[ChromeDriver: chrome on MAC (eecf46979383d6bef4bd3050ea11f36a)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 18:31:26: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/23 18:32:01: Setting Driver: ChromeDriver: chrome on MAC (53f2f6c0183fcf982c8a268b446e249e)
+2021/05/23 18:32:01: Opening: https://picsartstage2.com/
+2021/05/23 18:32:08: Setting Driver: ChromeDriver: chrome on MAC (53f2f6c0183fcf982c8a268b446e249e)
+2021/05/23 18:32:08: Opening: https://picsartstage2.com/create
+2021/05/23 18:32:22: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 18:32:22: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 18:32:22: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (53f2f6c0183fcf982c8a268b446e249e)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 18:32:22: Setting Driver: ChromeDriver: chrome on MAC (53f2f6c0183fcf982c8a268b446e249e)
+2021/05/23 18:32:22: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 18:32:35: Finding the element: By.id: download-button
+2021/05/23 18:32:36: Clicking on the element: [[ChromeDriver: chrome on MAC (53f2f6c0183fcf982c8a268b446e249e)] -> id: download-button]
+2021/05/23 18:32:36: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:32:36: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 18:32:36: Clicking on the element: [[ChromeDriver: chrome on MAC (53f2f6c0183fcf982c8a268b446e249e)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 18:32:36: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/23 23:08:20: Setting Driver: ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)
+2021/05/23 23:08:20: Opening: https://picsartstage2.com/
+2021/05/23 23:08:24: Setting Driver: ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)
+2021/05/23 23:08:24: Opening: https://picsartstage2.com/create
+2021/05/23 23:08:30: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 23:08:30: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 23:08:30: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 23:08:30: Setting Driver: ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)
+2021/05/23 23:08:30: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:08:36: Finding the element: By.id: download-button
+2021/05/23 23:08:37: Clicking on the element: [[ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)] -> id: download-button]
+2021/05/23 23:08:37: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:08:37: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:08:37: Clicking on the element: [[ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 23:08:37: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:08:37: Finding the element: By.id: download-button
+2021/05/23 23:08:37: Clicking on the element: [[ChromeDriver: chrome on MAC (0094885b885ad041ef30f8a87f5849d7)] -> id: download-button]
+2021/05/23 23:14:00: Setting Driver: ChromeDriver: chrome on MAC (da5320922b78cd7bf37ee0a08afafa40)
+2021/05/23 23:14:00: Opening: https://picsartstage2.com/
+2021/05/23 23:14:05: Setting Driver: ChromeDriver: chrome on MAC (da5320922b78cd7bf37ee0a08afafa40)
+2021/05/23 23:14:05: Opening: https://picsartstage2.com/create
+2021/05/23 23:14:10: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 23:14:10: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 23:14:10: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (da5320922b78cd7bf37ee0a08afafa40)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 23:14:10: Setting Driver: ChromeDriver: chrome on MAC (da5320922b78cd7bf37ee0a08afafa40)
+2021/05/23 23:14:10: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:14:17: Finding the element: By.id: download-button
+2021/05/23 23:14:17: Clicking on the element: [[ChromeDriver: chrome on MAC (da5320922b78cd7bf37ee0a08afafa40)] -> id: download-button]
+2021/05/23 23:14:17: Finding the element: By.cssSelector: [data-test='downloaded-file-name']
+2021/05/23 23:14:17: Finding the element: By.cssSelector: [data-test='unit'] span
+2021/05/23 23:14:17: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:14:17: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:14:17: Clicking on the element: [[ChromeDriver: chrome on MAC (da5320922b78cd7bf37ee0a08afafa40)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 23:14:53: Setting Driver: ChromeDriver: chrome on MAC (561022ca18f573672e04ea66664649c1)
+2021/05/23 23:14:53: Opening: https://picsartstage2.com/
+2021/05/23 23:14:57: Setting Driver: ChromeDriver: chrome on MAC (561022ca18f573672e04ea66664649c1)
+2021/05/23 23:14:57: Opening: https://picsartstage2.com/create
+2021/05/23 23:15:03: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 23:15:03: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 23:15:03: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (561022ca18f573672e04ea66664649c1)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 23:15:03: Setting Driver: ChromeDriver: chrome on MAC (561022ca18f573672e04ea66664649c1)
+2021/05/23 23:15:03: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:15:11: Finding the element: By.id: download-button
+2021/05/23 23:15:11: Clicking on the element: [[ChromeDriver: chrome on MAC (561022ca18f573672e04ea66664649c1)] -> id: download-button]
+2021/05/23 23:15:11: Finding the element: By.cssSelector: [data-test='downloaded-file-name']
+2021/05/23 23:15:11: Finding the element: By.cssSelector: [data-test='unit'] span
+2021/05/23 23:15:11: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:15:11: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:15:11: Clicking on the element: [[ChromeDriver: chrome on MAC (561022ca18f573672e04ea66664649c1)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 23:20:14: Setting Driver: ChromeDriver: chrome on MAC (a7799f2a77cbdf864dbd6fcb521ed224)
+2021/05/23 23:20:14: Opening: https://picsartstage2.com/
+2021/05/23 23:20:17: Setting Driver: ChromeDriver: chrome on MAC (a7799f2a77cbdf864dbd6fcb521ed224)
+2021/05/23 23:20:17: Opening: https://picsartstage2.com/create
+2021/05/23 23:20:23: Waiting for the element by locator to appear: By.cssSelector: [class*=uploadButtonWrapper] button
+2021/05/23 23:20:23: Finding the element: By.cssSelector: [accept='image/jpeg, image/png, image/gif']
+2021/05/23 23:20:23: Writing: /Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg in: [[ChromeDriver: chrome on MAC (a7799f2a77cbdf864dbd6fcb521ed224)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/05/23 23:20:23: Setting Driver: ChromeDriver: chrome on MAC (a7799f2a77cbdf864dbd6fcb521ed224)
+2021/05/23 23:20:23: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:20:30: Finding the element: By.id: download-button
+2021/05/23 23:20:30: Clicking on the element: [[ChromeDriver: chrome on MAC (a7799f2a77cbdf864dbd6fcb521ed224)] -> id: download-button]
+2021/05/23 23:20:30: Finding the element: By.cssSelector: [data-test='downloaded-file-name']
+2021/05/23 23:20:30: Finding the element: By.cssSelector: [data-test='unit'] span
+2021/05/23 23:20:30: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:20:30: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:20:30: Clicking on the element: [[ChromeDriver: chrome on MAC (a7799f2a77cbdf864dbd6fcb521ed224)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 23:20:31: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/23 23:24:22: Setting Driver: ChromeDriver: chrome on MAC (997636b870cda60a638cc458919099e1)
+2021/05/23 23:24:22: Opening: https://picsartstage2.com/
+2021/05/23 23:24:26: Setting Driver: ChromeDriver: chrome on MAC (997636b870cda60a638cc458919099e1)
+2021/05/23 23:24:26: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:24:58: Setting Driver: ChromeDriver: chrome on MAC (1685094a0c2529071e9cacc30a408f63)
+2021/05/23 23:24:58: Opening: https://picsartstage2.com/
+2021/05/23 23:25:02: Setting Driver: ChromeDriver: chrome on MAC (1685094a0c2529071e9cacc30a408f63)
+2021/05/23 23:25:02: Opening: https://picsartstage2.com/create/editor?templateSize=insta_story
+2021/05/23 23:25:06: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:25:16: Finding the element: By.id: download-button
+2021/05/23 23:25:16: Clicking on the element: [[ChromeDriver: chrome on MAC (1685094a0c2529071e9cacc30a408f63)] -> id: download-button]
+2021/05/23 23:25:16: Finding the element: By.cssSelector: [data-test='downloaded-file-name']
+2021/05/23 23:25:16: Finding the element: By.cssSelector: [data-test='unit'] span
+2021/05/23 23:25:17: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:25:17: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:25:17: Clicking on the element: [[ChromeDriver: chrome on MAC (1685094a0c2529071e9cacc30a408f63)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 23:25:17: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/23 23:25:30: Setting Driver: ChromeDriver: chrome on MAC (4d702f47c74ebfea3913d867f209fb72)
+2021/05/23 23:25:30: Opening: https://picsartstage2.com/
+2021/05/23 23:25:33: Setting Driver: ChromeDriver: chrome on MAC (4d702f47c74ebfea3913d867f209fb72)
+2021/05/23 23:25:33: Opening: https://picsartstage2.com/create/editor?templateSize=insta_story
+2021/05/23 23:25:39: Waiting for the element by locator to appear: By.id: download-button
+2021/05/23 23:25:47: Finding the element: By.id: download-button
+2021/05/23 23:25:47: Clicking on the element: [[ChromeDriver: chrome on MAC (4d702f47c74ebfea3913d867f209fb72)] -> id: download-button]
+2021/05/23 23:25:48: Finding the element: By.cssSelector: [data-test='downloaded-file-name']
+2021/05/23 23:25:48: Finding the element: By.cssSelector: [data-test='unit'] span
+2021/05/23 23:25:48: Waiting for the element by locator to appear: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:25:48: Finding the element: By.cssSelector: [data-test='downloaded-button']
+2021/05/23 23:25:48: Clicking on the element: [[ChromeDriver: chrome on MAC (4d702f47c74ebfea3913d867f209fb72)] -> css selector: [data-test='downloaded-button']]
+2021/05/23 23:25:48: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/24 00:08:10: Setting Driver: ChromeDriver: chrome on MAC (4327147631c024258886fe5f23a6567f)
+2021/05/24 00:08:10: Opening: https://picsartstage2.com/
+2021/05/24 00:08:13: Setting Driver: ChromeDriver: chrome on MAC (4327147631c024258886fe5f23a6567f)
+2021/05/24 00:08:13: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:08:20: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:08:20: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:08:20: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:08:20: Clicking on the element: [[ChromeDriver: chrome on MAC (4327147631c024258886fe5f23a6567f)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:08:20: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:11:31: Setting Driver: ChromeDriver: chrome on MAC (fd3efe0b3d8798ea1136b1643fe6ed34)
+2021/05/24 00:11:31: Opening: https://picsartstage2.com/
+2021/05/24 00:11:37: Setting Driver: ChromeDriver: chrome on MAC (fd3efe0b3d8798ea1136b1643fe6ed34)
+2021/05/24 00:11:37: Opening: https://picsartstage2.com/create
+2021/05/24 00:11:47: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:11:52: Setting Driver: ChromeDriver: chrome on MAC (fd3efe0b3d8798ea1136b1643fe6ed34)
+2021/05/24 00:11:52: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:12:01: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:12:01: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:12:01: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:12:01: Clicking on the element: [[ChromeDriver: chrome on MAC (fd3efe0b3d8798ea1136b1643fe6ed34)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:12:01: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:13:52: Setting Driver: ChromeDriver: chrome on MAC (4556daaac5adde1ed7bfc9d3523f8d68)
+2021/05/24 00:13:52: Opening: https://picsartstage2.com/
+2021/05/24 00:14:02: Setting Driver: ChromeDriver: chrome on MAC (4556daaac5adde1ed7bfc9d3523f8d68)
+2021/05/24 00:14:02: Opening: https://picsartstage2.com/create
+2021/05/24 00:14:10: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:14:12: Setting Driver: ChromeDriver: chrome on MAC (4556daaac5adde1ed7bfc9d3523f8d68)
+2021/05/24 00:14:12: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:14:28: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:14:28: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:14:28: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:14:28: Clicking on the element: [[ChromeDriver: chrome on MAC (4556daaac5adde1ed7bfc9d3523f8d68)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:14:28: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:14:28: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:14:28: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:14:28: Clicking on the element: [[ChromeDriver: chrome on MAC (4556daaac5adde1ed7bfc9d3523f8d68)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:14:29: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:14: Setting Driver: ChromeDriver: chrome on MAC (3947abc2df1307080d553bed8e666505)
+2021/05/24 00:15:14: Opening: https://picsartstage2.com/
+2021/05/24 00:15:18: Setting Driver: ChromeDriver: chrome on MAC (3947abc2df1307080d553bed8e666505)
+2021/05/24 00:15:18: Opening: https://picsartstage2.com/create
+2021/05/24 00:15:23: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:15:32: Setting Driver: ChromeDriver: chrome on MAC (3947abc2df1307080d553bed8e666505)
+2021/05/24 00:15:32: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:15:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:40: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:40: Clicking on the element: [[ChromeDriver: chrome on MAC (3947abc2df1307080d553bed8e666505)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:15:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:40: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:15:40: Clicking on the element: [[ChromeDriver: chrome on MAC (3947abc2df1307080d553bed8e666505)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:15:41: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:04: Setting Driver: ChromeDriver: chrome on MAC (05560d40b195a21cc028ed4d88fc289e)
+2021/05/24 00:19:04: Opening: https://picsartstage2.com/create
+2021/05/24 00:19:18: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:19:21: Setting Driver: ChromeDriver: chrome on MAC (05560d40b195a21cc028ed4d88fc289e)
+2021/05/24 00:19:21: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:19:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:40: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:40: Clicking on the element: [[ChromeDriver: chrome on MAC (05560d40b195a21cc028ed4d88fc289e)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:19:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:40: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:40: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:19:40: Clicking on the element: [[ChromeDriver: chrome on MAC (05560d40b195a21cc028ed4d88fc289e)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:19:41: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:20:35: Setting Driver: ChromeDriver: chrome on MAC (d2084b704bf7d61c4dc1a1eee33fd58d)
+2021/05/24 00:20:35: Opening: https://picsartstage2.com/create
+2021/05/24 00:20:53: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:21:16: Setting Driver: ChromeDriver: chrome on MAC (1a2459066d17accc4707b1696a18269e)
+2021/05/24 00:21:16: Opening: https://picsartstage2.com/create
+2021/05/24 00:21:41: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:21:44: Setting Driver: ChromeDriver: chrome on MAC (1a2459066d17accc4707b1696a18269e)
+2021/05/24 00:21:44: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:22:11: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:11: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:11: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:11: Clicking on the element: [[ChromeDriver: chrome on MAC (1a2459066d17accc4707b1696a18269e)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:22:11: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:11: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:11: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:11: Clicking on the element: [[ChromeDriver: chrome on MAC (1a2459066d17accc4707b1696a18269e)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:22:11: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:22:39: Setting Driver: ChromeDriver: chrome on MAC (197185727e950336b7a22ecd5f4da630)
+2021/05/24 00:22:39: Opening: https://picsartstage2.com/create
+2021/05/24 00:22:59: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/24 00:23:02: Setting Driver: ChromeDriver: chrome on MAC (197185727e950336b7a22ecd5f4da630)
+2021/05/24 00:23:02: Opening: https://picsartstage2.com/i/image-male-359193804035201
+2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:23:18: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:23:18: Clicking on the element: [[ChromeDriver: chrome on MAC (197185727e950336b7a22ecd5f4da630)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:23:18: Waiting for the element by locator to appear: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 00:23:18: Clicking on the element: [[ChromeDriver: chrome on MAC (197185727e950336b7a22ecd5f4da630)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like

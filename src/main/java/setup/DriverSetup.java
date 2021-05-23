@@ -2,6 +2,10 @@ package setup;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class DriverSetup {
     private static WebDriver driver;
@@ -9,7 +13,12 @@ public class DriverSetup {
     public static WebDriver getWebDriver() {
         if (driver == null) {
             System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
-            driver = new ChromeDriver();
+            Map<String, Object> p = new HashMap<>();
+            p.put("download.default_directory", "/Users/artyomtonoyan/Documents");
+            ChromeOptions options = new ChromeOptions();
+            options.setExperimentalOption("prefs", p);
+            options.addArguments("start-maximized");
+            driver = new ChromeDriver(options);
         }
         return driver;
     }

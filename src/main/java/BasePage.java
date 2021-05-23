@@ -14,7 +14,6 @@ import static utilities.FileService.write;
 public abstract class BasePage {
     protected WebDriver driver;
     public static final String BASE_URL_PICSART = "https://picsartstage2.com/";
-    public static final String BASE_URL_DESMOS = "https://www.desmos.com/";
 
     public BasePage() {
         this.driver = getWebDriver();
@@ -92,21 +91,22 @@ public abstract class BasePage {
         click(find(location));
     }
 
-/**    public boolean isDisplayed(WebElement element) {
-        try {
-            String message = getCurrentDateAndTime() + ": " + "Checking is the element displayed: " + element.toString();
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
-        } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
-        }
-        try {
-            return element.isDisplayed();
-        } catch (NoSuchElementException e) {
-            return false;
-        }
-    }
-**/
+    /**
+     * public boolean isDisplayed(WebElement element) {
+     * try {
+     * String message = getCurrentDateAndTime() + ": " + "Checking is the element displayed: " + element.toString();
+     * System.out.println(message);
+     * write("src/files/logs.txt", "\n" + message);
+     * } catch (IOException e) {
+     * System.out.println("File not found / Can't write: Current log can't be saved");
+     * }
+     * try {
+     * return element.isDisplayed();
+     * } catch (NoSuchElementException e) {
+     * return false;
+     * }
+     * }
+     **/
     public boolean isDisplayed(By location) {
         try {
             String message = getCurrentDateAndTime() + ": " + "Checking is the element by locator displayed: " + location.toString();

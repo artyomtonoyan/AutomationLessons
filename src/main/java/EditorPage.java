@@ -1,32 +1,18 @@
 import org.openqa.selenium.By;
-import org.openqa.selenium.interactions.Actions;
+
+import static utilities.FileService.isFileExistsInDirectory;
 
 public class EditorPage extends BasePage {
-    private final By uploadButtonLocation = By.cssSelector("[accept='image/jpeg, image/png, image/gif']");
-    private final By instagramStoryLocation = By.cssSelector("[data-test='insta-story']");
     private final By itemsInSideBarLocation = By.cssSelector(("[class*='customSizeContainer']"));
     private final By fitIconLocation = By.id("background-category");
+    private final By downloadButton = By.id("download-button");
+    private final By downloadButtonInModal = By.cssSelector("[data-test='downloaded-button']");
+    private final By downloadSuccessfulDialog = By.className("ReactModal__Content");
+    private final By fileNameLocation = By.cssSelector("[data-test='downloaded-file-name']");
+    private final By extensionOfDownloadableFileLocations = By.cssSelector("[data-test='unit'] span");
 
-    public EditorPage() {
-        open(getURL());
-    }
-
-    public void uploadPhoto(String path) {
-        try {
-            Thread.sleep(5000);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        //Why Doesn't work with wait?
-//        WaitHelper.getInstance().waitForElementToDisplayed(uploadButtonLocation);
-        type(uploadButtonLocation, path);
-    }
-
-    public void clickInstagramStory() {
-        WaitHelper.getInstance().waitForElementToDisplayed(instagramStoryLocation);
-        Actions actions = new Actions(driver);
-        actions.moveToElement(find(instagramStoryLocation)).click().build().perform();
-    }
+    private String nameOfFile;
+    private String extensionOfFile;
 
     public int getCountOfItemsInSideBar() {
         WaitHelper.getInstance().waitForElementToDisplayed(itemsInSideBarLocation);
@@ -37,8 +23,46 @@ public class EditorPage extends BasePage {
         WaitHelper.getInstance().waitForElementToDisplayed(fitIconLocation);
         click(fitIconLocation);
     }
+
+    public void clickOnDownloadButton() {
+        WaitHelper.getInstance().waitForElementToDisplayed(downloadButton);
+        click(downloadButton);
+        nameOfFile = find(fileNameLocation).getAttribute("value");
+        extensionOfFile = find(extensionOfDownloadableFileLocations).getText().toLowerCase();
+    }
+
+    public void clickOnDownloadButtonInModal() {
+        WaitHelper.getInstance().waitForElementToDisplayed(downloadButtonInModal);
+        click(downloadButtonInModal);
+    }
+
+    public boolean isDownloadSuccessfulDialogOpened() {
+        try {
+            WaitHelper.getInstance().waitForElementToDisplayed(downloadSuccessfulDialog);
+            return true;
+        } catch (Error error) {
+            return false;
+        }
+    }
+
+    public String getNameOfTheDownloadableFile() {
+        return nameOfFile;
+    }
+
+    public String getExtensionOfDownloadableFile() {
+        return extensionOfFile;
+    }
+
+    public boolean isFileDownloaded() {
+        return isFileExistsInDirectory("/Users/artyomtonoyan/Documents", getNameOfTheDownloadableFile(), getExtensionOfDownloadableFile());
+    }
+
+    public void open(String endOfUrl) {
+        super.open(getURL() + endOfUrl);
+    }
+
     @Override
     public String getURL() {
-        return BASE_URL_PICSART + "create";
+        return BASE_URL_PICSART + "create/editor";
     }
 }
