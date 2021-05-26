@@ -23,5 +23,4 @@ public class ChallengeTest extends BaseTestWithoutLogin {
         GetFreeAppDialog getFreeAppDialog = new GetFreeAppDialog();
         assertTrue(getFreeAppDialog.isQrCodeVisible(), "QR is not visible");
     }
-
 }

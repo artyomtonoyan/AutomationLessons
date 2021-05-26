@@ -1944,3 +1944,185 @@ Time: Action: Data
 2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
 2021/05/24 00:23:18: Clicking on the element: [[ChromeDriver: chrome on MAC (197185727e950336b7a22ecd5f4da630)] -> css selector: .actions-section .notifier-hover-toggle .like]
 2021/05/24 00:23:18: Finding the element: By.cssSelector: .actions-section .notifier-hover-toggle .like
+2021/05/24 19:31:47: Setting Driver: ChromeDriver: chrome on MAC (b50a215fec48b227ecdf9dc38e3c8d52)
+2021/05/24 19:31:47: Opening: https://picsartstage2.com/create
+2021/05/24 19:32:50: Setting Driver: ChromeDriver: chrome on MAC (003f895ed4b2ed64bc483a2858326e56)
+2021/05/24 19:32:50: Opening: https://picsartstage2.com/create
+2021/05/26 20:13:36: Setting Driver: ChromeDriver: chrome on MAC (6d89cbc9380306776295336d3206a47c)
+2021/05/26 20:13:36: Opening: https://picsartstage2.com/create
+2021/05/26 20:17:33: Setting Driver: ChromeDriver: chrome on MAC (67f88c9c2d6e457eb21e189f19824c09)
+2021/05/26 20:17:33: Opening: https://picsartstage2.com/create
+2021/05/26 20:20:29: Setting Driver: ChromeDriver: chrome on MAC (77e9a4a6763376d02c663ce26734e0a3)
+2021/05/26 20:20:29: Opening: https://picsartstage2.com/create
+2021/05/26 20:28:58: Setting Driver: ChromeDriver: chrome on MAC (cc5e0addb18ea37b38e2bf69846fdbd6)
+2021/05/26 20:28:58: Opening: https://picsartstage2.com/create
+2021/05/26 20:30:13: Setting Driver: ChromeDriver: chrome on MAC (689950a95d04ff7495e8f5e9a2d65c7c)
+2021/05/26 20:30:13: Opening: https://picsartstage2.com/create
+2021/05/26 20:32:26: Setting Driver: ChromeDriver: chrome on MAC (150b28382e64f774f68ec09acf17846a)
+2021/05/26 20:32:26: Opening: https://picsartstage2.com/create
+2021/05/26 20:33:34: Setting Driver: ChromeDriver: chrome on MAC (30e77039c88080420499f2ed27df3959)
+2021/05/26 20:33:34: Opening: https://picsartstage2.com/create
+2021/05/26 20:34:18: Setting Driver: ChromeDriver: chrome on MAC (fb34cb8792fad41740087d5d7d43d43d)
+2021/05/26 20:34:19: Opening: https://picsartstage2.com/create
+2021/05/26 20:46:18: Setting Driver: ChromeDriver: chrome on MAC (f1241196c7a46404a774c7b22e58ec49)
+2021/05/26 20:46:18: Opening: https://picsartstage2.com/create
+2021/05/26 20:58:35: Setting Driver: ChromeDriver: chrome on MAC (7efa6900408901a01815ce6424a525b1)
+2021/05/26 20:58:35: Opening: https://picsartstage2.com/create
+2021/05/26 20:59:42: Setting Driver: ChromeDriver: chrome on MAC (c5ea0934c607a88c8139e274cdd0aa69)
+2021/05/26 20:59:42: Opening: https://picsartstage2.com/create
+2021/05/26 21:00:06: Setting Driver: ChromeDriver: chrome on MAC (4cce03289780996015de8b34cb120b73)
+2021/05/26 21:00:07: Opening: https://picsartstage2.com/create
+2021/05/26 21:04:38: Setting Driver: ChromeDriver: chrome on MAC (c2241f30b001735c47d1cbe672070171)
+2021/05/26 21:04:38: Opening: https://picsartstage2.com/create
+2021/05/26 21:07:45: Setting Driver: ChromeDriver: chrome on MAC (6f0bc01a2c02ec696c71d4e4615e4afe)
+2021/05/26 21:07:45: Opening: https://picsartstage2.com/create
+2021/05/26 21:10:52: Setting Driver: ChromeDriver: chrome on MAC (f05940ea65749d3e6c02b84b94983f61)
+2021/05/26 21:10:52: Opening: https://picsartstage2.com/create
+2021/05/26 21:11:52: Setting Driver: ChromeDriver: chrome on MAC (ca3b48be674a8009460bc60e94403d48)
+2021/05/26 21:11:52: Opening: https://picsartstage2.com/create
+2021/05/26 21:12:59: Setting Driver: ChromeDriver: chrome on MAC (fce0d846b92a4ace88d7d985dbf32065)
+2021/05/26 21:12:59: Opening: https://picsartstage2.com/create
+2021/05/26 21:13:26: Setting Driver: ChromeDriver: chrome on MAC (3185252e1187098b2a1605861cb96058)
+2021/05/26 21:13:26: Opening: https://picsartstage2.com/create
+2021/05/26 21:19:47: Setting Driver: ChromeDriver: chrome on MAC (68db69a96271a12519395b13a23189ec)
+2021/05/26 21:19:47: Opening: https://picsartstage2.com/create
+2021/05/26 21:39:15: Setting Driver: ChromeDriver: chrome on MAC (6d24625b4e1a2a496eff6d7e1e864ef4)
+2021/05/26 21:39:15: Opening: https://picsartstage2.com/create
+2021/05/26 21:40:42: Setting Driver: ChromeDriver: chrome on MAC (22df9a52de54376e963cffb88bd2464e)
+2021/05/26 21:40:42: Opening: https://picsartstage2.com/create
+2021/05/26 21:53:22: Setting Driver: ChromeDriver: chrome on MAC (5d638938772d5e43477381c7cac916da)
+2021/05/26 21:53:22: Opening: https://picsartstage2.com/create
+2021/05/26 21:56:18: Setting Driver: ChromeDriver: chrome on MAC (1713cfbf3c49cdc3be0bcdeb293ab0f0)
+2021/05/26 21:56:18: Opening: https://picsartstage2.com/create
+2021/05/26 22:01:48: Setting Driver: ChromeDriver: chrome on MAC (0f98d1e3ac79398e92dd0153d8333eb4)
+2021/05/26 22:01:48: Opening: https://picsartstage2.com/create
+2021/05/26 22:18:22: Setting Driver: ChromeDriver: chrome on MAC (7a6f9e35053cde6f9ca8695fa5d38abd)
+2021/05/26 22:18:22: Opening: https://picsartstage2.com/create
+2021/05/26 22:18:48: Setting Driver: ChromeDriver: chrome on MAC (7a6f9e35053cde6f9ca8695fa5d38abd)
+2021/05/26 22:18:48: Opening: https://picsartstage2.com/i/359749127046201
+2021/05/26 22:19:10: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:22:29: Setting Driver: ChromeDriver: chrome on MAC (8d928e5cddf4cda64e43609f87a35924)
+2021/05/26 22:22:29: Opening: https://picsartstage2.com/create
+2021/05/26 22:22:52: Setting Driver: ChromeDriver: chrome on MAC (8d928e5cddf4cda64e43609f87a35924)
+2021/05/26 22:22:52: Opening: https://picsartstage2.com/i/359749371035201
+2021/05/26 22:23:00: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:39:43: Setting Driver: ChromeDriver: chrome on MAC (5dd4c13b2ead5d582edf43fd269f6a1f)
+2021/05/26 22:39:43: Opening: https://picsartstage2.com/create
+2021/05/26 22:40:02: Setting Driver: ChromeDriver: chrome on MAC (5dd4c13b2ead5d582edf43fd269f6a1f)
+2021/05/26 22:40:02: Opening: https://picsartstage2.com/i/359750400096201
+2021/05/26 22:40:24: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:40:24: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:41:18: Setting Driver: ChromeDriver: chrome on MAC (89d1741f9cbe8b42335af8266afb9871)
+2021/05/26 22:41:18: Opening: https://picsartstage2.com/create
+2021/05/26 22:41:37: Setting Driver: ChromeDriver: chrome on MAC (89d1741f9cbe8b42335af8266afb9871)
+2021/05/26 22:41:37: Opening: https://picsartstage2.com/i/359750495082201
+2021/05/26 22:42:05: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:42:24: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:44:22: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:44:29: Setting Driver: ChromeDriver: chrome on MAC (4caf6dfae2f3535fd617535679967239)
+2021/05/26 22:44:29: Opening: https://picsartstage2.com/create
+2021/05/26 22:44:49: Setting Driver: ChromeDriver: chrome on MAC (4caf6dfae2f3535fd617535679967239)
+2021/05/26 22:44:49: Opening: https://picsartstage2.com/i/359750688053201
+2021/05/26 22:44:56: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:44:57: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:44:57: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:44:57: Finding all elements: By.cssSelector: .description a
+2021/05/26 22:54:01: Setting Driver: ChromeDriver: chrome on MAC (ef69449d5359a80bcf9b64706273e0fc)
+2021/05/26 22:54:01: Opening: https://picsartstage2.com/create
+2021/05/26 22:54:22: Setting Driver: ChromeDriver: chrome on MAC (ef69449d5359a80bcf9b64706273e0fc)
+2021/05/26 22:54:22: Opening: https://picsartstage2.com/i/359751261091201
+2021/05/26 22:56:44: Setting Driver: ChromeDriver: chrome on MAC (dabfe7bc5b0698bcbe2184c8cab29951)
+2021/05/26 22:56:44: Opening: https://picsartstage2.com/create
+2021/05/26 22:57:10: Setting Driver: ChromeDriver: chrome on MAC (dabfe7bc5b0698bcbe2184c8cab29951)
+2021/05/26 22:57:10: Opening: https://picsartstage2.com/i/359751429083201
+2021/05/26 23:01:57: Setting Driver: ChromeDriver: chrome on MAC (11241acb2d5d227a10c7d6135e8f3691)
+2021/05/26 23:01:57: Opening: https://picsartstage2.com/create
+2021/05/26 23:02:18: Setting Driver: ChromeDriver: chrome on MAC (11241acb2d5d227a10c7d6135e8f3691)
+2021/05/26 23:02:18: Opening: https://picsartstage2.com/i/359751737032201
+2021/05/26 23:04:51: Setting Driver: ChromeDriver: chrome on MAC (a5280858a92ddd8b89c7683e5bb4f162)
+2021/05/26 23:04:51: Opening: https://picsartstage2.com/create
+2021/05/26 23:05:12: Setting Driver: ChromeDriver: chrome on MAC (a5280858a92ddd8b89c7683e5bb4f162)
+2021/05/26 23:05:12: Opening: https://picsartstage2.com/i/359751911058201
+2021/05/26 23:05:44: Finding the element: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:13:22: Setting Driver: ChromeDriver: chrome on MAC (482e84ff8b6105caeda7f3f4ecc81012)
+2021/05/26 23:13:22: Opening: https://picsartstage2.com/create
+2021/05/26 23:13:42: Setting Driver: ChromeDriver: chrome on MAC (482e84ff8b6105caeda7f3f4ecc81012)
+2021/05/26 23:13:42: Opening: https://picsartstage2.com/i/359752422005201
+2021/05/26 23:13:58: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:13:58: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:13:58: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:13:58: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:13:58: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:13:58: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:13:58: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:13:58: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:15:21: Setting Driver: ChromeDriver: chrome on MAC (bdb0ca0ce69b0986c4c425c627d320f0)
+2021/05/26 23:15:21: Opening: https://picsartstage2.com/create
+2021/05/26 23:15:43: Setting Driver: ChromeDriver: chrome on MAC (bdb0ca0ce69b0986c4c425c627d320f0)
+2021/05/26 23:15:43: Opening: https://picsartstage2.com/i/359752542026201
+2021/05/26 23:16:03: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:16:03: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:16:03: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:16:03: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:18:39: Setting Driver: ChromeDriver: chrome on MAC (f36d3897d96b8c7476e0928c0f425ab1)
+2021/05/26 23:18:39: Opening: https://picsartstage2.com/create
+2021/05/26 23:22:05: Setting Driver: ChromeDriver: chrome on MAC (831d510bb0dc3aa1dc77d3f0f59ec82b)
+2021/05/26 23:22:05: Opening: https://picsartstage2.com/create
+2021/05/26 23:22:21: Setting Driver: ChromeDriver: chrome on MAC (831d510bb0dc3aa1dc77d3f0f59ec82b)
+2021/05/26 23:22:21: Opening: https://picsartstage2.com/i/359752940051201
+2021/05/26 23:22:39: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:22:39: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:22:39: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:22:39: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:22:39: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:22:39: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:22:39: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:22:39: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:24:00: Setting Driver: ChromeDriver: chrome on MAC (89236564b000d02889039175ab335ade)
+2021/05/26 23:24:00: Opening: https://picsartstage2.com/create
+2021/05/26 23:24:24: Setting Driver: ChromeDriver: chrome on MAC (89236564b000d02889039175ab335ade)
+2021/05/26 23:24:24: Opening: https://picsartstage2.com/i/359753063035201
+2021/05/26 23:24:43: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:24:43: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:25:13: Setting Driver: ChromeDriver: chrome on MAC (b0c2c9543985aeb01c5644a5743ee923)
+2021/05/26 23:25:13: Opening: https://picsartstage2.com/create
+2021/05/26 23:25:35: Setting Driver: ChromeDriver: chrome on MAC (b0c2c9543985aeb01c5644a5743ee923)
+2021/05/26 23:25:35: Opening: https://picsartstage2.com/i/359753134082201
+2021/05/26 23:25:52: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:25:52: Finding the element: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:34:33: Creating new user: Email: 12da6c57-9635-4e7d-8a72-69b6a0e86b10gmail.com, Password: Test!!8493.
+2021/05/26 23:34:36: Setting Driver: ChromeDriver: chrome on MAC (9dea3c1f33603aeb28c2495819306008)
+2021/05/26 23:34:36: Opening: https://picsartstage2.com/create
+2021/05/26 23:34:59: Uploading new photo in the user profile: 191dc781-62bd-4b83-acd0-5773930fb401
+2021/05/26 23:35:01: Liking the photo:  359753701049201 of the following user: 191dc781-62bd-4b83-acd0-5773930fb401
+2021/05/26 23:35:02: Setting Driver: ChromeDriver: chrome on MAC (9dea3c1f33603aeb28c2495819306008)
+2021/05/26 23:35:02: Opening: https://picsartstage2.com/i/359753701049201
+2021/05/26 23:35:21: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:35:22: Finding the element: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:35:22: Uploading new photo in the user profile: 191dc781-62bd-4b83-acd0-5773930fb401
+2021/05/26 23:37:12: Creating new user: Email: e1a50904-c1c9-4f2f-9cb1-e3147226387agmail.com, Password: Test!!8493.
+2021/05/26 23:37:15: Setting Driver: ChromeDriver: chrome on MAC (89a2868a54a618bab2ff61ac656ac0a8)
+2021/05/26 23:37:15: Opening: https://picsartstage2.com/create
+2021/05/26 23:37:35: Uploading new photo in the user profile: d4eafd84-c584-4a75-baed-40ca32f326a0
+2021/05/26 23:37:36: Liking the photo:  359753856019201 of the following user: d4eafd84-c584-4a75-baed-40ca32f326a0
+2021/05/26 23:37:36: Setting Driver: ChromeDriver: chrome on MAC (89a2868a54a618bab2ff61ac656ac0a8)
+2021/05/26 23:37:36: Opening: https://picsartstage2.com/i/359753856019201
+2021/05/26 23:37:45: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:37:45: Finding the element: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/26 23:37:45: Deleting the user: d4eafd84-c584-4a75-baed-40ca32f326a0
+2021/05/26 23:38:10: Creating new user: Email: 322a95ca-9093-440a-a43a-56badcff7b58gmail.com, Password: Test!!8493.
+2021/05/26 23:38:13: Setting Driver: ChromeDriver: chrome on MAC (930ec4a49e36713f83a698552c3372a0)
+2021/05/26 23:38:13: Opening: https://picsartstage2.com/create
+2021/05/26 23:38:30: Uploading new photo in the user profile: e220f60d-99a4-4007-b347-e3470d2132bb
+2021/05/26 23:38:32: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: e220f60d-99a4-4007-b347-e3470d2132bb photo: 359753911063201
+2021/05/26 23:38:32: Setting Driver: ChromeDriver: chrome on MAC (930ec4a49e36713f83a698552c3372a0)
+2021/05/26 23:38:32: Opening: https://picsartstage2.com/i/359753911063201
+2021/05/26 23:38:46: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:38:46: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:38:46: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:38:46: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:38:46: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:38:46: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:38:46: Waiting for the element by locator to appear: By.cssSelector: .description a
+2021/05/26 23:38:46: Finding all elements: By.cssSelector: .description a
+2021/05/26 23:38:46: Deleting the user: e220f60d-99a4-4007-b347-e3470d2132bb

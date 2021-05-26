@@ -12,6 +12,7 @@ public class ChallengePage extends BasePage {
     public ChallengePage() {
 
     }
+
     public ChallengePage(String id) {
         open(getURL() + "/" + id);
     }

@@ -53,12 +53,13 @@ public class EditorPage extends BasePage {
         return extensionOfFile;
     }
 
+
     public boolean isFileDownloaded() {
         return isFileExistsInDirectory("/Users/artyomtonoyan/Documents", getNameOfTheDownloadableFile(), getExtensionOfDownloadableFile());
     }
 
     public void open(String endOfUrl) {
-        super.open(getURL() + endOfUrl);
+        super.open(getURL() + endOfUrl);/**/
     }
 
     @Override

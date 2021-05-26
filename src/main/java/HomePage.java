@@ -1,7 +1,7 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
 
-public class HomePage extends BasePage{
+public class HomePage extends BasePage {
 
     private final By discoverMenuLocation = By.cssSelector("[data-test='headerNavigation-navigationListItem-Discover']");
     private final By challengeLinkInDiscoverMenu = By.cssSelector("[data-test='subNavigation-groupList'] [href='/challenges']");
@@ -11,6 +11,7 @@ public class HomePage extends BasePage{
     public HomePage() {
         open(getURL());
     }
+
     public void clickLoginButton() {
         click(loginButtonLocation);
     }

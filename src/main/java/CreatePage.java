@@ -11,6 +11,7 @@ public class CreatePage extends BasePage {
     public CreatePage() {
         open(getURL());
     }
+
     public void uploadPhoto(String path) {
         WaitHelper.getInstance().waitForElementToDisplayed(uploadButtonOuterPartLocation);
         type(uploadButtonLocation, path);
@@ -22,9 +23,11 @@ public class CreatePage extends BasePage {
         actions.moveToElement(find(instagramStoryLocation)).click().build().perform();
     }
 
+
     public boolean isAvatarDisplayed() {
         return isDisplayed(avatarLocation);
     }
+
 
     public boolean isUserLoggedIn() {
         try {
