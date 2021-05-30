@@ -1,11 +1,13 @@
+import base.BaseTestWithLogin;
 import org.testng.annotations.Test;
+import pageobjects.pages.ImageBrowserPage;
 
 import static org.testng.Assert.assertFalse;
 import static org.testng.Assert.assertTrue;
 
 public class ImageBrowserTestOld extends BaseTestWithLogin {
 
-    @Test
+    @Test(enabled = false)
     public void likeAndDislikeTest() {
         ImageBrowserPage imageBrowserPage = new ImageBrowserPage("359193804035201");
         if (imageBrowserPage.isLikedOld()) {

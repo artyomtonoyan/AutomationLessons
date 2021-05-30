@@ -11,7 +11,7 @@ public class DriverSetup {
     private static WebDriver driver;
 
     public static WebDriver getWebDriver() {
-        if (driver == null) {
+        if (driver == null || driver.toString().contains("(null)")) {
             System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
             Map<String, Object> p = new HashMap<>();
             p.put("download.default_directory", "/Users/artyomtonoyan/Documents");

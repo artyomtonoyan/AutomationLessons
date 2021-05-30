@@ -1,5 +1,9 @@
+package pageobjects.pages;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
 
 public class HomePage extends BasePage {
 
@@ -13,6 +17,7 @@ public class HomePage extends BasePage {
     }
 
     public void clickLoginButton() {
+        WaitHelper.getInstance().waitForElementToDisplayed(loginButtonLocation);
         click(loginButtonLocation);
     }
 

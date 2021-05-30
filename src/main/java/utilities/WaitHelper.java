@@ -1,3 +1,6 @@
+package utilities;
+
+import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
@@ -7,11 +10,12 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.io.IOException;
 
 import static setup.DriverSetup.getWebDriver;
-import static utilities.DateAndTimeService.getCurrentDateAndTime;
-import static utilities.FileService.write;
+import static utilities.DateAndTimeHelper.getCurrentDateAndTime;
+import static utilities.FileHelper.write;
 
 public class WaitHelper {
     private final static int DEFAULT_TIMEOUT = 20;
+    private final static Logger LOGGER = Logger.getLogger(WaitHelper.class);
 
     public static WaitHelper getInstance() {
         return new WaitHelper();
@@ -19,11 +23,11 @@ public class WaitHelper {
 
     public void waitForElementToDisplayed(By location) {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Waiting for the element by locator to appear: " + location.toString();
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Waiting for the element by locator to appear: " + location.toString();
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         try {
             new WebDriverWait(getWebDriver(), DEFAULT_TIMEOUT)
@@ -35,11 +39,11 @@ public class WaitHelper {
 
     public void waitForAlertMessage() {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Waiting for alert message to appear: ";
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Waiting for alert message to appear: ";
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         try {
             new WebDriverWait(getWebDriver(), DEFAULT_TIMEOUT)
@@ -51,11 +55,11 @@ public class WaitHelper {
 
     public void waitForTextToBePresentInElement(WebElement element, String text) {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Waiting for text to appear in the element: " + element.toString();
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Waiting for text to appear in the element: " + element.toString();
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         try {
             new WebDriverWait(getWebDriver(), DEFAULT_TIMEOUT)
@@ -64,5 +68,4 @@ public class WaitHelper {
             throw new Error("Text in the element was not found: " + element.toString());
         }
     }
-
 }

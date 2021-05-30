@@ -1,6 +1,9 @@
+package utilities;
+
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 import okhttp3.*;
+import org.apache.log4j.Logger;
 
 import java.io.File;
 import java.io.IOException;
@@ -8,24 +11,25 @@ import java.util.Arrays;
 import java.util.Objects;
 import java.util.UUID;
 
-import static utilities.DateAndTimeService.getCurrentDateAndTime;
-import static utilities.FileService.write;
+import static utilities.DateAndTimeHelper.getCurrentDateAndTime;
+import static utilities.FileHelper.write;
 
 public class ApiHelper {
-    private static final String generatedText = UUID.randomUUID().toString();
-    private static final String password = "Test!!8493.";
+    private static final String GENERATED_TEXT = UUID.randomUUID().toString();
+    private static final String PASSWORD = "Test!!8493.";
+    private static final Logger LOGGER = Logger.getLogger(ApiHelper.class);
 
     public static JsonObject createUser() throws IOException {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Creating new user: Email: " + generatedText + "@gmail.com, Password: " + password;
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Creating new user: Email: " + GENERATED_TEXT + "@gmail.com, Password: " + PASSWORD;
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         OkHttpClient client = new OkHttpClient().newBuilder().build();
         MediaType mediaType = MediaType.parse("application/json");
-        RequestBody body = RequestBody.create(mediaType, "{\n\t\"email\": \"" + generatedText + "@gmail.com\",\n\t\"password\": \"" + password + "\"\n}");
+        RequestBody body = RequestBody.create(mediaType, "{\n\t\"email\": \"" + GENERATED_TEXT + "@gmail.com\",\n\t\"password\": \"" + PASSWORD + "\"\n}");
         Request request = new Request.Builder()
                 .url("https://picsart.com/sign-up")
                 .method("POST", body)
@@ -39,11 +43,11 @@ public class ApiHelper {
 
     public static JsonObject uploadPhoto(String key) throws IOException {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Uploading new photo in the user profile: " + key;
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Uploading new photo in the user profile: " + key;
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         OkHttpClient client = new OkHttpClient().newBuilder()
                 .build();
@@ -70,11 +74,11 @@ public class ApiHelper {
 
     public static JsonObject addHashtagToExistingPhoto(String photoId, String key, String... hashtags) throws IOException {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Adding the following hashtags: " + Arrays.toString(hashtags) + " to the following users: " + key + " photo: " + photoId;
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Adding the following hashtags: " + Arrays.toString(hashtags) + " to the following users: " + key + " photo: " + photoId;
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         StringBuilder addingHashtags;
         addingHashtags = new StringBuilder();
@@ -97,11 +101,11 @@ public class ApiHelper {
 
     public static JsonObject deleteUser(String key) throws IOException {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Deleting the user: " + key;
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Deleting the user: " + key;
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         OkHttpClient client = new OkHttpClient().newBuilder()
                 .build();
@@ -118,11 +122,11 @@ public class ApiHelper {
 
     public static JsonObject likePhoto(String userKey, String imageId) throws IOException {
         try {
-            String message = getCurrentDateAndTime() + ": " + "Liking the photo:  " + imageId + " of the following user: " + userKey;
-            System.out.println(message);
-            write("src/files/logs.txt", "\n" + message);
+            String message = "Liking the photo:  " + imageId + " of the following user: " + userKey;
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
         } catch (IOException e) {
-            System.out.println("File not found / Can't write: Current log can't be saved");
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
         }
         OkHttpClient client = new OkHttpClient().newBuilder()
                 .build();

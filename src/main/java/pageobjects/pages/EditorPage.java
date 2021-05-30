@@ -1,6 +1,10 @@
-import org.openqa.selenium.By;
+package pageobjects.pages;
 
-import static utilities.FileService.isFileExistsInDirectory;
+import org.openqa.selenium.By;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
+
+import static utilities.FileHelper.isFileExistsInDirectory;
 
 public class EditorPage extends BasePage {
     private final By itemsInSideBarLocation = By.cssSelector(("[class*='customSizeContainer']"));
@@ -33,6 +37,7 @@ public class EditorPage extends BasePage {
 
     public void clickOnDownloadButtonInModal() {
         WaitHelper.getInstance().waitForElementToDisplayed(downloadButtonInModal);
+        WaitHelper.getInstance().waitForTextToBePresentInElement(find(downloadButtonInModal), "Download");
         click(downloadButtonInModal);
     }
 

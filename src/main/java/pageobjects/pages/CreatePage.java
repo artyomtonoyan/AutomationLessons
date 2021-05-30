@@ -1,5 +1,12 @@
+package pageobjects.pages;
+
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.interactions.Actions;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
+
+import static setup.DriverSetup.getWebDriver;
 
 public class CreatePage extends BasePage {
 
@@ -7,6 +14,9 @@ public class CreatePage extends BasePage {
     private final By uploadButtonLocation = By.cssSelector("[accept='image/jpeg, image/png, image/gif']");
     private final By uploadButtonOuterPartLocation = By.cssSelector("[class*=uploadButtonWrapper] button");
     private final By avatarLocation = By.cssSelector(".pa-uiLib-headerProfileInfo-avatar");
+    private final By instagramProfileLocation = By.cssSelector("data-test='insta-profile'");
+
+    private static JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
 
     public CreatePage() {
         open(getURL());
@@ -23,11 +33,9 @@ public class CreatePage extends BasePage {
         actions.moveToElement(find(instagramStoryLocation)).click().build().perform();
     }
 
-
     public boolean isAvatarDisplayed() {
         return isDisplayed(avatarLocation);
     }
-
 
     public boolean isUserLoggedIn() {
         try {
@@ -38,6 +46,10 @@ public class CreatePage extends BasePage {
         }
     }
 
+    public void clickOnInstagramProfile() {
+        javascriptExecutor.executeScript("arguments[0].click()", find(instagramProfileLocation));
+    }
+
     public void waitForAvatarToDisplayed() {
         WaitHelper.getInstance().waitForElementToDisplayed(avatarLocation);
     }
@@ -46,4 +58,6 @@ public class CreatePage extends BasePage {
     public String getURL() {
         return BASE_URL_PICSART + "create";
     }
+
+
 }

@@ -1,5 +1,6 @@
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
+import pageobjects.pages.DesmosPageForWaitAndActionsExercise;
 
 import static org.testng.Assert.assertTrue;
 import static setup.DriverSetup.getWebDriver;
@@ -15,7 +16,7 @@ public class WaitAndActionsExerciseTest {
         assertTrue(desmosPage.isAlertMessageAppeared(), "There is no Alert!");
     }
 
-    @Test
+    @Test(enabled = false)
     public void actionTest() {
         DesmosPageForWaitAndActionsExercise desmosPage = new DesmosPageForWaitAndActionsExercise();
         desmosPage.clickOnGraphingCalculatorButton();
@@ -24,6 +25,6 @@ public class WaitAndActionsExerciseTest {
 
     @AfterMethod
     public void exit() {
-//        getWebDriver().quit();
+        getWebDriver().quit();
     }
 }

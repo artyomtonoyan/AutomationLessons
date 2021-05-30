@@ -1,5 +1,9 @@
+package pageobjects.pages;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
 
 import java.time.Duration;
 
@@ -45,6 +49,7 @@ public class DesmosPageForWaitAndActionsExercise extends BasePage {
     }
 
     public void typeFormulaAndChangePositionOfGraph(String formula) {
+        WaitHelper.getInstance().waitForElementToDisplayed(firstExpressionTextArea);
         type(firstExpressionTextArea, formula);
         Actions actions = new Actions(driver);
         actions.moveToElement(find(graphingArea))

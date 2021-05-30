@@ -1,4 +1,8 @@
+package pageobjects.dialogs;
+
 import org.openqa.selenium.By;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
 
 public class LoginDialog extends BasePage {
 
@@ -18,6 +22,7 @@ public class LoginDialog extends BasePage {
     }
 
     public void clickSignInButton() {
+        WaitHelper.getInstance().waitForElementToDisplayed(signInButtonLocation);
         click(signInButtonLocation);
     }
 

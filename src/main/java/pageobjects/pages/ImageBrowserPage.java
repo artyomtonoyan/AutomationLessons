@@ -1,5 +1,9 @@
+package pageobjects.pages;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -60,5 +64,4 @@ public class ImageBrowserPage extends BasePage {
     public String getURL() {
         return BASE_URL_PICSART + "i/";
     }
-
 }

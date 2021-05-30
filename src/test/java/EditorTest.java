@@ -1,13 +1,17 @@
+import base.BaseTestWithLogin;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
+import pageobjects.pages.CreatePage;
+import pageobjects.pages.EditorPage;
 
-import static org.testng.Assert.assertEquals;
-import static org.testng.Assert.assertTrue;
+import static org.testng.Assert.*;
+import static setup.DriverSetup.getWebDriver;
 
 
-public class EditorTest extends BaseTestWithoutLogin {
+public class EditorTest extends BaseTestWithLogin {
 
     @Test
-    public void editorOpen() {
+    public void countOfItemsInSideBarOfEditorTest() {
         CreatePage createPage = new CreatePage();
         createPage.clickInstagramStory();
         createPage.changeTab(1);
@@ -19,17 +23,19 @@ public class EditorTest extends BaseTestWithoutLogin {
     @Test
     public void uploadPhoto() {
         CreatePage createPage = new CreatePage();
-        createPage.uploadPhoto("/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/fortest.jpeg");
+        createPage.uploadPhoto("/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg");
+        assertEquals(getWebDriver().getCurrentUrl(), "https://picsartstage2.com/create/editor", "Upload unsuccessful!");
     }
 
     @Test
-    public void downloadFunctionalityFromEditor() {
+    public void downloadFunctionalityFromEditor(){
         EditorPage editorPage = new EditorPage();
         editorPage.open("?templateSize=insta_story");
         editorPage.clickOnDownloadButton();
         editorPage.clickOnDownloadButtonInModal();
-        assertTrue(editorPage.isDownloadSuccessfulDialogOpened(), "Download unsuccessful");
-        //Another option to check whether the file is downloaded to folder or not
-//        assertTrue(editorPage.isFileDownloaded(), "File is not downloaded");
+        SoftAssert softAssert = new SoftAssert();
+        softAssert.assertTrue(editorPage.isDownloadSuccessfulDialogOpened(), "Download unsuccessful");
+        softAssert.assertTrue(editorPage.isFileDownloaded(), "File is not downloaded");
+        softAssert.assertAll();
     }
 }

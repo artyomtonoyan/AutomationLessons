@@ -1,6 +1,7 @@
 import org.openqa.selenium.Cookie;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
+import pageobjects.pages.CreatePage;
 
 import static org.testng.Assert.assertTrue;
 import static setup.DriverSetup.getWebDriver;
@@ -18,6 +19,6 @@ public class LoginTest {
 
     @AfterMethod
     public void exit() {
-//        getWebDriver().quit();
+        getWebDriver().quit();
     }
 }

@@ -1,4 +1,8 @@
+package pageobjects.pages;
+
 import org.openqa.selenium.By;
+import pageobjects.base.BasePage;
+import utilities.WaitHelper;
 
 public class ChallengePage extends BasePage {
     private final By participateButtonLocation = By.cssSelector("[data-js-get-the-app-popup-source='challenge-landing']");

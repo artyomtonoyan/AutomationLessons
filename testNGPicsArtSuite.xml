@@ -1,0 +1,13 @@
+<suite name="PicsArt-Suite" parallel = "methods" thread-count = "8">
+    <listeners>
+        <listener class-name="listeners.TestListener"/>
+    </listeners>
+    <test name="FirstTest">
+        <classes>
+            <class name="ChallengeTest"/>
+            <class name="EditorTest"/>
+            <class name="ImageBrowserTest"/>
+            <class name="LoginTest"/>
+        </classes>
+    </test>
+</suite>

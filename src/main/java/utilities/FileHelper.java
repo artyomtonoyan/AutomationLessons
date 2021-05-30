@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
-public class FileService {
+public class FileHelper {
 
     /**
      * public static String[] read(String path) throws IOException {
