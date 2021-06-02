@@ -13,10 +13,10 @@ public class GoldPageTest extends BaseTestWithoutLogin {
             assertTrue(goldPage.isSlideActive(i), "Slide: " + i + 1 + ", is not active");
         }
     }
-//
-//    @Test
-//    public void slideshowWithActions() {
-//        GoldPage goldPage = new GoldPage();
-//        goldPage.changeCarouselWithActions();
-//    }
+
+    @Test(enabled = false)
+    public void slideshowWithActions() {
+        GoldPage goldPage = new GoldPage();
+        goldPage.changeCarouselWithActions();
+    }
 }

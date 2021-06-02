@@ -1,4 +1,4 @@
-<suite name="PicsArt-Suite" parallel = "methods" thread-count = "8">
+<suite name="PicsArt-Suite">
     <listeners>
         <listener class-name="listeners.TestListener"/>
     </listeners>
@@ -8,6 +8,7 @@
             <class name="EditorTest"/>
             <class name="ImageBrowserTest"/>
             <class name="LoginTest"/>
+            <class name="GoldPageTest" />
         </classes>
     </test>
 </suite>

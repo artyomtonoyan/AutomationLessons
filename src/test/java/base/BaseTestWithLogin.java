@@ -22,6 +22,6 @@ public class BaseTestWithLogin {
 
     @AfterMethod
     public void exit() {
-//        getWebDriver().quit();
+        getWebDriver().quit();
     }
 }
