@@ -1,9 +1,9 @@
 package pageobjects.pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
-import utilities.WaitHelper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,28 +11,28 @@ import java.util.List;
 public class ImageBrowserPage extends BasePage {
     public static final String[] HASHTAGS = {"#MYTEST", "#HELLO", "#DDDD"};
 
-    private final By likeIconLocation = By.cssSelector(".actions-section .notifier-hover-toggle .like");
-    private final By descriptionLocationHashtagsList = By.cssSelector(".description a");
-    private final By likesCountIconLocation = By.cssSelector(".notifier-hover-toggle .js-likes-count");
+    @FindBy(css = ".actions-section .notifier-hover-toggle .like")
+    private WebElement likeIcon;
 
-    public void clickOnLikeIcon() {
-        WaitHelper.getInstance().waitForElementToDisplayed(likeIconLocation);
-        click(likeIconLocation);
-    }
+    @FindBy(css = ".description a")
+    private List<WebElement> descriptionHashtagsList;
+
+    @FindBy(css = ".notifier-hover-toggle .js-likes-count")
+    private WebElement likesCountIcon;
+
 
     public ImageBrowserPage(String imageId) {
         open(getURL() + imageId);
+        PageFactory.initElements(driver, this);
     }
 
-    public ImageBrowserPage() {
-
+    public void clickOnLikeIcon() {
+        click(likeIcon);
     }
 
     ArrayList<String> getHashtagsList() {
-        WaitHelper.getInstance().waitForElementToDisplayed(descriptionLocationHashtagsList);
-        List<WebElement> hashtagsElements = findAll(descriptionLocationHashtagsList);
         ArrayList<String> hashtagsList = new ArrayList<>();
-        for (WebElement hashtagElement : hashtagsElements) {
+        for (WebElement hashtagElement : descriptionHashtagsList) {
             hashtagsList.add(hashtagElement.getText());
         }
         return hashtagsList;
@@ -51,13 +51,11 @@ public class ImageBrowserPage extends BasePage {
     }
 
     public boolean isLikedOld() {
-        WaitHelper.getInstance().waitForElementToDisplayed(likeIconLocation);
-        return find(likeIconLocation).getAttribute("class").contains("active");
+        return likeIcon.getAttribute("class").contains("active");
     }
 
     public boolean isLiked() {
-        WaitHelper.getInstance().waitForElementToDisplayed(likesCountIconLocation);
-        return find(likesCountIconLocation).getText().equals("1");
+        return likesCountIcon.getText().equals("1");
     }
 
     @Override

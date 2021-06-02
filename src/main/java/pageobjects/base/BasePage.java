@@ -18,6 +18,7 @@ public abstract class BasePage {
     private static final Logger LOGGER = Logger.getLogger(BasePage.class);
     protected WebDriver driver;
     public static final String BASE_URL_PICSART = System.getProperty("selenium.url", "http://picsartstage2.com/");
+
     public BasePage() {
         this.driver = getWebDriver();
         try {
@@ -94,22 +95,22 @@ public abstract class BasePage {
         click(find(location));
     }
 
-    /**
-     * public boolean isDisplayed(WebElement element) {
-     * try {
-     * String message = getCurrentDateAndTime() + ": " + "Checking is the element displayed: " + element.toString();
-     * System.out.println(message);
-     * write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
-     * } catch (IOException e) {
-     * System.out.println("File not found / Can't write: Current log can't be saved");
-     * }
-     * try {
-     * return element.isDisplayed();
-     * } catch (NoSuchElementException e) {
-     * return false;
-     * }
-     * }
-     **/
+
+    public boolean isDisplayed(WebElement element) {
+        try {
+            String message = getCurrentDateAndTime() + ": " + "Checking is the element displayed: " + element.toString();
+            System.out.println(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
+        } catch (IOException e) {
+            System.out.println("File not found / Can't write: Current log can't be saved");
+        }
+        try {
+            return element.isDisplayed();
+        } catch (NoSuchElementException e) {
+            return false;
+        }
+    }
+
     public boolean isDisplayed(By location) {
         try {
             String message = "Checking whether the element by locator displayed: " + location.toString();

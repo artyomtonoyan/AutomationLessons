@@ -4164,3 +4164,1689 @@ Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
 2021/05/30 23:50:32: Finding the element by the following location: By.cssSelector: [data-test='downloaded-button']
 2021/05/30 23:50:32: Clicking on the element: [[ChromeDriver: chrome on MAC (f730c9dc26fe5b658c0310144b81de88)] -> css selector: [data-test='downloaded-button']]
 2021/05/30 23:50:32: Waiting for the element by locator to appear: By.className: ReactModal__Content
+2021/05/31 19:02:43: Setting Driver: ChromeDriver: chrome on MAC (e22ccda921ca603b0c68494f85e4e77e)
+2021/05/31 19:02:43: Opening: http://picsartstage2.com/create
+2021/05/31 19:02:53: Creating new user: Email: 8cde75c9-2fba-464f-b4f2-54b509164b7d@gmail.com, Password: Test!!8493.
+2021/05/31 19:02:54: Uploading new photo in the user profile: 6e9362b5-45c9-4d55-a895-91fed0905842
+2021/05/31 19:03:59: Setting Driver: ChromeDriver: chrome on MAC (64be3ebc7ad67c3c3ad93b136223bf6f)
+2021/05/31 19:03:59: Opening: http://picsartstage2.com/create
+2021/05/31 19:04:03: Creating new user: Email: 7081ec64-3e0c-4bb8-a2a1-94d0097a56b4@gmail.com, Password: Test!!8493.
+2021/05/31 19:04:05: Uploading new photo in the user profile: 1890b9d5-f185-4605-83b3-a8582dcfde04
+2021/05/31 19:05:35: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:35: Opening: http://picsartstage2.com/create
+2021/05/31 19:05:42: Creating new user: Email: 102e2605-0030-4a2e-8fb0-5692509d0b6d@gmail.com, Password: Test!!8493.
+2021/05/31 19:05:43: Uploading new photo in the user profile: 67422dc8-29cc-42c4-bda4-d4b255d4218f
+2021/05/31 19:05:44: Liking the photo:  360169543113201 of the following user: 67422dc8-29cc-42c4-bda4-d4b255d4218f
+2021/05/31 19:05:44: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:44: Opening: http://picsartstage2.com/i/360169543113201
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:51: Setting Driver: ChromeDriver: chrome on MAC (c6ba5478d901c3b845a2ed9ee6f6c457)
+2021/05/31 19:05:52: Deleting the user: 67422dc8-29cc-42c4-bda4-d4b255d4218f
+2021/05/31 19:08:03: Setting Driver: ChromeDriver: chrome on MAC (29164e4139409c256b8c1e90dbebf392)
+2021/05/31 19:08:03: Opening: http://picsartstage2.com/create
+2021/05/31 19:08:28: Creating new user: Email: 50ff5c77-8f48-4b23-8151-81e17b0ef3f5@gmail.com, Password: Test!!8493.
+2021/05/31 19:08:29: Uploading new photo in the user profile: 53117ad6-d04d-4c0f-b2bc-35ca878fbf2f
+2021/05/31 19:09:09: Setting Driver: ChromeDriver: chrome on MAC (032e8b15c1c042f4820c6306acbd399d)
+2021/05/31 19:09:09: Opening: http://picsartstage2.com/create
+2021/05/31 19:09:17: Creating new user: Email: ab2ef397-ce9f-4879-9594-ce7f7222c2a7@gmail.com, Password: Test!!8493.
+2021/05/31 19:09:19: Uploading new photo in the user profile: 89af915c-95e3-4323-b955-4e92587117fb
+2021/05/31 19:09:48: Setting Driver: ChromeDriver: chrome on MAC (dc784d3e211297769efbd6c0af922e78)
+2021/05/31 19:09:48: Opening: http://picsartstage2.com/create
+2021/05/31 19:09:57: Creating new user: Email: 64d8e885-b9e5-4856-86a7-161f68479b18@gmail.com, Password: Test!!8493.
+2021/05/31 19:09:58: Uploading new photo in the user profile: e65f949d-848e-4812-82d8-c94f2042246b
+2021/05/31 19:12:39: Setting Driver: ChromeDriver: chrome on MAC (fe471dbc1f945a02f59b7bf18b0fb5d4)
+2021/05/31 19:12:39: Opening: http://picsartstage2.com/create
+2021/05/31 19:12:46: Creating new user: Email: 592148ca-2536-4d27-ac55-dcc198bbb483@gmail.com, Password: Test!!8493.
+2021/05/31 19:12:47: Uploading new photo in the user profile: a9e93cf2-e12c-415b-aac8-ffe2a429ca8a
+2021/05/31 19:13:06: Setting Driver: ChromeDriver: chrome on MAC (782eed09aa1e38aa0e372ffdd2167866)
+2021/05/31 19:13:07: Opening: http://picsartstage2.com/create
+2021/05/31 19:13:12: Creating new user: Email: 2f4950ba-6b3b-4489-a464-f586b6ad201b@gmail.com, Password: Test!!8493.
+2021/05/31 19:13:13: Uploading new photo in the user profile: 7d5e6fd9-4de9-4c64-bfa6-cf4f80ae623a
+2021/05/31 19:13:40: Setting Driver: ChromeDriver: chrome on MAC (f6d99a1e755a8f82eaf5245eb32cd1f8)
+2021/05/31 19:13:40: Opening: http://picsartstage2.com/create
+2021/05/31 19:13:47: Creating new user: Email: 4aa42ef8-86c2-4558-ab08-4afc24e30823@gmail.com, Password: Test!!8493.
+2021/05/31 19:13:48: Uploading new photo in the user profile: 620ef8b9-6789-4dab-9df1-8ae81369bee1
+2021/05/31 19:14:19: Setting Driver: ChromeDriver: chrome on MAC (235774c765fbb5c232de2396bbaa5552)
+2021/05/31 19:14:19: Opening: http://picsartstage2.com/create
+2021/05/31 19:14:27: Creating new user: Email: e7b4d75a-59eb-48e3-a4b0-91317f20fea7@gmail.com, Password: Test!!8493.
+2021/05/31 19:14:30: Uploading new photo in the user profile: 8fd98d12-caa2-4b4d-aae8-bbf733cbcc91
+2021/05/31 19:15:31: Setting Driver: ChromeDriver: chrome on MAC (ce567a34f8565d759ce9f0b105680e0f)
+2021/05/31 19:15:31: Opening: http://picsartstage2.com/create
+2021/05/31 19:15:43: Creating new user: Email: bc703620-0810-4587-b1ff-9717d765dd25@gmail.com, Password: Test!!8493.
+2021/05/31 19:15:53: Uploading new photo in the user profile: 4b80d843-873c-4859-a158-14ae1780542f
+2021/05/31 19:16:33: Liking the photo:  360170156086201 of the following user: 4b80d843-873c-4859-a158-14ae1780542f
+2021/05/31 19:16:43: Setting Driver: ChromeDriver: chrome on MAC (04df121b314a1e5acf963c42cbff75d4)
+2021/05/31 19:16:43: Opening: http://picsartstage2.com/create
+2021/05/31 19:17:08: Creating new user: Email: 07fa5300-3ca4-4f75-8a9a-a848892210fc@gmail.com, Password: Test!!8493.
+2021/05/31 19:17:13: Setting Driver: ChromeDriver: chrome on MAC (06bdbd228852f65ce19a2c1a2e0a050b)
+2021/05/31 19:17:13: Opening: http://picsartstage2.com/create
+2021/05/31 19:17:19: Creating new user: Email: 155a58d6-aef3-4be5-967f-57a2d115bacc@gmail.com, Password: Test!!8493.
+2021/05/31 19:17:20: Uploading new photo in the user profile: 160b20b5-8fb7-4a73-8497-b4fa5c12c781
+2021/05/31 19:24:08: Setting Driver: ChromeDriver: chrome on MAC (62554e046cb371cb15f368dbcf658c69)
+2021/05/31 19:24:08: Opening: http://picsartstage2.com/create
+2021/05/31 19:24:13: Creating new user: Email: 30bb8c04-4850-4ce5-98f7-1ebc02ab8782@gmail.com, Password: Test!!8493.
+2021/05/31 19:24:34: Setting Driver: ChromeDriver: chrome on MAC (a50078e618ea84f5e859ef4c77fd15b9)
+2021/05/31 19:24:34: Opening: http://picsartstage2.com/create
+2021/05/31 19:24:41: Setting Driver: ChromeDriver: chrome on MAC (a50078e618ea84f5e859ef4c77fd15b9)
+2021/05/31 19:24:41: Opening: http://picsartstage2.com/i/359822341040201
+2021/05/31 19:24:48: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:24:48: Finding the element by the following location: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:24:48: Deleting the user: null
+2021/05/31 19:25:06: Setting Driver: ChromeDriver: chrome on MAC (0ac2bcd87fe6c32891c8e8d11cee50d8)
+2021/05/31 19:25:06: Opening: http://picsartstage2.com/create
+2021/05/31 19:25:11: Setting Driver: ChromeDriver: chrome on MAC (0ac2bcd87fe6c32891c8e8d11cee50d8)
+2021/05/31 19:25:11: Opening: http://picsartstage2.com/i/359822341040201
+2021/05/31 19:25:17: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:25:17: Finding the element by the following location: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:28:02: Setting Driver: ChromeDriver: chrome on MAC (134077f076fa8f9d36b7ef45d02bcced)
+2021/05/31 19:28:02: Opening: http://picsartstage2.com/create
+2021/05/31 19:28:08: Setting Driver: ChromeDriver: chrome on MAC (134077f076fa8f9d36b7ef45d02bcced)
+2021/05/31 19:28:08: Opening: http://picsartstage2.com/i/359822341040201
+2021/05/31 19:28:15: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:28:15: Finding the element by the following location: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:29:38: Setting Driver: ChromeDriver: chrome on MAC (8c53ad108471eadbf11427dda46a1393)
+2021/05/31 19:29:38: Opening: http://picsartstage2.com/create
+2021/05/31 19:29:45: Setting Driver: ChromeDriver: chrome on MAC (8c53ad108471eadbf11427dda46a1393)
+2021/05/31 19:29:45: Opening: http://picsartstage2.com/i/359822341040201
+2021/05/31 19:29:52: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:29:52: Finding the element by the following location: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:30:52: Setting Driver: ChromeDriver: chrome on MAC (50313f23f3fdbf1e3b4cc022ba572b31)
+2021/05/31 19:30:52: Opening: http://picsartstage2.com/create
+2021/05/31 19:30:59: Setting Driver: ChromeDriver: chrome on MAC (50313f23f3fdbf1e3b4cc022ba572b31)
+2021/05/31 19:30:59: Opening: http://picsartstage2.com/i/359822341040201
+2021/05/31 19:31:07: Waiting for the element by locator to appear: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:31:08: Finding the element by the following location: By.cssSelector: .notifier-hover-toggle .js-likes-count
+2021/05/31 19:46:16: Setting Driver: ChromeDriver: chrome on MAC (57509966a6365599a3bf966b1b11dd5a)
+2021/05/31 19:46:16: Opening: http://picsartstage2.com/create
+2021/05/31 19:46:22: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/31 19:47:55: Setting Driver: ChromeDriver: chrome on MAC (5c59f247cc8f45d681d6d2db36304303)
+2021/05/31 19:47:55: Opening: http://picsartstage2.com/create
+2021/05/31 19:48:01: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/31 19:50:44: Setting Driver: ChromeDriver: chrome on MAC (2d29332f12ce42c318f0ec822aabeb58)
+2021/05/31 19:50:44: Opening: http://picsartstage2.com/create
+2021/05/31 19:50:50: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/05/31 19:53:42: Setting Driver: ChromeDriver: chrome on MAC (f4502660f238876ecd7c9c0bc1bcc8db)
+2021/05/31 19:53:42: Opening: http://picsartstage2.com/create
+2021/05/31 19:53:48: Setting Driver: ChromeDriver: chrome on MAC (f4502660f238876ecd7c9c0bc1bcc8db)
+2021/05/31 19:53:48: Opening: http://picsartstage2.com/create
+2021/05/31 19:53:52: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/05/31 19:53:53: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/05/31 19:53:55: Switching to tab by the index of: 1
+2021/05/31 19:53:55: Setting Driver: ChromeDriver: chrome on MAC (f4502660f238876ecd7c9c0bc1bcc8db)
+2021/05/31 19:53:55: Waiting for the element by locator to appear: By.id: background-category
+2021/05/31 19:53:57: Finding the element by the following location: By.id: background-category
+2021/05/31 19:53:57: Clicking on the element: [[ChromeDriver: chrome on MAC (f4502660f238876ecd7c9c0bc1bcc8db)] -> id: background-category]
+2021/05/31 19:53:57: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/05/31 19:53:58: Finding all elements by the following location: By.cssSelector: [class*='customSizeContainer']
+2021/06/02 21:37:21: Setting Driver: ChromeDriver: chrome on MAC (cae2be0f1975a79700a3269db8f26c3e)
+2021/06/02 21:37:21: Opening: http://picsartstage2.com/create
+2021/06/02 21:37:30: Creating new user: Email: 952b2e7b-2a6a-45ec-be79-99aed75da9c7@gmail.com, Password: Test!!8493.
+2021/06/02 21:37:31: Uploading new photo in the user profile: d7bc52ed-7611-4959-9560-fb52366ea1f9
+2021/06/02 21:37:33: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: d7bc52ed-7611-4959-9560-fb52366ea1f9 photo: 360351452047201
+2021/06/02 21:37:33: Setting Driver: ChromeDriver: chrome on MAC (cae2be0f1975a79700a3269db8f26c3e)
+2021/06/02 21:37:33: Opening: http://picsartstage2.com/i/360351452047201
+2021/06/02 21:37:58: Deleting the user: d7bc52ed-7611-4959-9560-fb52366ea1f9
+2021/06/02 21:38:25: Setting Driver: ChromeDriver: chrome on MAC (3cc8c78c7ae6a62f316841dddc98b54a)
+2021/06/02 21:38:25: Opening: http://picsartstage2.com/create
+2021/06/02 21:38:33: Creating new user: Email: cb5e04cd-901d-4480-aca8-d85c775b6a9b@gmail.com, Password: Test!!8493.
+2021/06/02 21:38:34: Uploading new photo in the user profile: 5824c2d9-3eee-44d7-8e94-27132112464b
+2021/06/02 21:38:35: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: 5824c2d9-3eee-44d7-8e94-27132112464b photo: 360351515054201
+2021/06/02 21:38:36: Setting Driver: ChromeDriver: chrome on MAC (3cc8c78c7ae6a62f316841dddc98b54a)
+2021/06/02 21:38:36: Opening: http://picsartstage2.com/i/360351515054201
+2021/06/02 21:38:54: Deleting the user: 5824c2d9-3eee-44d7-8e94-27132112464b
+2021/06/02 21:39:51: Setting Driver: ChromeDriver: chrome on MAC (44710491bea6d2661911dd2c7748b935)
+2021/06/02 21:39:51: Opening: http://picsartstage2.com/create
+2021/06/02 21:39:59: Creating new user: Email: c2d23985-62eb-44b8-95c7-e3b24aae5384@gmail.com, Password: Test!!8493.
+2021/06/02 21:40:02: Uploading new photo in the user profile: 41735938-3bd1-453e-865b-f4977b165983
+2021/06/02 21:44:40: Setting Driver: ChromeDriver: chrome on MAC (de9160ebdb084bc458350cb187900520)
+2021/06/02 21:44:40: Opening: http://picsartstage2.com/create
+2021/06/02 21:44:48: Creating new user: Email: 0cc83554-26f2-4a31-8184-4d58a1e94638@gmail.com, Password: Test!!8493.
+2021/06/02 21:44:49: Uploading new photo in the user profile: ba1d8b99-8d7b-4f45-8458-70d12d3bc13e
+2021/06/02 21:44:50: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: ba1d8b99-8d7b-4f45-8458-70d12d3bc13e photo: 360351890013201
+2021/06/02 21:44:51: Setting Driver: ChromeDriver: chrome on MAC (de9160ebdb084bc458350cb187900520)
+2021/06/02 21:44:51: Opening: http://picsartstage2.com/i/360351890013201
+2021/06/02 21:45:09: Deleting the user: ba1d8b99-8d7b-4f45-8458-70d12d3bc13e
+2021/06/02 21:46:50: Setting Driver: ChromeDriver: chrome on MAC (2d4c67f73ddfa4c4713f0c17401b392e)
+2021/06/02 21:46:50: Opening: http://picsartstage2.com/create
+2021/06/02 21:46:58: Creating new user: Email: 4bc97bf5-dedc-47d3-8406-15dd36e87f5c@gmail.com, Password: Test!!8493.
+2021/06/02 21:47:00: Uploading new photo in the user profile: f3656fd4-4ca9-4923-870b-45565323ff72
+2021/06/02 21:47:02: Liking the photo:  360352022015201 of the following user: f3656fd4-4ca9-4923-870b-45565323ff72
+2021/06/02 21:47:02: Setting Driver: ChromeDriver: chrome on MAC (2d4c67f73ddfa4c4713f0c17401b392e)
+2021/06/02 21:47:02: Opening: http://picsartstage2.com/i/360352022015201
+2021/06/02 21:47:20: Deleting the user: f3656fd4-4ca9-4923-870b-45565323ff72
+2021/06/02 22:38:54: Setting Driver: ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)
+2021/06/02 22:38:54: Opening: http://picsartstage2.com/
+2021/06/02 22:38:58: Setting Driver: ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)
+2021/06/02 22:38:58: Opening: http://picsartstage2.com/
+2021/06/02 22:38:59: Clicking on the element: [[ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/02 22:39:10: Setting Driver: ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)
+2021/06/02 22:39:10: Setting Driver: ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)
+2021/06/02 22:39:10: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/06/02 22:39:10: Finding all elements by the following location: By.cssSelector: .grid-cards .card
+2021/06/02 22:39:10: Clicking on the element: [[ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)] -> css selector: .grid-cards .card]
+2021/06/02 22:39:17: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/06/02 22:39:17: Finding the element by the following location: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/06/02 22:39:17: Clicking on the element: [[ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/02 22:39:17: Setting Driver: ChromeDriver: chrome on MAC (6cdf7a21489759cf23b82750580bb698)
+2021/06/02 22:39:17: Checking whether the element by locator displayed: By.cssSelector: .qrcode
+2021/06/02 22:39:17: Finding the element by the following location: By.cssSelector: .qrcode
+2021/06/02 22:39:27: Setting Driver: ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)
+2021/06/02 22:39:27: Opening: http://picsartstage2.com/
+2021/06/02 22:39:36: Setting Driver: ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)
+2021/06/02 22:39:36: Opening: http://picsartstage2.com/
+2021/06/02 22:39:37: Clicking on the element: [[ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/02 22:39:49: Setting Driver: ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)
+2021/06/02 22:39:49: Setting Driver: ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)
+2021/06/02 22:39:49: Waiting for the element by locator to appear: By.cssSelector: .grid-cards .card
+2021/06/02 22:39:49: Finding all elements by the following location: By.cssSelector: .grid-cards .card
+2021/06/02 22:39:49: Clicking on the element: [[ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)] -> css selector: .grid-cards .card]
+2021/06/02 22:39:55: Waiting for the element by locator to appear: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/06/02 22:39:55: Finding the element by the following location: By.cssSelector: [data-js-get-the-app-popup-source='challenge-landing']
+2021/06/02 22:39:55: Clicking on the element: [[ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/02 22:39:55: Setting Driver: ChromeDriver: chrome on MAC (18000232692d66a7ce2f426a15058194)
+2021/06/02 22:39:55: Checking whether the element by locator displayed: By.cssSelector: .qrcode
+2021/06/02 22:39:55: Finding the element by the following location: By.cssSelector: .qrcode
+2021/06/02 22:56:23: Setting Driver: ChromeDriver: chrome on MAC (4c62e063ea3a00ef30650bd76ebd108f)
+2021/06/02 22:56:23: Opening: http://picsartstage2.com/create
+2021/06/02 22:56:30: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 22:56:47: Setting Driver: ChromeDriver: chrome on MAC (4c62e063ea3a00ef30650bd76ebd108f)
+2021/06/02 22:56:47: Opening: http://picsartstage2.com/create
+2021/06/02 22:56:48: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 22:56:48: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 22:56:48: Switching to tab by the index of: 1
+2021/06/02 22:56:48: Setting Driver: ChromeDriver: chrome on MAC (4c62e063ea3a00ef30650bd76ebd108f)
+2021/06/02 22:58:50: Setting Driver: ChromeDriver: chrome on MAC (753f9b30baebccb6b213cd5e47d61257)
+2021/06/02 22:58:50: Opening: http://picsartstage2.com/create
+2021/06/02 22:59:00: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 22:59:21: Setting Driver: ChromeDriver: chrome on MAC (753f9b30baebccb6b213cd5e47d61257)
+2021/06/02 22:59:21: Opening: http://picsartstage2.com/create
+2021/06/02 22:59:21: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 22:59:22: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 22:59:22: Switching to tab by the index of: 1
+2021/06/02 22:59:22: Setting Driver: ChromeDriver: chrome on MAC (753f9b30baebccb6b213cd5e47d61257)
+2021/06/02 22:59:25: Clicking on the element: [[ChromeDriver: chrome on MAC (753f9b30baebccb6b213cd5e47d61257)] -> id: background-category]
+2021/06/02 23:07:22: Setting Driver: ChromeDriver: chrome on MAC (a44cee96c950338f8347499426b89c99)
+2021/06/02 23:07:22: Opening: http://picsartstage2.com/create
+2021/06/02 23:07:31: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:07:51: Setting Driver: ChromeDriver: chrome on MAC (a44cee96c950338f8347499426b89c99)
+2021/06/02 23:07:51: Opening: http://picsartstage2.com/create
+2021/06/02 23:07:52: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:07:52: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:07:53: Switching to tab by the index of: 1
+2021/06/02 23:07:53: Setting Driver: ChromeDriver: chrome on MAC (a44cee96c950338f8347499426b89c99)
+2021/06/02 23:07:54: Clicking on the element: [[ChromeDriver: chrome on MAC (a44cee96c950338f8347499426b89c99)] -> id: background-category]
+2021/06/02 23:11:47: Setting Driver: ChromeDriver: chrome on MAC (a1f1e7267d857862195e42bf7a105980)
+2021/06/02 23:11:47: Opening: http://picsartstage2.com/create
+2021/06/02 23:11:57: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:12:26: Setting Driver: ChromeDriver: chrome on MAC (a1f1e7267d857862195e42bf7a105980)
+2021/06/02 23:12:26: Opening: http://picsartstage2.com/create
+2021/06/02 23:12:28: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:12:28: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:12:28: Switching to tab by the index of: 1
+2021/06/02 23:12:28: Setting Driver: ChromeDriver: chrome on MAC (a1f1e7267d857862195e42bf7a105980)
+2021/06/02 23:12:45: Clicking on the element: [[ChromeDriver: chrome on MAC (a1f1e7267d857862195e42bf7a105980)] -> id: background-category]
+2021/06/02 23:14:04: Setting Driver: ChromeDriver: chrome on MAC (ac4281ee9a2db26dfc08f8b35baf2956)
+2021/06/02 23:14:04: Opening: http://picsartstage2.com/create
+2021/06/02 23:14:12: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:14:30: Setting Driver: ChromeDriver: chrome on MAC (ac4281ee9a2db26dfc08f8b35baf2956)
+2021/06/02 23:14:30: Opening: http://picsartstage2.com/create
+2021/06/02 23:14:31: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:14:32: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:14:32: Switching to tab by the index of: 1
+2021/06/02 23:14:32: Setting Driver: ChromeDriver: chrome on MAC (ac4281ee9a2db26dfc08f8b35baf2956)
+2021/06/02 23:14:35: Clicking on the element: [[ChromeDriver: chrome on MAC (ac4281ee9a2db26dfc08f8b35baf2956)] -> id: background-category]
+2021/06/02 23:15:02: Setting Driver: ChromeDriver: chrome on MAC (e35699cee0631222e9f4b5345e42360c)
+2021/06/02 23:15:02: Opening: http://picsartstage2.com/create
+2021/06/02 23:15:13: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:16:00: Setting Driver: ChromeDriver: chrome on MAC (fbff02173333177b5b2d6d4b3038b685)
+2021/06/02 23:16:00: Opening: http://picsartstage2.com/create
+2021/06/02 23:16:09: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:16:27: Setting Driver: ChromeDriver: chrome on MAC (fbff02173333177b5b2d6d4b3038b685)
+2021/06/02 23:16:27: Opening: http://picsartstage2.com/create
+2021/06/02 23:16:28: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:16:28: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:16:28: Switching to tab by the index of: 1
+2021/06/02 23:16:28: Setting Driver: ChromeDriver: chrome on MAC (fbff02173333177b5b2d6d4b3038b685)
+2021/06/02 23:16:31: Clicking on the element: [[ChromeDriver: chrome on MAC (fbff02173333177b5b2d6d4b3038b685)] -> id: background-category]
+2021/06/02 23:17:36: Setting Driver: ChromeDriver: chrome on MAC (de882c327a65ddb3defed3ee5557fa20)
+2021/06/02 23:17:36: Opening: http://picsartstage2.com/create
+2021/06/02 23:17:42: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:17:57: Setting Driver: ChromeDriver: chrome on MAC (de882c327a65ddb3defed3ee5557fa20)
+2021/06/02 23:17:57: Opening: http://picsartstage2.com/create
+2021/06/02 23:17:59: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:17:59: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:18:00: Switching to tab by the index of: 1
+2021/06/02 23:18:00: Setting Driver: ChromeDriver: chrome on MAC (de882c327a65ddb3defed3ee5557fa20)
+2021/06/02 23:18:02: Clicking on the element: [[ChromeDriver: chrome on MAC (de882c327a65ddb3defed3ee5557fa20)] -> id: background-category]
+2021/06/02 23:18:33: Setting Driver: ChromeDriver: chrome on MAC (0e621a57d52721f91dac10a27f0f6a5d)
+2021/06/02 23:18:33: Opening: http://picsartstage2.com/create
+2021/06/02 23:18:41: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:18:58: Setting Driver: ChromeDriver: chrome on MAC (0e621a57d52721f91dac10a27f0f6a5d)
+2021/06/02 23:18:58: Opening: http://picsartstage2.com/create
+2021/06/02 23:19:00: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:19:00: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:19:01: Switching to tab by the index of: 1
+2021/06/02 23:19:01: Setting Driver: ChromeDriver: chrome on MAC (0e621a57d52721f91dac10a27f0f6a5d)
+2021/06/02 23:19:04: Clicking on the element: [[ChromeDriver: chrome on MAC (0e621a57d52721f91dac10a27f0f6a5d)] -> id: background-category]
+2021/06/02 23:19:52: Setting Driver: ChromeDriver: chrome on MAC (d317b2faafad6452f7a708333c5331b3)
+2021/06/02 23:19:52: Opening: http://picsartstage2.com/create
+2021/06/02 23:20:00: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:20:15: Setting Driver: ChromeDriver: chrome on MAC (d317b2faafad6452f7a708333c5331b3)
+2021/06/02 23:20:15: Opening: http://picsartstage2.com/create
+2021/06/02 23:20:16: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:20:17: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:20:17: Switching to tab by the index of: 1
+2021/06/02 23:20:17: Setting Driver: ChromeDriver: chrome on MAC (d317b2faafad6452f7a708333c5331b3)
+2021/06/02 23:20:20: Clicking on the element: [[ChromeDriver: chrome on MAC (d317b2faafad6452f7a708333c5331b3)] -> id: background-category]
+2021/06/02 23:22:13: Setting Driver: ChromeDriver: chrome on MAC (a07ec05171e3bf33135cce599a6e02e1)
+2021/06/02 23:22:13: Opening: http://picsartstage2.com/create
+2021/06/02 23:22:20: Waiting for the element by locator to appear: By.cssSelector: .pa-uiLib-headerProfileInfo-avatar
+2021/06/02 23:22:35: Setting Driver: ChromeDriver: chrome on MAC (a07ec05171e3bf33135cce599a6e02e1)
+2021/06/02 23:22:35: Opening: http://picsartstage2.com/create
+2021/06/02 23:22:36: Waiting for the element by locator to appear: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:22:36: Finding the element by the following location: By.cssSelector: [data-test='insta-story']
+2021/06/02 23:22:37: Switching to tab by the index of: 1
+2021/06/02 23:22:37: Setting Driver: ChromeDriver: chrome on MAC (a07ec05171e3bf33135cce599a6e02e1)
+2021/06/02 23:22:39: Clicking on the element: [[ChromeDriver: chrome on MAC (a07ec05171e3bf33135cce599a6e02e1)] -> id: background-category]
+2021/06/02 23:22:39: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/02 23:41:59: Setting Driver: ChromeDriver: chrome on MAC (1858b3226a7f85bd256eae73d9736a96)
+2021/06/02 23:41:59: Opening: http://picsartstage2.com/create
+2021/06/02 23:42:22: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/02 23:42:24: Setting Driver: ChromeDriver: chrome on MAC (1858b3226a7f85bd256eae73d9736a96)
+2021/06/02 23:42:24: Opening: http://picsartstage2.com/create
+2021/06/02 23:42:50: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (1858b3226a7f85bd256eae73d9736a96)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/02 23:43:11: Setting Driver: ChromeDriver: chrome on MAC (45d212b94a077b907081eadffea78e9d)
+2021/06/02 23:43:11: Opening: http://picsartstage2.com/create
+2021/06/02 23:43:39: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/02 23:43:40: Setting Driver: ChromeDriver: chrome on MAC (45d212b94a077b907081eadffea78e9d)
+2021/06/02 23:43:40: Opening: http://picsartstage2.com/create
+2021/06/02 23:43:59: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (45d212b94a077b907081eadffea78e9d)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/02 23:44:35: Setting Driver: ChromeDriver: chrome on MAC (560dbc9c14bac9d174956a4d537aaaf2)
+2021/06/02 23:44:35: Opening: http://picsartstage2.com/create
+2021/06/02 23:44:57: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/02 23:45:00: Setting Driver: ChromeDriver: chrome on MAC (560dbc9c14bac9d174956a4d537aaaf2)
+2021/06/02 23:45:00: Opening: http://picsartstage2.com/create
+2021/06/02 23:45:02: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (560dbc9c14bac9d174956a4d537aaaf2)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/02 23:45:14: Setting Driver: ChromeDriver: chrome on MAC (ef0c9c9fc6796bb2cd44f78273f79493)
+2021/06/02 23:45:14: Opening: http://picsartstage2.com/create
+2021/06/02 23:45:39: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/02 23:45:43: Setting Driver: ChromeDriver: chrome on MAC (ef0c9c9fc6796bb2cd44f78273f79493)
+2021/06/02 23:45:43: Opening: http://picsartstage2.com/create
+2021/06/02 23:46:14: Switching to tab by the index of: 1
+2021/06/02 23:46:14: Setting Driver: ChromeDriver: chrome on MAC (ef0c9c9fc6796bb2cd44f78273f79493)
+2021/06/02 23:46:24: Clicking on the element: [[ChromeDriver: chrome on MAC (ef0c9c9fc6796bb2cd44f78273f79493)] -> id: background-category]
+2021/06/02 23:46:24: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/02 23:46:35: Setting Driver: ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)
+2021/06/02 23:46:35: Opening: http://picsartstage2.com/create
+2021/06/02 23:47:27: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/02 23:47:27: Setting Driver: ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)
+2021/06/02 23:47:27: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/02 23:47:36: Clicking on the element: [[ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)] -> id: download-button]
+2021/06/02 23:47:37: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)] -> css selector: [data-test='downloaded-button']]
+2021/06/02 23:47:37: Clicking on the element: [[ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)] -> css selector: [data-test='downloaded-button']]
+2021/06/02 23:47:37: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (60e9d6104254b14725d88aa98bb70a56)] -> class name: ReactModal__Content]
+2021/06/02 23:48:15: Setting Driver: ChromeDriver: chrome on MAC (1d2447e74e91ce37be521db21c35e573)
+2021/06/02 23:48:15: Opening: http://picsartstage2.com/create
+2021/06/02 23:48:40: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (1d2447e74e91ce37be521db21c35e573)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/02 23:58:37: Setting Driver: ChromeDriver: chrome on MAC (e143aa5ed59093d13d397ca481cb4035)
+2021/06/02 23:58:37: Opening: http://picsartstage2.com/
+2021/06/02 23:58:40: Setting Driver: ChromeDriver: chrome on MAC (e143aa5ed59093d13d397ca481cb4035)
+2021/06/02 23:58:40: Opening: http://picsartstage2.com/
+2021/06/02 23:58:41: Clicking on the element: [[ChromeDriver: chrome on MAC (e143aa5ed59093d13d397ca481cb4035)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/02 23:58:53: Setting Driver: ChromeDriver: chrome on MAC (e143aa5ed59093d13d397ca481cb4035)
+2021/06/02 23:58:53: Setting Driver: ChromeDriver: chrome on MAC (e143aa5ed59093d13d397ca481cb4035)
+2021/06/03 00:01:03: Setting Driver: ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)
+2021/06/03 00:01:03: Opening: http://picsartstage2.com/
+2021/06/03 00:01:07: Setting Driver: ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)
+2021/06/03 00:01:07: Opening: http://picsartstage2.com/
+2021/06/03 00:01:08: Clicking on the element: [[ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/03 00:01:23: Setting Driver: ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)
+2021/06/03 00:01:23: Setting Driver: ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)
+2021/06/03 00:01:23: Clicking on the element: [[ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)] -> css selector: .grid-cards .card]
+2021/06/03 00:01:31: Clicking on the element: [[ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/03 00:01:31: Setting Driver: ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)
+2021/06/03 00:01:31: 2021/06/03 00:01:31: Checking is the element displayed: [[ChromeDriver: chrome on MAC (afda4eaacd081ccc6eb84161074944aa)] -> css selector: .qrcode]
+2021/06/03 00:02:34: Setting Driver: ChromeDriver: chrome on MAC (09968f9c5b75e9839128a433e05465b4)
+2021/06/03 00:02:34: Opening: http://picsartstage2.com/
+2021/06/03 00:02:40: Setting Driver: ChromeDriver: chrome on MAC (09968f9c5b75e9839128a433e05465b4)
+2021/06/03 00:02:40: Opening: http://picsartstage2.com/challenge/ircfilltheplate
+2021/06/03 00:03:00: Clicking on the element: [[ChromeDriver: chrome on MAC (09968f9c5b75e9839128a433e05465b4)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/03 00:03:00: Setting Driver: ChromeDriver: chrome on MAC (09968f9c5b75e9839128a433e05465b4)
+2021/06/03 00:03:00: 2021/06/03 00:03:00: Checking is the element displayed: [[ChromeDriver: chrome on MAC (09968f9c5b75e9839128a433e05465b4)] -> css selector: .qrcode]
+2021/06/03 00:03:22: Setting Driver: ChromeDriver: chrome on MAC (b80aac830f8692f53f8eeba52aec6a50)
+2021/06/03 00:03:22: Opening: http://picsartstage2.com/create
+2021/06/03 00:03:45: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:03:47: Setting Driver: ChromeDriver: chrome on MAC (b80aac830f8692f53f8eeba52aec6a50)
+2021/06/03 00:03:47: Opening: http://picsartstage2.com/create
+2021/06/03 00:03:49: Switching to tab by the index of: 1
+2021/06/03 00:03:49: Setting Driver: ChromeDriver: chrome on MAC (b80aac830f8692f53f8eeba52aec6a50)
+2021/06/03 00:03:52: Clicking on the element: [[ChromeDriver: chrome on MAC (b80aac830f8692f53f8eeba52aec6a50)] -> id: background-category]
+2021/06/03 00:03:52: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/03 00:04:41: Setting Driver: ChromeDriver: chrome on MAC (146ca985cedcd8f291003f8bfb595cd2)
+2021/06/03 00:04:41: Opening: http://picsartstage2.com/create
+2021/06/03 00:05:06: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:05:16: Setting Driver: ChromeDriver: chrome on MAC (146ca985cedcd8f291003f8bfb595cd2)
+2021/06/03 00:05:16: Opening: http://picsartstage2.com/create
+2021/06/03 00:05:18: Switching to tab by the index of: 1
+2021/06/03 00:05:18: Setting Driver: ChromeDriver: chrome on MAC (146ca985cedcd8f291003f8bfb595cd2)
+2021/06/03 00:05:22: Clicking on the element: [[ChromeDriver: chrome on MAC (146ca985cedcd8f291003f8bfb595cd2)] -> id: background-category]
+2021/06/03 00:05:23: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/03 00:06:03: Setting Driver: ChromeDriver: chrome on MAC (d4174871e2670d71fbe5df3024825811)
+2021/06/03 00:06:03: Opening: http://picsartstage2.com/create
+2021/06/03 00:06:28: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:06:29: Setting Driver: ChromeDriver: chrome on MAC (d4174871e2670d71fbe5df3024825811)
+2021/06/03 00:06:29: Opening: http://picsartstage2.com/create
+2021/06/03 00:06:31: Switching to tab by the index of: 1
+2021/06/03 00:06:31: Setting Driver: ChromeDriver: chrome on MAC (d4174871e2670d71fbe5df3024825811)
+2021/06/03 00:06:35: Clicking on the element: [[ChromeDriver: chrome on MAC (d4174871e2670d71fbe5df3024825811)] -> id: background-category]
+2021/06/03 00:06:35: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/03 00:07:00: Setting Driver: ChromeDriver: chrome on MAC (73d8e2380ad237650fbbd3fd7084ebce)
+2021/06/03 00:07:00: Opening: http://picsartstage2.com/create
+2021/06/03 00:07:16: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:07:25: Setting Driver: ChromeDriver: chrome on MAC (73d8e2380ad237650fbbd3fd7084ebce)
+2021/06/03 00:07:25: Opening: http://picsartstage2.com/create
+2021/06/03 00:07:26: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (73d8e2380ad237650fbbd3fd7084ebce)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/03 00:08:15: Setting Driver: ChromeDriver: chrome on MAC (143dd754f357e18a807ee6edac1010f1)
+2021/06/03 00:08:15: Opening: http://picsartstage2.com/create
+2021/06/03 00:08:49: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:08:49: Setting Driver: ChromeDriver: chrome on MAC (143dd754f357e18a807ee6edac1010f1)
+2021/06/03 00:08:49: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/03 00:08:52: Clicking on the element: [[ChromeDriver: chrome on MAC (143dd754f357e18a807ee6edac1010f1)] -> id: download-button]
+2021/06/03 00:08:52: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (143dd754f357e18a807ee6edac1010f1)] -> css selector: [data-test='downloaded-button']]
+2021/06/03 00:08:52: Clicking on the element: [[ChromeDriver: chrome on MAC (143dd754f357e18a807ee6edac1010f1)] -> css selector: [data-test='downloaded-button']]
+2021/06/03 00:08:53: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (143dd754f357e18a807ee6edac1010f1)] -> class name: ReactModal__Content]
+2021/06/03 00:09:16: Setting Driver: ChromeDriver: chrome on MAC (4d0dcdd15001b47a3e39a1f29adb29af)
+2021/06/03 00:09:16: Opening: http://picsartstage2.com/create
+2021/06/03 00:09:25: Creating new user: Email: a1b0dd41-6178-4e86-a549-795a51c03174@gmail.com, Password: Test!!8493.
+2021/06/03 00:09:26: Uploading new photo in the user profile: 7b856922-2120-42f6-a242-18dfaa309c6e
+2021/06/03 00:09:27: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: 7b856922-2120-42f6-a242-18dfaa309c6e photo: 360360567006201
+2021/06/03 00:09:28: Setting Driver: ChromeDriver: chrome on MAC (4d0dcdd15001b47a3e39a1f29adb29af)
+2021/06/03 00:09:28: Opening: http://picsartstage2.com/i/360360567006201
+2021/06/03 00:09:48: Deleting the user: 7b856922-2120-42f6-a242-18dfaa309c6e
+2021/06/03 00:10:06: Setting Driver: ChromeDriver: chrome on MAC (244945f98eaf3b4d79bc84ec18e89295)
+2021/06/03 00:10:06: Opening: http://picsartstage2.com/create
+2021/06/03 00:10:15: Creating new user: Email: 8e30a5c9-87ba-4d5e-a6fc-1cd0a0cd4771@gmail.com, Password: Test!!8493.
+2021/06/03 00:10:16: Uploading new photo in the user profile: 90e6a1be-8a5b-42c1-a436-2edb2edb92d7
+2021/06/03 00:10:18: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: 90e6a1be-8a5b-42c1-a436-2edb2edb92d7 photo: 360360617098201
+2021/06/03 00:10:19: Setting Driver: ChromeDriver: chrome on MAC (244945f98eaf3b4d79bc84ec18e89295)
+2021/06/03 00:10:19: Opening: http://picsartstage2.com/i/360360617098201
+2021/06/03 00:10:46: Deleting the user: 90e6a1be-8a5b-42c1-a436-2edb2edb92d7
+2021/06/03 00:10:55: Setting Driver: ChromeDriver: chrome on MAC (cbeb9426855f9a5e2f9395cdf692f3bf)
+2021/06/03 00:10:55: Opening: http://picsartstage2.com/create
+2021/06/03 00:11:03: Creating new user: Email: 0ddcacb4-1ed6-429d-97af-b750ba18fe32@gmail.com, Password: Test!!8493.
+2021/06/03 00:11:04: Uploading new photo in the user profile: 72ebbb9d-cd09-4bd1-9e79-460a91fb083b
+2021/06/03 00:11:06: Liking the photo:  360360666019201 of the following user: 72ebbb9d-cd09-4bd1-9e79-460a91fb083b
+2021/06/03 00:11:07: Setting Driver: ChromeDriver: chrome on MAC (cbeb9426855f9a5e2f9395cdf692f3bf)
+2021/06/03 00:11:07: Opening: http://picsartstage2.com/i/360360666019201
+2021/06/03 00:11:25: Deleting the user: 72ebbb9d-cd09-4bd1-9e79-460a91fb083b
+2021/06/03 00:11:52: Setting Driver: ChromeDriver: chrome on MAC (f4cc2558548339f6d6b6d51f40ec54ea)
+2021/06/03 00:11:52: Opening: http://picsartstage2.com/create
+2021/06/03 00:12:14: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:12:17: Setting Driver: ChromeDriver: chrome on MAC (f4cc2558548339f6d6b6d51f40ec54ea)
+2021/06/03 00:12:17: Opening: http://picsartstage2.com/i/359193804035201
+2021/06/03 00:12:33: Clicking on the element: [[ChromeDriver: chrome on MAC (f4cc2558548339f6d6b6d51f40ec54ea)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/06/03 00:12:33: Clicking on the element: [[ChromeDriver: chrome on MAC (f4cc2558548339f6d6b6d51f40ec54ea)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/06/03 00:13:10: Setting Driver: ChromeDriver: chrome on MAC (4391dbf40a2a78135e5e3b55f4877545)
+2021/06/03 00:13:10: Opening: http://picsartstage2.com/create
+2021/06/03 00:13:36: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (4391dbf40a2a78135e5e3b55f4877545)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/03 00:26:05: Setting Driver: ChromeDriver: chrome on MAC (1d88c69db024bb08c50cadcc927a630b)
+2021/06/03 00:26:05: Opening: http://picsartstage2.com/create
+2021/06/03 00:26:30: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:26:31: Setting Driver: ChromeDriver: chrome on MAC (1d88c69db024bb08c50cadcc927a630b)
+2021/06/03 00:26:31: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/03 00:30:21: Setting Driver: ChromeDriver: chrome on MAC (442455dfe4744971b334ed9c1361e967)
+2021/06/03 00:30:21: Opening: http://picsartstage2.com/create
+2021/06/03 00:30:47: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:30:49: Setting Driver: ChromeDriver: chrome on MAC (442455dfe4744971b334ed9c1361e967)
+2021/06/03 00:30:49: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/03 00:31:19: Setting Driver: ChromeDriver: chrome on MAC (a4371c4e180ddac3a78d0b40585f4995)
+2021/06/03 00:31:19: Opening: http://picsartstage2.com/create
+2021/06/03 00:32:09: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/03 00:32:10: Setting Driver: ChromeDriver: chrome on MAC (a4371c4e180ddac3a78d0b40585f4995)
+2021/06/03 00:32:10: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/03 00:32:53: Setting Driver: ChromeDriver: chrome on MAC (469070f1ee63e0458bc2e87d22293eb7)
+2021/06/03 00:32:53: Opening: http://picsartstage2.com/create
+2021/06/03 00:33:45: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (469070f1ee63e0458bc2e87d22293eb7)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/03 00:33:45: Setting Driver: ChromeDriver: chrome on MAC (469070f1ee63e0458bc2e87d22293eb7)
+2021/06/03 00:33:45: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/03 00:54:42: Setting Driver: ChromeDriver: chrome on MAC (15dd87c588091a94573601f86ba36e68)
+2021/06/03 00:54:42: Opening: http://picsartstage2.com/
+2021/06/03 00:54:46: Setting Driver: ChromeDriver: chrome on MAC (15dd87c588091a94573601f86ba36e68)
+2021/06/03 00:54:46: Opening: http://picsartstage2.com/gold
+2021/06/03 00:54:48: Clicking on the element: [[ChromeDriver: chrome on MAC (15dd87c588091a94573601f86ba36e68)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 00:57:09: Setting Driver: ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)
+2021/06/03 00:57:09: Opening: http://picsartstage2.com/
+2021/06/03 00:57:13: Setting Driver: ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)
+2021/06/03 00:57:13: Opening: http://picsartstage2.com/gold
+2021/06/03 00:58:39: Clicking on the element: [[ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 00:58:54: Clicking on the element: [[ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 00:59:01: Clicking on the element: [[ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 00:59:05: Clicking on the element: [[ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 00:59:07: Clicking on the element: [[ChromeDriver: chrome on MAC (e07cbe22c68e0b74133841994c28245d)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 00:59:48: Setting Driver: ChromeDriver: chrome on MAC (170130e602bb9fa99b9686ce33346453)
+2021/06/03 00:59:48: Opening: http://picsartstage2.com/
+2021/06/03 00:59:54: Setting Driver: ChromeDriver: chrome on MAC (170130e602bb9fa99b9686ce33346453)
+2021/06/03 00:59:54: Opening: http://picsartstage2.com/gold
+2021/06/03 00:59:56: Clicking on the element: [[ChromeDriver: chrome on MAC (170130e602bb9fa99b9686ce33346453)] -> css selector: .layout-content-main > div:nth-child(2) > div > ul li]
+2021/06/03 01:01:25: Setting Driver: ChromeDriver: chrome on MAC (c67a25f557dd4656ed28e5dccff2249f)
+2021/06/03 01:01:25: Opening: http://picsartstage2.com/
+2021/06/03 01:01:28: Setting Driver: ChromeDriver: chrome on MAC (c67a25f557dd4656ed28e5dccff2249f)
+2021/06/03 01:01:28: Opening: http://picsartstage2.com/gold
+2021/06/03 01:02:14: Setting Driver: ChromeDriver: chrome on MAC (cabd930d8a0d752e1c74947dc3121c86)
+2021/06/03 01:02:14: Opening: http://picsartstage2.com/
+2021/06/03 01:02:17: Setting Driver: ChromeDriver: chrome on MAC (cabd930d8a0d752e1c74947dc3121c86)
+2021/06/03 01:02:17: Opening: http://picsartstage2.com/gold
+2021/06/03 01:03:03: Setting Driver: ChromeDriver: chrome on MAC (fcd59e621de6ff554e10350dd9987556)
+2021/06/03 01:03:03: Opening: http://picsartstage2.com/
+2021/06/03 01:03:08: Setting Driver: ChromeDriver: chrome on MAC (fcd59e621de6ff554e10350dd9987556)
+2021/06/03 01:03:08: Opening: http://picsartstage2.com/gold
+2021/06/03 01:06:39: Setting Driver: ChromeDriver: chrome on MAC (6eca5f57f365491b856a9e0150603376)
+2021/06/03 01:06:39: Opening: http://picsartstage2.com/
+2021/06/03 01:06:44: Setting Driver: ChromeDriver: chrome on MAC (6eca5f57f365491b856a9e0150603376)
+2021/06/03 01:06:44: Opening: http://picsartstage2.com/gold
+2021/06/03 01:15:02: Setting Driver: ChromeDriver: chrome on MAC (7278ca9eebe5d740f9b755fe58a1b896)
+2021/06/03 01:15:02: Opening: http://picsartstage2.com/
+2021/06/03 01:15:07: Setting Driver: ChromeDriver: chrome on MAC (7278ca9eebe5d740f9b755fe58a1b896)
+2021/06/03 01:15:07: Opening: http://picsartstage2.com/gold
+2021/06/03 01:15:30: Setting Driver: ChromeDriver: chrome on MAC (e3cf9104fbc26c60b2797231544b5bdf)
+2021/06/03 01:15:30: Opening: http://picsartstage2.com/
+2021/06/03 01:15:34: Setting Driver: ChromeDriver: chrome on MAC (e3cf9104fbc26c60b2797231544b5bdf)
+2021/06/03 01:15:34: Opening: http://picsartstage2.com/gold
+2021/06/03 01:16:27: Setting Driver: ChromeDriver: chrome on MAC (8dbf6ee32da1f00462babe1cf336faec)
+2021/06/03 01:16:27: Opening: http://picsartstage2.com/
+2021/06/03 01:16:33: Setting Driver: ChromeDriver: chrome on MAC (8dbf6ee32da1f00462babe1cf336faec)
+2021/06/03 01:16:33: Opening: http://picsartstage2.com/gold
+2021/06/03 01:17:11: Setting Driver: ChromeDriver: chrome on MAC (0d13aa509a54ba179d56ffe774a56e1f)
+2021/06/03 01:17:11: Opening: http://picsartstage2.com/
+2021/06/03 01:17:15: Setting Driver: ChromeDriver: chrome on MAC (0d13aa509a54ba179d56ffe774a56e1f)
+2021/06/03 01:17:15: Opening: http://picsartstage2.com/gold
+2021/06/03 01:17:48: Setting Driver: ChromeDriver: chrome on MAC (1190e92de900fc4ac6a38c04b5df43b4)
+2021/06/03 01:17:48: Opening: http://picsartstage2.com/
+2021/06/03 01:17:52: Setting Driver: ChromeDriver: chrome on MAC (1190e92de900fc4ac6a38c04b5df43b4)
+2021/06/03 01:17:52: Opening: http://picsartstage2.com/gold
+2021/06/03 01:19:54: Setting Driver: ChromeDriver: chrome on MAC (5161393b1e77f6cd7b8d7fb9d44f3c70)
+2021/06/03 01:19:54: Opening: http://picsartstage2.com/
+2021/06/03 01:19:58: Setting Driver: ChromeDriver: chrome on MAC (5161393b1e77f6cd7b8d7fb9d44f3c70)
+2021/06/03 01:19:58: Opening: http://picsartstage2.com/gold
+2021/06/03 01:21:31: Setting Driver: ChromeDriver: chrome on MAC (149d1d275aaa61b0beb30c96cafd0d25)
+2021/06/03 01:21:31: Opening: http://picsartstage2.com/
+2021/06/03 01:21:35: Setting Driver: ChromeDriver: chrome on MAC (149d1d275aaa61b0beb30c96cafd0d25)
+2021/06/03 01:21:35: Opening: http://picsartstage2.com/gold
+2021/06/03 01:22:28: Setting Driver: ChromeDriver: chrome on MAC (9e599190c43b39f9815f51e221b87d70)
+2021/06/03 01:22:28: Opening: http://picsartstage2.com/
+2021/06/03 01:22:31: Setting Driver: ChromeDriver: chrome on MAC (9e599190c43b39f9815f51e221b87d70)
+2021/06/03 01:22:31: Opening: http://picsartstage2.com/gold
+2021/06/03 01:23:11: Setting Driver: ChromeDriver: chrome on MAC (6cd4399634cd2272494063b7e0da3f90)
+2021/06/03 01:23:11: Opening: http://picsartstage2.com/
+2021/06/03 01:23:15: Setting Driver: ChromeDriver: chrome on MAC (6cd4399634cd2272494063b7e0da3f90)
+2021/06/03 01:23:15: Opening: http://picsartstage2.com/gold
+2021/06/03 01:24:05: Setting Driver: ChromeDriver: chrome on MAC (ac2f5809f1b6514f1946a1c76e7129b2)
+2021/06/03 01:24:05: Opening: http://picsartstage2.com/
+2021/06/03 01:24:09: Setting Driver: ChromeDriver: chrome on MAC (ac2f5809f1b6514f1946a1c76e7129b2)
+2021/06/03 01:24:09: Opening: http://picsartstage2.com/gold

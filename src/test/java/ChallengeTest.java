@@ -9,7 +9,7 @@ import static org.testng.Assert.assertTrue;
 
 public class ChallengeTest extends BaseTestWithoutLogin {
 
-    @Test(enabled = false)
+    @Test
     public void challengesOpenLongWayTest() {
         HomePage homePage = new HomePage();
         homePage.hoverOnDiscoverMenuAndClickOnChallengesFromIt();

@@ -1,32 +1,35 @@
 package pageobjects.pages;
 
-import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
-import utilities.WaitHelper;
 
 public class HomePage extends BasePage {
 
-    private final By discoverMenuLocation = By.cssSelector("[data-test='headerNavigation-navigationListItem-Discover']");
-    private final By challengeLinkInDiscoverMenu = By.cssSelector("[data-test='subNavigation-groupList'] [href='/challenges']");
-    private final By loginButtonLocation = By.cssSelector("[data-test='headerAuth-signInBtn pa-uiLib-headerAuth-authBtn']");
+    @FindBy(css = "[data-test='headerNavigation-navigationListItem-Discover']")
+    private WebElement discoverMenu;
 
+    @FindBy(css = "[data-test='subNavigation-groupList'] [href='/challenges']")
+    private WebElement challengeLinkInDiscoverMenu;
+
+    @FindBy(css = "[data-test='headerAuth-signInBtn pa-uiLib-headerAuth-authBtn']")
+    private WebElement loginButton;
 
     public HomePage() {
         open(getURL());
+        PageFactory.initElements(driver, this);
     }
 
     public void clickLoginButton() {
-        WaitHelper.getInstance().waitForElementToDisplayed(loginButtonLocation);
-        click(loginButtonLocation);
+        click(loginButton);
     }
 
     public void hoverOnDiscoverMenuAndClickOnChallengesFromIt() {
-        WaitHelper.getInstance().waitForElementToDisplayed(discoverMenuLocation);
         Actions actions = new Actions(driver);
-        actions.moveToElement(find(discoverMenuLocation)).build().perform();
-        WaitHelper.getInstance().waitForElementToDisplayed(challengeLinkInDiscoverMenu);
-        click(find(challengeLinkInDiscoverMenu));
+        actions.moveToElement(discoverMenu).build().perform();
+        click(challengeLinkInDiscoverMenu);
     }
 
     @Override

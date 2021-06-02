@@ -1,12 +1,14 @@
 package pageobjects.pages;
 
-import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
-import utilities.WaitHelper;
 
 public class ChallengePage extends BasePage {
-    private final By participateButtonLocation = By.cssSelector("[data-js-get-the-app-popup-source='challenge-landing']");
 
+    @FindBy(css = "[data-js-get-the-app-popup-source='challenge-landing']")
+    private WebElement participateButton;
 
     @Override
     public String getURL() {
@@ -14,15 +16,15 @@ public class ChallengePage extends BasePage {
     }
 
     public ChallengePage() {
-
+        PageFactory.initElements(driver, this);
     }
 
     public ChallengePage(String id) {
         open(getURL() + "/" + id);
+        PageFactory.initElements(driver, this);
     }
 
     public void clickOnParticipateButton() {
-        WaitHelper.getInstance().waitForElementToDisplayed(participateButtonLocation);
-        click(find(participateButtonLocation));
+        click(participateButton);
     }
 }

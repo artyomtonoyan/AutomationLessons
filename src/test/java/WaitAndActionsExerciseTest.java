@@ -6,7 +6,7 @@ import static org.testng.Assert.assertTrue;
 import static setup.DriverSetup.getWebDriver;
 
 public class WaitAndActionsExerciseTest {
-    @Test
+    @Test(enabled = false)
     public void waitTest() {
         DesmosPageForWaitAndActionsExercise desmosPage = new DesmosPageForWaitAndActionsExercise();
         desmosPage.clickOnGraphingCalculatorButton();

@@ -1,20 +1,23 @@
 package pageobjects.pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
-import utilities.WaitHelper;
 
 import java.util.List;
 
 public class ChallengesPage extends BasePage {
 
-    private final By activeChallengeCardLocation = By.cssSelector(".grid-cards .card");
+    @FindBy(css = ".grid-cards .card")
+    private List<WebElement> activeChallengeCard;
+
+    public ChallengesPage() {
+        PageFactory.initElements(driver, this);
+    }
 
     public void clickOnRandomActiveChallenge() {
-        WaitHelper.getInstance().waitForElementToDisplayed(activeChallengeCardLocation);
-        List<WebElement> webElementList = findAll(activeChallengeCardLocation);
-        click(webElementList.get((int) (Math.random() * (webElementList.size() + 1))));
+        click(activeChallengeCard.get((int) (Math.random() * (activeChallengeCard.size() + 1))));
     }
 
     @Override

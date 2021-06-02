@@ -1,14 +1,21 @@
 package pageobjects.dialogs;
 
-import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
 
 public class GetFreeAppDialog extends BasePage {
 
-    private final By qrCodeLocation = By.cssSelector(".qrcode");
+    @FindBy(css = ".qrcode")
+    private WebElement qrCode;
+
+    public GetFreeAppDialog() {
+        PageFactory.initElements(driver, this);
+    }
 
     public boolean isQrCodeVisible() {
-        return isDisplayed(qrCodeLocation);
+        return isDisplayed(qrCode);
     }
 
     @Override

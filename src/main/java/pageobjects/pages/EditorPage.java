@@ -1,43 +1,75 @@
 package pageobjects.pages;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
 import utilities.WaitHelper;
+
+import java.util.List;
 
 import static utilities.FileHelper.isFileExistsInDirectory;
 
 public class EditorPage extends BasePage {
-    private final By itemsInSideBarLocation = By.cssSelector(("[class*='customSizeContainer']"));
-    private final By fitIconLocation = By.id("background-category");
-    private final By downloadButton = By.id("download-button");
-    private final By downloadButtonInModal = By.cssSelector("[data-test='downloaded-button']");
-    private final By downloadSuccessfulDialog = By.className("ReactModal__Content");
-    private final By fileNameLocation = By.cssSelector("[data-test='downloaded-file-name']");
-    private final By extensionOfDownloadableFileLocations = By.cssSelector("[data-test='unit'] span");
+
+    @FindBy(css = "[class*='customSizeContainer']")
+    private List<WebElement> itemsInSideBar;
+
+    @FindBy(id = "background-category")
+    private WebElement fitIcon;
+
+    @FindBy(id = "download-button")
+    private WebElement downloadButton;
+
+    @FindBy(css = "[data-test='downloaded-button']")
+    private WebElement downloadButtonInModal;
+
+    @FindBy(className = "ReactModal__Content")
+    private WebElement downloadSuccessfulDialog;
+
+    @FindBy(css = "[data-test='downloaded-file-name']")
+    private WebElement fileName;
+
+    @FindBy(css = "[data-test='unit'] span")
+    private WebElement extensionOfDownloadableFile;
+
+    @FindBy(css = "[data-test='canvas-container'] .konvajs-content")
+    private WebElement canvas;
+
+    @FindBy(id = "context-menu")
+    private WebElement contextMenu;
 
     private String nameOfFile;
     private String extensionOfFile;
 
+    public EditorPage() {
+        PageFactory.initElements(driver, this);
+    }
+
+    public EditorPage(String endOfUrl) {
+        super.open(getURL() + endOfUrl);
+        PageFactory.initElements(driver, this);
+    }
+
     public int getCountOfItemsInSideBar() {
-        WaitHelper.getInstance().waitForElementToDisplayed(itemsInSideBarLocation);
-        return findAll(itemsInSideBarLocation).size();
+        WaitHelper.getInstance().waitForElementToDisplayed(By.cssSelector("[class*='customSizeContainer']"));
+        return itemsInSideBar.size();
     }
 
     public void clickOnFitIcon() {
-        WaitHelper.getInstance().waitForElementToDisplayed(fitIconLocation);
-        click(fitIconLocation);
+        click(fitIcon);
     }
 
     public void clickOnDownloadButton() {
-        WaitHelper.getInstance().waitForElementToDisplayed(downloadButton);
         click(downloadButton);
-        nameOfFile = find(fileNameLocation).getAttribute("value");
-        extensionOfFile = find(extensionOfDownloadableFileLocations).getText().toLowerCase();
+        nameOfFile = fileName.getAttribute("value");
+        extensionOfFile = extensionOfDownloadableFile.getText().toLowerCase();
     }
 
     public void clickOnDownloadButtonInModal() {
-        WaitHelper.getInstance().waitForElementToDisplayed(downloadButtonInModal);
-        WaitHelper.getInstance().waitForTextToBePresentInElement(find(downloadButtonInModal), "Download");
+        WaitHelper.getInstance().waitForTextToBePresentInElement(downloadButtonInModal, "Download");
         click(downloadButtonInModal);
     }
 
@@ -63,8 +95,18 @@ public class EditorPage extends BasePage {
         return isFileExistsInDirectory("/Users/artyomtonoyan/Documents", getNameOfTheDownloadableFile(), getExtensionOfDownloadableFile());
     }
 
-    public void open(String endOfUrl) {
-        super.open(getURL() + endOfUrl);/**/
+    public void rightClickOnCanvas() {
+        Actions actions = new Actions(driver);
+        actions.contextClick(canvas).perform();
+    }
+
+    public boolean isContextMenuOpened() {
+        return contextMenu.getAttribute("style").contains("flex");
+    }
+
+    public EditorPage initialize() {
+        PageFactory.initElements(driver, this);
+        return this;
     }
 
     @Override

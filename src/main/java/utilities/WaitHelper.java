@@ -37,6 +37,22 @@ public class WaitHelper {
         }
     }
 
+    public void waitForElementToDisplayed(WebElement element) {
+        try {
+            String message = "Waiting for the element to appear: " + element.toString();
+            LOGGER.info(message);
+            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
+        } catch (IOException e) {
+            LOGGER.error("File not found / Can't write: Current log can't be saved");
+        }
+        try {
+            new WebDriverWait(getWebDriver(), DEFAULT_TIMEOUT)
+                    .until(ExpectedConditions.visibilityOf((element)));
+        } catch (WebDriverException e) {
+            throw new Error("Element was not found: " + element.toString());
+        }
+    }
+
     public void waitForAlertMessage() {
         try {
             String message = "Waiting for alert message to appear: ";

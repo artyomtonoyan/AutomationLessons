@@ -1,8 +1,10 @@
 package pageobjects.pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
 import pageobjects.base.BasePage;
 import utilities.WaitHelper;
 
@@ -10,36 +12,44 @@ import static setup.DriverSetup.getWebDriver;
 
 public class CreatePage extends BasePage {
 
-    private final By instagramStoryLocation = By.cssSelector("[data-test='insta-story']");
-    private final By uploadButtonLocation = By.cssSelector("[accept='image/jpeg, image/png, image/gif']");
-    private final By uploadButtonOuterPartLocation = By.cssSelector("[class*=uploadButtonWrapper] button");
-    private final By avatarLocation = By.cssSelector(".pa-uiLib-headerProfileInfo-avatar");
-    private final By instagramProfileLocation = By.cssSelector("data-test='insta-profile'");
+    @FindBy(css = "[data-test='insta-story']")
+    private WebElement instagramStory;
+
+    @FindBy(css = "[accept='image/jpeg, image/png, image/gif']")
+    private WebElement uploadButton;
+
+    @FindBy(css = "[class*=uploadButtonWrapper] button")
+    private WebElement uploadButtonOuterPart;
+
+    @FindBy(css = ".pa-uiLib-headerProfileInfo-avatar")
+    private WebElement avatar;
+
+    @FindBy(css = "[data-test='insta-profile']")
+    private WebElement instagramProfile;
 
     private static JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
 
     public CreatePage() {
         open(getURL());
+        PageFactory.initElements(driver, this);
     }
 
     public void uploadPhoto(String path) {
-        WaitHelper.getInstance().waitForElementToDisplayed(uploadButtonOuterPartLocation);
-        type(uploadButtonLocation, path);
+        type(uploadButton, path);
     }
 
     public void clickInstagramStory() {
-        WaitHelper.getInstance().waitForElementToDisplayed(instagramStoryLocation);
         Actions actions = new Actions(driver);
-        actions.moveToElement(find(instagramStoryLocation)).click().build().perform();
+        actions.moveToElement(instagramStory).click().build().perform();
     }
 
     public boolean isAvatarDisplayed() {
-        return isDisplayed(avatarLocation);
+        return isDisplayed(avatar);
     }
 
     public boolean isUserLoggedIn() {
         try {
-            WaitHelper.getInstance().waitForElementToDisplayed(avatarLocation);
+            WaitHelper.getInstance().waitForElementToDisplayed(avatar);
             return true;
         } catch (Error e) {
             return false;
@@ -47,11 +57,11 @@ public class CreatePage extends BasePage {
     }
 
     public void clickOnInstagramProfile() {
-        javascriptExecutor.executeScript("arguments[0].click()", find(instagramProfileLocation));
+        javascriptExecutor.executeScript("arguments[0].click()", instagramProfile);
     }
 
     public void waitForAvatarToDisplayed() {
-        WaitHelper.getInstance().waitForElementToDisplayed(avatarLocation);
+        WaitHelper.getInstance().waitForElementToDisplayed(avatar);
     }
 
     @Override

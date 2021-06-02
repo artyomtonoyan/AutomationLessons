@@ -17,6 +17,7 @@ public class EditorTest extends BaseTestWithLogin {
         createPage.changeTab(1);
         EditorPage editorPage = new EditorPage();
         editorPage.clickOnFitIcon();
+        editorPage.initialize();
         assertEquals(editorPage.getCountOfItemsInSideBar(), 28, "The count of items in Side Bar is not 28");
     }
 
@@ -29,13 +30,20 @@ public class EditorTest extends BaseTestWithLogin {
 
     @Test
     public void downloadFunctionalityFromEditor(){
-        EditorPage editorPage = new EditorPage();
-        editorPage.open("?templateSize=insta_story");
+        EditorPage editorPage = new EditorPage("?templateSize=insta_story");
         editorPage.clickOnDownloadButton();
         editorPage.clickOnDownloadButtonInModal();
         SoftAssert softAssert = new SoftAssert();
         softAssert.assertTrue(editorPage.isDownloadSuccessfulDialogOpened(), "Download unsuccessful");
         softAssert.assertTrue(editorPage.isFileDownloaded(), "File is not downloaded");
         softAssert.assertAll();
+    }
+
+    @Test
+    public void openContextMenuInCanvas() {
+        EditorPage editorPage = new EditorPage("?templateSize=insta_story");
+        editorPage.rightClickOnCanvas();
+        editorPage.initialize();
+        assertTrue(editorPage.isContextMenuOpened(), "Context Menu doesn't open");
     }
 }
