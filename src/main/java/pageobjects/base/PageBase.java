@@ -14,12 +14,12 @@ import static setup.DriverSetup.getWebDriver;
 import static utilities.DateAndTimeHelper.getCurrentDateAndTime;
 import static utilities.FileHelper.write;
 
-public abstract class BasePage {
-    private static final Logger LOGGER = Logger.getLogger(BasePage.class);
+public abstract class PageBase {
+    private static final Logger LOGGER = Logger.getLogger(PageBase.class);
     protected WebDriver driver;
-    public static final String BASE_URL_PICSART = System.getProperty("selenium.url", "http://picsartstage2.com/");
+    protected static final String BASE_URL_PICSART = System.getProperty("selenium.url", "http://picsartstage2.com/");
 
-    public BasePage() {
+    public PageBase() {
         this.driver = getWebDriver();
         try {
             String message = "Setting Driver: " + driver.toString();
@@ -54,17 +54,18 @@ public abstract class BasePage {
         return driver.findElement(location);
     }
 
-    public List<WebElement> findAll(By location) {
-        try {
-            String message = "Finding all elements by the following location: " + location.toString();
-            LOGGER.info(message);
-            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
-        } catch (IOException e) {
-            LOGGER.error("File not found / Can't write: Current log can't be saved");
-        }
-        return driver.findElements(location);
-    }
-
+    /**
+     * public List<WebElement> findAll(By location) {
+     * try {
+     * String message = "Finding all elements by the following location: " + location.toString();
+     * LOGGER.info(message);
+     * write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
+     * } catch (IOException e) {
+     * LOGGER.error("File not found / Can't write: Current log can't be saved");
+     * }
+     * return driver.findElements(location);
+     * }
+     **/
     public void type(WebElement element, String input) {
         try {
             String message = "Writing: \"" + input + "\" in the element: " + element.toString();
@@ -111,22 +112,23 @@ public abstract class BasePage {
         }
     }
 
-    public boolean isDisplayed(By location) {
-        try {
-            String message = "Checking whether the element by locator displayed: " + location.toString();
-            LOGGER.info(message);
-            write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
-        } catch (IOException e) {
-            LOGGER.error("File not found / Can't write: Current log can't be saved");
-        }
-        try {
-            return find(location).isDisplayed();
-        } catch (NoSuchElementException e) {
-            LOGGER.error("The element is not displayed: " + location.toString());
-            return false;
-        }
-    }
-
+    /**
+     * public boolean isDisplayed(By location) {
+     * try {
+     * String message = "Checking whether the element by locator displayed: " + location.toString();
+     * LOGGER.info(message);
+     * write("src/files/logs.txt", "\n" + getCurrentDateAndTime() + ": " + message);
+     * } catch (IOException e) {
+     * LOGGER.error("File not found / Can't write: Current log can't be saved");
+     * }
+     * try {
+     * return find(location).isDisplayed();
+     * } catch (NoSuchElementException e) {
+     * LOGGER.error("The element is not displayed: " + location.toString());
+     * return false;
+     * }
+     * }
+     **/
     public void changeTab(int tabIndex) {
         try {
             String message = "Switching to tab by the index of: " + tabIndex;

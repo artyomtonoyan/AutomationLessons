@@ -5,12 +5,12 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
 import utilities.WaitHelper;
 
 import static setup.DriverSetup.getWebDriver;
 
-public class CreatePage extends BasePage {
+public class CreatePage extends PageBase {
 
     @FindBy(css = "[data-test='insta-story']")
     private WebElement instagramStory;
@@ -27,7 +27,7 @@ public class CreatePage extends BasePage {
     @FindBy(css = "[data-test='insta-profile']")
     private WebElement instagramProfile;
 
-    private static JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
+    private static final JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
 
     public CreatePage() {
         open(getURL());
@@ -38,9 +38,10 @@ public class CreatePage extends BasePage {
         type(uploadButton, path);
     }
 
-    public void clickInstagramStory() {
+    public EditorPage clickInstagramStory() {
         Actions actions = new Actions(driver);
         actions.moveToElement(instagramStory).click().build().perform();
+        return new EditorPage();
     }
 
     public boolean isAvatarDisplayed() {
@@ -56,8 +57,9 @@ public class CreatePage extends BasePage {
         }
     }
 
-    public void clickOnInstagramProfile() {
+    public EditorPage clickOnInstagramProfile() {
         javascriptExecutor.executeScript("arguments[0].click()", instagramProfile);
+        return new EditorPage();
     }
 
     public void waitForAvatarToDisplayed() {
@@ -68,6 +70,4 @@ public class CreatePage extends BasePage {
     public String getURL() {
         return BASE_URL_PICSART + "create";
     }
-
-
 }

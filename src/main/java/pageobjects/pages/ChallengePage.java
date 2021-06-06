@@ -3,17 +3,12 @@ package pageobjects.pages;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
 
-public class ChallengePage extends BasePage {
+public class ChallengePage extends PageBase {
 
     @FindBy(css = "[data-js-get-the-app-popup-source='challenge-landing']")
     private WebElement participateButton;
-
-    @Override
-    public String getURL() {
-        return BASE_URL_PICSART + "challenge";
-    }
 
     public ChallengePage() {
         PageFactory.initElements(driver, this);
@@ -26,5 +21,10 @@ public class ChallengePage extends BasePage {
 
     public void clickOnParticipateButton() {
         click(participateButton);
+    }
+
+    @Override
+    public String getURL() {
+        return BASE_URL_PICSART + "challenge";
     }
 }

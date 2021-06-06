@@ -7,7 +7,7 @@ import static org.testng.Assert.assertTrue;
 
 public class ImageBrowserTestOld extends BaseTestWithLogin {
 
-    @Test(enabled = false)
+    @Test
     public void likeAndDislikeTest() {
         ImageBrowserPage imageBrowserPage = new ImageBrowserPage("359193804035201");
         if (imageBrowserPage.isLikedOld()) {

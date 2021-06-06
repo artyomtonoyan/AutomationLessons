@@ -1,8 +1,6 @@
-import com.google.gson.JsonObject;
 import org.openqa.selenium.Cookie;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 import pageobjects.pages.CreatePage;
 import pageobjects.pages.ImageBrowserPage;
@@ -28,14 +26,14 @@ public class ImageBrowserTest {
 
     @Test
     public void addingHashtagsToExistingImage() throws IOException {
-        JsonObject editPhoto = ApiHelper.addHashtagToExistingPhoto(photoId, key, ImageBrowserPage.HASHTAGS);
+        ApiHelper.addHashtagToExistingPhoto(photoId, key, ImageBrowserPage.HASHTAGS);
         ImageBrowserPage imageBrowserPage = new ImageBrowserPage(photoId);
         assertTrue(imageBrowserPage.isHashtagsAdded(), "Hashtags were not being added successfully!");
     }
 
     @Test
     public void likePhoto() throws IOException {
-        JsonObject likePhoto = ApiHelper.likePhoto(key, photoId);
+        ApiHelper.likePhoto(key, photoId);
         ImageBrowserPage imageBrowserPage = new ImageBrowserPage(photoId);
         assertTrue(imageBrowserPage.isLiked(), "Image wasn't liked!");
 
@@ -43,7 +41,7 @@ public class ImageBrowserTest {
 
     @AfterMethod
     public void close() throws IOException {
-        JsonObject deleteUser = ApiHelper.deleteUser(key);
+        ApiHelper.deleteUser(key);
         getWebDriver().quit();
     }
 }

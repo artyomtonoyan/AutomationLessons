@@ -3,9 +3,9 @@ package pageobjects.dialogs;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
 
-public class GetFreeAppDialog extends BasePage {
+public class GetFreeAppDialog extends PageBase {
 
     @FindBy(css = ".qrcode")
     private WebElement qrCode;

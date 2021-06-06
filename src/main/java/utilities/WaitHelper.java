@@ -14,7 +14,7 @@ import static utilities.DateAndTimeHelper.getCurrentDateAndTime;
 import static utilities.FileHelper.write;
 
 public class WaitHelper {
-    private final static int DEFAULT_TIMEOUT = 20;
+    private final static int DEFAULT_TIMEOUT = 30;
     private final static Logger LOGGER = Logger.getLogger(WaitHelper.class);
 
     public static WaitHelper getInstance() {

@@ -14,7 +14,7 @@ public class DriverSetup {
         if (driver == null || driver.toString().contains("(null)")) {
             System.setProperty("webdriver.chrome.driver", "src/main/resources/chromedriver");
             Map<String, Object> p = new HashMap<>();
-            p.put("download.default_directory", "/Users/artyomtonoyan/Documents");
+            p.put("download.default_directory", System.getProperty("user.dir") + "/src/main/resources");
             ChromeOptions options = new ChromeOptions();
             options.setExperimentalOption("prefs", p);
             options.addArguments("start-maximized");

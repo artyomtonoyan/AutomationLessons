@@ -5981,3 +5981,566 @@ Opening: https://picsartstage2.com/challenge/ircbadmintonbirdie
 2021/06/03 01:35:59: Opening: http://picsartstage2.com/
 2021/06/03 01:36:04: Setting Driver: ChromeDriver: chrome on MAC (c56a19a554d6604e5a1b7cb5cb194ae0)
 2021/06/03 01:36:04: Opening: http://picsartstage2.com/gold
+2021/06/05 18:18:27: Setting Driver: ChromeDriver: chrome on MAC (432ba6bee0817a253b1cc35300890078)
+2021/06/05 18:18:27: Opening: http://picsartstage2.com/
+2021/06/05 18:18:32: Setting Driver: ChromeDriver: chrome on MAC (432ba6bee0817a253b1cc35300890078)
+2021/06/05 18:18:32: Opening: http://picsartstage2.com/gold
+2021/06/05 18:18:35: Setting Driver: ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)
+2021/06/05 18:18:35: Opening: http://picsartstage2.com/
+2021/06/05 18:18:39: Setting Driver: ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)
+2021/06/05 18:18:39: Opening: http://picsartstage2.com/
+2021/06/05 18:18:44: Clicking on the element: [[ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/05 18:18:56: Setting Driver: ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)
+2021/06/05 18:18:56: Setting Driver: ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)
+2021/06/05 18:18:56: Clicking on the element: [[ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)] -> css selector: .grid-cards .card]
+2021/06/05 18:19:07: Clicking on the element: [[ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/05 18:19:07: Setting Driver: ChromeDriver: chrome on MAC (b1f010b8454ba151b3773a41f150e0fc)
+2021/06/05 18:19:07: 2021/06/05 18:19:07: Checking is the element displayed: Proxy element for: DefaultElementLocator 'By.cssSelector: .qrcode'
+2021/06/05 18:19:09: Setting Driver: ChromeDriver: chrome on MAC (a6dcc2e16447a02efcc05e4bef5b381e)
+2021/06/05 18:19:09: Opening: http://picsartstage2.com/
+2021/06/05 18:19:13: Setting Driver: ChromeDriver: chrome on MAC (a6dcc2e16447a02efcc05e4bef5b381e)
+2021/06/05 18:19:13: Opening: http://picsartstage2.com/challenge/ircfilltheplate
+2021/06/05 18:19:21: Setting Driver: ChromeDriver: chrome on MAC (32028a7280ce213ac43c7051271c8e6e)
+2021/06/05 18:19:21: Opening: http://picsartstage2.com/create
+2021/06/05 18:19:24: Setting Driver: ChromeDriver: chrome on MAC (f98032e7dbcd9bec566c8a210dd8a9f2)
+2021/06/05 18:19:24: Opening: http://picsartstage2.com/create
+2021/06/05 18:19:26: Setting Driver: ChromeDriver: chrome on MAC (f98032e7dbcd9bec566c8a210dd8a9f2)
+2021/06/05 18:19:26: Opening: http://picsartstage2.com/create
+2021/06/05 18:19:56: Setting Driver: ChromeDriver: chrome on MAC (93fa368a4560d8e7b2425cf677b6906c)
+2021/06/05 18:19:56: Opening: http://picsartstage2.com/
+2021/06/05 18:20:00: Setting Driver: ChromeDriver: chrome on MAC (93fa368a4560d8e7b2425cf677b6906c)
+2021/06/05 18:20:00: Opening: http://picsartstage2.com/gold
+2021/06/05 18:21:49: Setting Driver: ChromeDriver: chrome on MAC (67553835641e45318ab826a8638b8987)
+2021/06/05 18:21:49: Opening: http://picsartstage2.com/
+2021/06/05 18:21:54: Setting Driver: ChromeDriver: chrome on MAC (67553835641e45318ab826a8638b8987)
+2021/06/05 18:21:54: Opening: http://picsartstage2.com/gold
+2021/06/05 18:21:58: Setting Driver: ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)
+2021/06/05 18:21:58: Opening: http://picsartstage2.com/
+2021/06/05 18:22:01: Setting Driver: ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)
+2021/06/05 18:22:01: Opening: http://picsartstage2.com/
+2021/06/05 18:22:06: Clicking on the element: [[ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/05 18:22:19: Setting Driver: ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)
+2021/06/05 18:22:19: Setting Driver: ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)
+2021/06/05 18:22:19: Clicking on the element: [[ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)] -> css selector: .grid-cards .card]
+2021/06/05 18:22:27: Clicking on the element: [[ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/05 18:22:28: Setting Driver: ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)
+2021/06/05 18:22:28: 2021/06/05 18:22:28: Checking is the element displayed: [[ChromeDriver: chrome on MAC (f47f17fd3284971e4cf055eacb180d8c)] -> css selector: .qrcode]
+2021/06/05 18:22:29: Setting Driver: ChromeDriver: chrome on MAC (23f96a8ab56baf00d03b0daba3ba2a2c)
+2021/06/05 18:22:29: Opening: http://picsartstage2.com/
+2021/06/05 18:22:34: Setting Driver: ChromeDriver: chrome on MAC (23f96a8ab56baf00d03b0daba3ba2a2c)
+2021/06/05 18:22:34: Opening: http://picsartstage2.com/challenge/ircfilltheplate
+2021/06/05 18:22:43: Clicking on the element: [[ChromeDriver: chrome on MAC (23f96a8ab56baf00d03b0daba3ba2a2c)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/05 18:22:43: Setting Driver: ChromeDriver: chrome on MAC (23f96a8ab56baf00d03b0daba3ba2a2c)
+2021/06/05 18:22:43: 2021/06/05 18:22:43: Checking is the element displayed: [[ChromeDriver: chrome on MAC (23f96a8ab56baf00d03b0daba3ba2a2c)] -> css selector: .qrcode]
+2021/06/05 18:22:45: Setting Driver: ChromeDriver: chrome on MAC (cb3075f3dc3d8e7adee3792719a0d77b)
+2021/06/05 18:22:45: Opening: http://picsartstage2.com/create
+2021/06/05 18:23:16: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (cb3075f3dc3d8e7adee3792719a0d77b)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 18:23:17: Setting Driver: ChromeDriver: chrome on MAC (f2cd63dfc9554eedfdb7df0e40872f9f)
+2021/06/05 18:23:17: Opening: http://picsartstage2.com/create
+2021/06/05 18:23:53: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (f2cd63dfc9554eedfdb7df0e40872f9f)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 18:23:53: Setting Driver: ChromeDriver: chrome on MAC (f2cd63dfc9554eedfdb7df0e40872f9f)
+2021/06/05 18:23:53: Opening: http://picsartstage2.com/create
+2021/06/05 18:24:00: Switching to tab by the index of: 1
+2021/06/05 18:24:00: Setting Driver: ChromeDriver: chrome on MAC (f2cd63dfc9554eedfdb7df0e40872f9f)
+2021/06/05 18:24:22: Clicking on the element: [[ChromeDriver: chrome on MAC (f2cd63dfc9554eedfdb7df0e40872f9f)] -> id: background-category]
+2021/06/05 18:24:22: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/05 18:24:25: Setting Driver: ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)
+2021/06/05 18:24:25: Opening: http://picsartstage2.com/create
+2021/06/05 18:25:02: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 18:25:02: Setting Driver: ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)
+2021/06/05 18:25:02: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/05 18:25:05: Clicking on the element: [[ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)] -> id: download-button]
+2021/06/05 18:25:06: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)] -> css selector: [data-test='downloaded-button']]
+2021/06/05 18:25:06: Clicking on the element: [[ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)] -> css selector: [data-test='downloaded-button']]
+2021/06/05 18:25:06: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (47c4d4c8a8ef3143f7a30c0c83ffa9ce)] -> class name: ReactModal__Content]
+2021/06/05 18:25:07: Setting Driver: ChromeDriver: chrome on MAC (38ebca5314ae91ffcc9092e13575f784)
+2021/06/05 18:25:07: Opening: http://picsartstage2.com/create
+2021/06/05 18:25:41: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (38ebca5314ae91ffcc9092e13575f784)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 18:25:41: Setting Driver: ChromeDriver: chrome on MAC (38ebca5314ae91ffcc9092e13575f784)
+2021/06/05 18:25:41: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/05 18:25:54: Setting Driver: ChromeDriver: chrome on MAC (a346396b61309fb5a9e5eb3c6f859963)
+2021/06/05 18:25:54: Opening: http://picsartstage2.com/create
+2021/06/05 18:25:55: Setting Driver: ChromeDriver: chrome on MAC (30aeb3344b91eddcc74e26512beb43bf)
+2021/06/05 18:25:55: Opening: http://picsartstage2.com/create
+2021/06/05 18:26:28: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/05 18:26:31: Setting Driver: ChromeDriver: chrome on MAC (a346396b61309fb5a9e5eb3c6f859963)
+2021/06/05 18:26:31: Opening: http://picsartstage2.com/create
+2021/06/05 18:26:32: Switching to tab by the index of: 1
+2021/06/05 18:26:32: Setting Driver: ChromeDriver: chrome on MAC (a346396b61309fb5a9e5eb3c6f859963)
+2021/06/05 18:26:36: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/05 18:26:38: Setting Driver: ChromeDriver: chrome on MAC (30aeb3344b91eddcc74e26512beb43bf)
+2021/06/05 18:26:38: Opening: http://picsartstage2.com/create
+2021/06/05 18:26:39: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (30aeb3344b91eddcc74e26512beb43bf)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/05 18:26:41: Setting Driver: ChromeDriver: chrome on MAC (8957be130393d1f09f5c8178cfacc3de)
+2021/06/05 18:26:41: Opening: http://picsartstage2.com/create
+2021/06/05 18:26:49: Clicking on the element: [[ChromeDriver: chrome on MAC (a346396b61309fb5a9e5eb3c6f859963)] -> id: background-category]
+2021/06/05 18:26:49: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/05 18:26:57: Creating new user: Email: 7cdb1c18-4f93-4867-93cd-2ac03ec45bed@gmail.com, Password: Test!!8493.
+2021/06/05 18:27:05: Setting Driver: ChromeDriver: chrome on MAC (52b18aa405c225e0019238bf96ae74e8)
+2021/06/05 18:27:05: Opening: http://picsartstage2.com/create
+2021/06/05 18:27:27: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/05 18:27:30: Setting Driver: ChromeDriver: chrome on MAC (52b18aa405c225e0019238bf96ae74e8)
+2021/06/05 18:27:30: Opening: http://picsartstage2.com/create
+2021/06/05 18:27:45: Switching to tab by the index of: 1
+2021/06/05 18:27:45: Setting Driver: ChromeDriver: chrome on MAC (52b18aa405c225e0019238bf96ae74e8)
+2021/06/05 18:27:50: Clicking on the element: [[ChromeDriver: chrome on MAC (52b18aa405c225e0019238bf96ae74e8)] -> id: background-category]
+2021/06/05 18:27:51: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/05 18:41:18: Setting Driver: ChromeDriver: chrome on MAC (de7946df250648d5690e14e0e8ea49e1)
+2021/06/05 18:41:18: Opening: http://picsartstage2.com/create
+2021/06/05 18:41:37: Setting Driver: ChromeDriver: chrome on MAC (d0f9c8c4fc30c991e95ccaf4b9757ff0)
+2021/06/05 18:41:37: Opening: http://picsartstage2.com/
+2021/06/05 18:41:41: Setting Driver: ChromeDriver: chrome on MAC (d0f9c8c4fc30c991e95ccaf4b9757ff0)
+2021/06/05 18:41:41: Opening: http://picsartstage2.com/gold
+2021/06/05 18:41:42: Setting Driver: ChromeDriver: chrome on MAC (a7b8ee8f5d7be4aab5c4a418b9040d35)
+2021/06/05 18:41:42: Opening: http://picsartstage2.com/
+2021/06/05 18:41:44: Setting Driver: ChromeDriver: chrome on MAC (a7b8ee8f5d7be4aab5c4a418b9040d35)
+2021/06/05 18:41:44: Opening: http://picsartstage2.com/create
+2021/06/05 18:41:45: Setting Driver: ChromeDriver: chrome on MAC (2eb7db6ba23e0a2e79f8f753717608d9)
+2021/06/05 18:41:45: Opening: http://picsartstage2.com/create
+2021/06/05 18:41:47: Setting Driver: ChromeDriver: chrome on MAC (2eb7db6ba23e0a2e79f8f753717608d9)
+2021/06/05 18:41:47: Opening: http://picsartstage2.com/create
+2021/06/05 18:45:58: Setting Driver: ChromeDriver: chrome on MAC (f985334535274cea192ad9a240d1a573)
+2021/06/05 18:45:58: Opening: http://picsartstage2.com/
+2021/06/05 18:46:02: Setting Driver: ChromeDriver: chrome on MAC (f985334535274cea192ad9a240d1a573)
+2021/06/05 18:46:02: Opening: http://picsartstage2.com/gold
+2021/06/05 18:46:06: Setting Driver: ChromeDriver: chrome on MAC (c71c3e473de6c546667ea54a3c765cf7)
+2021/06/05 18:46:06: Opening: http://picsartstage2.com/
+2021/06/05 18:46:07: Setting Driver: ChromeDriver: chrome on MAC (c71c3e473de6c546667ea54a3c765cf7)
+2021/06/05 18:46:07: Opening: http://picsartstage2.com/create
+2021/06/05 18:46:09: Setting Driver: ChromeDriver: chrome on MAC (925f24e6710a255241e4f27fd41d5522)
+2021/06/05 18:46:09: Opening: http://picsartstage2.com/create
+2021/06/05 18:46:10: Setting Driver: ChromeDriver: chrome on MAC (925f24e6710a255241e4f27fd41d5522)
+2021/06/05 18:46:10: Opening: http://picsartstage2.com/create
+2021/06/05 19:02:40: Setting Driver: ChromeDriver: chrome on MAC (f7dd40f2244c3ecb96f6dbd81bf9a620)
+2021/06/05 19:02:40: Opening: http://picsartstage2.com/
+2021/06/05 19:02:45: Setting Driver: ChromeDriver: chrome on MAC (f7dd40f2244c3ecb96f6dbd81bf9a620)
+2021/06/05 19:02:45: Opening: http://picsartstage2.com/gold
+2021/06/05 19:02:48: Setting Driver: ChromeDriver: chrome on MAC (a60fcebf032fc6dc21cef495dcdad4c4)
+2021/06/05 19:02:48: Opening: http://picsartstage2.com/
+2021/06/05 19:02:50: Setting Driver: ChromeDriver: chrome on MAC (a60fcebf032fc6dc21cef495dcdad4c4)
+2021/06/05 19:02:50: Opening: http://picsartstage2.com/create
+2021/06/05 19:02:51: Setting Driver: ChromeDriver: chrome on MAC (ba5d9cedbfc23e51482d97dcec047632)
+2021/06/05 19:02:51: Opening: http://picsartstage2.com/create
+2021/06/05 19:02:52: Setting Driver: ChromeDriver: chrome on MAC (ba5d9cedbfc23e51482d97dcec047632)
+2021/06/05 19:02:52: Opening: http://picsartstage2.com/create
+2021/06/05 19:12:39: Setting Driver: ChromeDriver: chrome on MAC (fddeb75d9fa1a580faf0cb889f9be5d1)
+2021/06/05 19:12:39: Opening: http://picsartstage2.com/
+2021/06/05 19:12:42: Setting Driver: ChromeDriver: chrome on MAC (fddeb75d9fa1a580faf0cb889f9be5d1)
+2021/06/05 19:12:42: Opening: http://picsartstage2.com/gold
+2021/06/05 19:12:47: Setting Driver: ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)
+2021/06/05 19:12:47: Opening: http://picsartstage2.com/
+2021/06/05 19:12:50: Setting Driver: ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)
+2021/06/05 19:12:50: Opening: http://picsartstage2.com/
+2021/06/05 19:12:55: Clicking on the element: [[ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/05 19:13:08: Setting Driver: ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)
+2021/06/05 19:13:08: Setting Driver: ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)
+2021/06/05 19:13:08: Clicking on the element: [[ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)] -> css selector: .grid-cards .card]
+2021/06/05 19:13:18: Clicking on the element: [[ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/05 19:13:18: Setting Driver: ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)
+2021/06/05 19:13:18: 2021/06/05 19:13:18: Checking is the element displayed: [[ChromeDriver: chrome on MAC (ccf040ad584a582e63d70703b94aa56d)] -> css selector: .qrcode]
+2021/06/05 19:13:20: Setting Driver: ChromeDriver: chrome on MAC (a1df38dc49917e0515fc42eed87c6d2f)
+2021/06/05 19:13:20: Opening: http://picsartstage2.com/
+2021/06/05 19:13:23: Setting Driver: ChromeDriver: chrome on MAC (a1df38dc49917e0515fc42eed87c6d2f)
+2021/06/05 19:13:23: Opening: http://picsartstage2.com/challenge/ircfilltheplate
+2021/06/05 19:13:34: Clicking on the element: [[ChromeDriver: chrome on MAC (a1df38dc49917e0515fc42eed87c6d2f)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/05 19:13:35: Setting Driver: ChromeDriver: chrome on MAC (a1df38dc49917e0515fc42eed87c6d2f)
+2021/06/05 19:13:35: 2021/06/05 19:13:35: Checking is the element displayed: [[ChromeDriver: chrome on MAC (a1df38dc49917e0515fc42eed87c6d2f)] -> css selector: .qrcode]
+2021/06/05 19:13:36: Setting Driver: ChromeDriver: chrome on MAC (9090a48f9f180c51c2b44683190452c7)
+2021/06/05 19:13:36: Opening: http://picsartstage2.com/create
+2021/06/05 19:14:07: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (9090a48f9f180c51c2b44683190452c7)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 19:14:09: Setting Driver: ChromeDriver: chrome on MAC (76de7e71110803203a271f7796544e74)
+2021/06/05 19:14:09: Opening: http://picsartstage2.com/create
+2021/06/05 19:14:54: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (76de7e71110803203a271f7796544e74)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 19:14:54: Setting Driver: ChromeDriver: chrome on MAC (76de7e71110803203a271f7796544e74)
+2021/06/05 19:14:54: Opening: http://picsartstage2.com/create
+2021/06/05 19:15:11: Switching to tab by the index of: 1
+2021/06/05 19:15:11: Setting Driver: ChromeDriver: chrome on MAC (76de7e71110803203a271f7796544e74)
+2021/06/05 19:15:15: Clicking on the element: [[ChromeDriver: chrome on MAC (76de7e71110803203a271f7796544e74)] -> id: background-category]
+2021/06/05 19:15:16: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/05 19:15:18: Setting Driver: ChromeDriver: chrome on MAC (e748e0e5d4f3cdff70488a50810cac68)
+2021/06/05 19:15:18: Opening: http://picsartstage2.com/create
+2021/06/05 19:15:45: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/05 19:15:46: Setting Driver: ChromeDriver: chrome on MAC (e748e0e5d4f3cdff70488a50810cac68)
+2021/06/05 19:15:46: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/05 19:15:50: Clicking on the element: [[ChromeDriver: chrome on MAC (e748e0e5d4f3cdff70488a50810cac68)] -> id: download-button]
+2021/06/05 19:15:51: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (e748e0e5d4f3cdff70488a50810cac68)] -> css selector: [data-test='downloaded-button']]
+2021/06/05 19:15:52: Clicking on the element: [[ChromeDriver: chrome on MAC (e748e0e5d4f3cdff70488a50810cac68)] -> css selector: [data-test='downloaded-button']]
+2021/06/05 19:15:53: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (e748e0e5d4f3cdff70488a50810cac68)] -> class name: ReactModal__Content]
+2021/06/05 19:15:54: Setting Driver: ChromeDriver: chrome on MAC (803a70a6660658d1c308b7ee192ef701)
+2021/06/05 19:15:54: Opening: http://picsartstage2.com/create
+2021/06/05 19:16:18: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/05 19:16:20: Setting Driver: ChromeDriver: chrome on MAC (803a70a6660658d1c308b7ee192ef701)
+2021/06/05 19:16:20: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/05 19:16:24: Setting Driver: ChromeDriver: chrome on MAC (d7894fd1f2ed3047bef656da0a3273da)
+2021/06/05 19:16:24: Opening: http://picsartstage2.com/create
+2021/06/05 19:16:58: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (d7894fd1f2ed3047bef656da0a3273da)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/05 19:16:58: Setting Driver: ChromeDriver: chrome on MAC (d7894fd1f2ed3047bef656da0a3273da)
+2021/06/05 19:16:58: Opening: http://picsartstage2.com/create
+2021/06/05 19:17:00: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (d7894fd1f2ed3047bef656da0a3273da)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/05 19:17:02: Setting Driver: ChromeDriver: chrome on MAC (a9b82cbf864eb7c9bca9c3727d370978)
+2021/06/05 19:17:02: Opening: http://picsartstage2.com/create
+2021/06/05 19:17:10: Creating new user: Email: 428ed4b5-7bf3-4e45-bdc6-d6c9df17c1d9@gmail.com, Password: Test!!8493.
+2021/06/05 19:17:11: Uploading new photo in the user profile: 345e4f41-5441-4d4f-97a8-480e912f5d82
+2021/06/05 19:17:15: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: 345e4f41-5441-4d4f-97a8-480e912f5d82 photo: 360602235013201
+2021/06/05 19:17:16: Setting Driver: ChromeDriver: chrome on MAC (a9b82cbf864eb7c9bca9c3727d370978)
+2021/06/05 19:17:16: Opening: http://picsartstage2.com/i/360602235013201
+2021/06/05 19:17:30: Deleting the user: 345e4f41-5441-4d4f-97a8-480e912f5d82
+2021/06/05 19:17:32: Setting Driver: ChromeDriver: chrome on MAC (40b086e2bc7ce478cf1d34cc3672d51b)
+2021/06/05 19:17:32: Opening: http://picsartstage2.com/create
+2021/06/05 19:17:40: Creating new user: Email: 428ed4b5-7bf3-4e45-bdc6-d6c9df17c1d9@gmail.com, Password: Test!!8493.
+2021/06/05 19:17:41: Uploading new photo in the user profile: dec7f622-3a0b-4189-a354-44c00da1e2eb
+2021/06/05 19:17:42: Liking the photo:  360602262124201 of the following user: dec7f622-3a0b-4189-a354-44c00da1e2eb
+2021/06/05 19:17:43: Setting Driver: ChromeDriver: chrome on MAC (40b086e2bc7ce478cf1d34cc3672d51b)
+2021/06/05 19:17:43: Opening: http://picsartstage2.com/i/360602262124201
+2021/06/05 19:18:02: Deleting the user: dec7f622-3a0b-4189-a354-44c00da1e2eb
+2021/06/06 11:44:38: Setting Driver: ChromeDriver: chrome on MAC (74e8b9c86cbc27e6ddbc9f92210dfdd3)
+2021/06/06 11:44:38: Opening: http://picsartstage2.com/create
+2021/06/06 11:45:03: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 11:45:05: Setting Driver: ChromeDriver: chrome on MAC (74e8b9c86cbc27e6ddbc9f92210dfdd3)
+2021/06/06 11:45:05: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 11:45:26: Setting Driver: ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)
+2021/06/06 11:45:26: Opening: http://picsartstage2.com/
+2021/06/06 11:45:32: Setting Driver: ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)
+2021/06/06 11:45:32: Opening: http://picsartstage2.com/
+2021/06/06 11:45:33: Clicking on the element: [[ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 11:45:45: Setting Driver: ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)
+2021/06/06 11:45:45: Setting Driver: ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)
+2021/06/06 11:45:45: Clicking on the element: [[ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)] -> css selector: .grid-cards .card]
+2021/06/06 11:45:51: Clicking on the element: [[ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 11:45:52: Setting Driver: ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)
+2021/06/06 11:45:52: 2021/06/06 11:45:52: Checking is the element displayed: [[ChromeDriver: chrome on MAC (ab87b730e5badfac1f5143a48e42acaa)] -> css selector: .qrcode]
+2021/06/06 11:46:03: Setting Driver: ChromeDriver: chrome on MAC (bb1a623a5a91ce6dbc24d11f50c044b1)
+2021/06/06 11:46:03: Opening: http://picsartstage2.com/
+2021/06/06 11:46:06: Setting Driver: ChromeDriver: chrome on MAC (bb1a623a5a91ce6dbc24d11f50c044b1)
+2021/06/06 11:46:06: Opening: http://picsartstage2.com/challenge/ircfilltheplate
+2021/06/06 11:46:20: Clicking on the element: [[ChromeDriver: chrome on MAC (bb1a623a5a91ce6dbc24d11f50c044b1)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 11:46:20: Setting Driver: ChromeDriver: chrome on MAC (bb1a623a5a91ce6dbc24d11f50c044b1)
+2021/06/06 11:46:20: 2021/06/06 11:46:20: Checking is the element displayed: [[ChromeDriver: chrome on MAC (bb1a623a5a91ce6dbc24d11f50c044b1)] -> css selector: .qrcode]
+2021/06/06 14:16:33: Setting Driver: ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)
+2021/06/06 14:16:33: Opening: http://picsartstage2.com/
+2021/06/06 14:16:38: Setting Driver: ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)
+2021/06/06 14:16:38: Opening: http://picsartstage2.com/
+2021/06/06 14:16:38: Clicking on the element: [[ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:16:53: Setting Driver: ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)
+2021/06/06 14:16:53: Clicking on the element: [[ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)] -> css selector: .grid-cards .card]
+2021/06/06 14:17:02: Setting Driver: ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)
+2021/06/06 14:17:02: Clicking on the element: [[ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:17:02: Setting Driver: ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)
+2021/06/06 14:17:02: 2021/06/06 14:17:02: Checking is the element displayed: [[ChromeDriver: chrome on MAC (d7b3d5b3241cde4f121f3626a0463d64)] -> css selector: .qrcode]
+2021/06/06 14:21:31: Setting Driver: ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)
+2021/06/06 14:21:31: Opening: http://picsartstage2.com/
+2021/06/06 14:21:36: Setting Driver: ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)
+2021/06/06 14:21:36: Opening: http://picsartstage2.com/
+2021/06/06 14:21:36: Clicking on the element: [[ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:21:48: Setting Driver: ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)
+2021/06/06 14:21:48: Clicking on the element: [[ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)] -> css selector: .grid-cards .card]
+2021/06/06 14:21:56: Setting Driver: ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)
+2021/06/06 14:21:56: Clicking on the element: [[ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:21:56: Setting Driver: ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)
+2021/06/06 14:21:56: 2021/06/06 14:21:56: Checking is the element displayed: [[ChromeDriver: chrome on MAC (9fd78c13cad7e9d66f40542239e82d51)] -> css selector: .qrcode]
+2021/06/06 14:22:05: Setting Driver: ChromeDriver: chrome on MAC (ef69e2a32bf60581c79bc7b7cceb97ff)
+2021/06/06 14:22:05: Opening: http://picsartstage2.com/
+2021/06/06 14:22:08: Setting Driver: ChromeDriver: chrome on MAC (ef69e2a32bf60581c79bc7b7cceb97ff)
+2021/06/06 14:22:08: Opening: http://picsartstage2.com/challenge/srcneonheadphones
+2021/06/06 14:22:19: Clicking on the element: [[ChromeDriver: chrome on MAC (ef69e2a32bf60581c79bc7b7cceb97ff)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:22:19: Setting Driver: ChromeDriver: chrome on MAC (ef69e2a32bf60581c79bc7b7cceb97ff)
+2021/06/06 14:22:19: Setting Driver: ChromeDriver: chrome on MAC (ef69e2a32bf60581c79bc7b7cceb97ff)
+2021/06/06 14:22:19: 2021/06/06 14:22:19: Checking is the element displayed: [[ChromeDriver: chrome on MAC (ef69e2a32bf60581c79bc7b7cceb97ff)] -> css selector: .qrcode]
+2021/06/06 14:23:30: Setting Driver: ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)
+2021/06/06 14:23:30: Opening: http://picsartstage2.com/
+2021/06/06 14:23:36: Setting Driver: ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)
+2021/06/06 14:23:36: Opening: http://picsartstage2.com/
+2021/06/06 14:23:36: Clicking on the element: [[ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:23:48: Setting Driver: ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)
+2021/06/06 14:23:48: Clicking on the element: [[ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)] -> css selector: .grid-cards .card]
+2021/06/06 14:23:56: Setting Driver: ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)
+2021/06/06 14:23:56: Clicking on the element: [[ChromeDriver: chrome on MAC (4d51597132eba59cf187ada5fb48fc54)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:24:07: Setting Driver: ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)
+2021/06/06 14:24:07: Opening: http://picsartstage2.com/
+2021/06/06 14:24:12: Setting Driver: ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)
+2021/06/06 14:24:12: Opening: http://picsartstage2.com/
+2021/06/06 14:24:12: Clicking on the element: [[ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:24:23: Setting Driver: ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)
+2021/06/06 14:24:24: Clicking on the element: [[ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)] -> css selector: .grid-cards .card]
+2021/06/06 14:24:31: Setting Driver: ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)
+2021/06/06 14:24:31: Clicking on the element: [[ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:24:32: Setting Driver: ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)
+2021/06/06 14:24:32: Setting Driver: ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)
+2021/06/06 14:24:32: 2021/06/06 14:24:32: Checking is the element displayed: [[ChromeDriver: chrome on MAC (4d0e5080efa46f745a13d84ebf01b055)] -> css selector: .qrcode]
+2021/06/06 14:24:43: Setting Driver: ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)
+2021/06/06 14:24:43: Opening: http://picsartstage2.com/
+2021/06/06 14:24:48: Setting Driver: ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)
+2021/06/06 14:24:48: Opening: http://picsartstage2.com/
+2021/06/06 14:24:49: Clicking on the element: [[ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:25:01: Setting Driver: ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)
+2021/06/06 14:25:01: Clicking on the element: [[ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)] -> css selector: .grid-cards .card]
+2021/06/06 14:25:09: Setting Driver: ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)
+2021/06/06 14:25:09: Clicking on the element: [[ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:25:10: Setting Driver: ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)
+2021/06/06 14:25:10: Setting Driver: ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)
+2021/06/06 14:25:10: 2021/06/06 14:25:10: Checking is the element displayed: [[ChromeDriver: chrome on MAC (7841d9808fde36855d58ad148066ca50)] -> css selector: .qrcode]
+2021/06/06 14:25:51: Setting Driver: ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)
+2021/06/06 14:25:51: Opening: http://picsartstage2.com/
+2021/06/06 14:25:55: Setting Driver: ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)
+2021/06/06 14:25:55: Opening: http://picsartstage2.com/
+2021/06/06 14:25:55: Clicking on the element: [[ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:26:07: Setting Driver: ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)
+2021/06/06 14:26:07: Clicking on the element: [[ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)] -> css selector: .grid-cards .card]
+2021/06/06 14:26:13: Setting Driver: ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)
+2021/06/06 14:26:13: Clicking on the element: [[ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:26:14: Setting Driver: ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)
+2021/06/06 14:26:14: Setting Driver: ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)
+2021/06/06 14:26:14: 2021/06/06 14:26:14: Checking is the element displayed: [[ChromeDriver: chrome on MAC (8c18f68d8f4afc4acd9d63e9552df5d5)] -> css selector: .qrcode]
+2021/06/06 14:26:21: Setting Driver: ChromeDriver: chrome on MAC (3464a4c40764fb8a6b3ddf1522e784f5)
+2021/06/06 14:26:21: Opening: http://picsartstage2.com/
+2021/06/06 14:26:26: Setting Driver: ChromeDriver: chrome on MAC (3464a4c40764fb8a6b3ddf1522e784f5)
+2021/06/06 14:26:26: Opening: http://picsartstage2.com/challenge/srcneonheadphones
+2021/06/06 14:26:38: Clicking on the element: [[ChromeDriver: chrome on MAC (3464a4c40764fb8a6b3ddf1522e784f5)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:26:38: Setting Driver: ChromeDriver: chrome on MAC (3464a4c40764fb8a6b3ddf1522e784f5)
+2021/06/06 14:26:38: Setting Driver: ChromeDriver: chrome on MAC (3464a4c40764fb8a6b3ddf1522e784f5)
+2021/06/06 14:26:38: 2021/06/06 14:26:38: Checking is the element displayed: [[ChromeDriver: chrome on MAC (3464a4c40764fb8a6b3ddf1522e784f5)] -> css selector: .qrcode]
+2021/06/06 14:27:00: Setting Driver: ChromeDriver: chrome on MAC (16541a28e7a6b2607838997f37771001)
+2021/06/06 14:27:00: Opening: http://picsartstage2.com/
+2021/06/06 14:27:04: Setting Driver: ChromeDriver: chrome on MAC (16541a28e7a6b2607838997f37771001)
+2021/06/06 14:27:04: Opening: http://picsartstage2.com/challenge/srcneonheadphones
+2021/06/06 14:27:15: Clicking on the element: [[ChromeDriver: chrome on MAC (16541a28e7a6b2607838997f37771001)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:27:15: Setting Driver: ChromeDriver: chrome on MAC (16541a28e7a6b2607838997f37771001)
+2021/06/06 14:27:15: Setting Driver: ChromeDriver: chrome on MAC (16541a28e7a6b2607838997f37771001)
+2021/06/06 14:27:15: 2021/06/06 14:27:15: Checking is the element displayed: [[ChromeDriver: chrome on MAC (16541a28e7a6b2607838997f37771001)] -> css selector: .qrcode]
+2021/06/06 14:27:22: Setting Driver: ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)
+2021/06/06 14:27:22: Opening: http://picsartstage2.com/
+2021/06/06 14:27:26: Setting Driver: ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)
+2021/06/06 14:27:26: Opening: http://picsartstage2.com/
+2021/06/06 14:27:26: Clicking on the element: [[ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 14:27:39: Setting Driver: ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)
+2021/06/06 14:27:39: Clicking on the element: [[ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)] -> css selector: .grid-cards .card]
+2021/06/06 14:27:44: Setting Driver: ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)
+2021/06/06 14:27:44: Clicking on the element: [[ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 14:27:45: Setting Driver: ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)
+2021/06/06 14:27:45: Setting Driver: ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)
+2021/06/06 14:27:45: 2021/06/06 14:27:45: Checking is the element displayed: [[ChromeDriver: chrome on MAC (64114f7ada16d57cc38771cf5c35589d)] -> css selector: .qrcode]
+2021/06/06 14:34:27: Setting Driver: ChromeDriver: chrome on MAC (b08007a45914760f5957805987ae6b49)
+2021/06/06 14:34:27: Opening: http://picsartstage2.com/create
+2021/06/06 14:34:51: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:34:52: Setting Driver: ChromeDriver: chrome on MAC (b08007a45914760f5957805987ae6b49)
+2021/06/06 14:34:52: Opening: http://picsartstage2.com/create
+2021/06/06 14:34:54: Setting Driver: ChromeDriver: chrome on MAC (b08007a45914760f5957805987ae6b49)
+2021/06/06 14:34:54: Switching to tab by the index of: 1
+2021/06/06 14:34:59: Clicking on the element: [[ChromeDriver: chrome on MAC (b08007a45914760f5957805987ae6b49)] -> id: background-category]
+2021/06/06 14:34:59: Setting Driver: ChromeDriver: chrome on MAC (b08007a45914760f5957805987ae6b49)
+2021/06/06 14:34:59: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/06 14:35:27: Setting Driver: ChromeDriver: chrome on MAC (e0f1eaa2fb37802b997b7f44dbbf48c0)
+2021/06/06 14:35:27: Opening: http://picsartstage2.com/create
+2021/06/06 14:35:49: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:35:51: Setting Driver: ChromeDriver: chrome on MAC (e0f1eaa2fb37802b997b7f44dbbf48c0)
+2021/06/06 14:35:51: Opening: http://picsartstage2.com/create
+2021/06/06 14:35:53: Setting Driver: ChromeDriver: chrome on MAC (e0f1eaa2fb37802b997b7f44dbbf48c0)
+2021/06/06 14:35:53: Switching to tab by the index of: 1
+2021/06/06 14:35:55: Clicking on the element: [[ChromeDriver: chrome on MAC (e0f1eaa2fb37802b997b7f44dbbf48c0)] -> id: background-category]
+2021/06/06 14:35:56: Setting Driver: ChromeDriver: chrome on MAC (e0f1eaa2fb37802b997b7f44dbbf48c0)
+2021/06/06 14:35:56: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/06 14:36:28: Setting Driver: ChromeDriver: chrome on MAC (c066fac49dd82e08fea399b298799df9)
+2021/06/06 14:36:28: Opening: http://picsartstage2.com/create
+2021/06/06 14:36:48: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:36:50: Setting Driver: ChromeDriver: chrome on MAC (c066fac49dd82e08fea399b298799df9)
+2021/06/06 14:36:50: Opening: http://picsartstage2.com/create
+2021/06/06 14:36:52: Setting Driver: ChromeDriver: chrome on MAC (c066fac49dd82e08fea399b298799df9)
+2021/06/06 14:36:52: Switching to tab by the index of: 1
+2021/06/06 14:37:12: Clicking on the element: [[ChromeDriver: chrome on MAC (c066fac49dd82e08fea399b298799df9)] -> id: background-category]
+2021/06/06 14:37:13: Setting Driver: ChromeDriver: chrome on MAC (c066fac49dd82e08fea399b298799df9)
+2021/06/06 14:37:13: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/06 14:42:05: Setting Driver: ChromeDriver: chrome on MAC (53ab438a11fc201c6b17ac633107be73)
+2021/06/06 14:42:05: Opening: http://picsartstage2.com/create
+2021/06/06 14:42:33: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:42:34: Setting Driver: ChromeDriver: chrome on MAC (53ab438a11fc201c6b17ac633107be73)
+2021/06/06 14:42:34: Opening: http://picsartstage2.com/create
+2021/06/06 14:42:35: Setting Driver: ChromeDriver: chrome on MAC (53ab438a11fc201c6b17ac633107be73)
+2021/06/06 14:42:35: Switching to tab by the index of: 1
+2021/06/06 14:42:39: Clicking on the element: [[ChromeDriver: chrome on MAC (53ab438a11fc201c6b17ac633107be73)] -> id: background-category]
+2021/06/06 14:42:39: Setting Driver: ChromeDriver: chrome on MAC (53ab438a11fc201c6b17ac633107be73)
+2021/06/06 14:42:39: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/06 14:43:34: Setting Driver: ChromeDriver: chrome on MAC (4918dd04e26ab1829c12dd9fe0112c13)
+2021/06/06 14:43:34: Opening: http://picsartstage2.com/create
+2021/06/06 14:43:56: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:43:57: Setting Driver: ChromeDriver: chrome on MAC (4918dd04e26ab1829c12dd9fe0112c13)
+2021/06/06 14:43:57: Opening: http://picsartstage2.com/create
+2021/06/06 14:43:59: Setting Driver: ChromeDriver: chrome on MAC (4918dd04e26ab1829c12dd9fe0112c13)
+2021/06/06 14:43:59: Switching to tab by the index of: 1
+2021/06/06 14:44:03: Clicking on the element: [[ChromeDriver: chrome on MAC (4918dd04e26ab1829c12dd9fe0112c13)] -> id: background-category]
+2021/06/06 14:44:03: Setting Driver: ChromeDriver: chrome on MAC (4918dd04e26ab1829c12dd9fe0112c13)
+2021/06/06 14:44:03: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/06 14:44:34: Setting Driver: ChromeDriver: chrome on MAC (26333d7e40faf0c1ccd1cb41d94eba66)
+2021/06/06 14:44:34: Opening: http://picsartstage2.com/create
+2021/06/06 14:45:00: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:45:02: Setting Driver: ChromeDriver: chrome on MAC (26333d7e40faf0c1ccd1cb41d94eba66)
+2021/06/06 14:45:02: Opening: http://picsartstage2.com/create
+2021/06/06 14:45:34: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (26333d7e40faf0c1ccd1cb41d94eba66)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/06 14:45:35: Setting Driver: ChromeDriver: chrome on MAC (26333d7e40faf0c1ccd1cb41d94eba66)
+2021/06/06 14:47:30: Setting Driver: ChromeDriver: chrome on MAC (01cb61b678c5beb87268621772441483)
+2021/06/06 14:47:30: Opening: http://picsartstage2.com/create
+2021/06/06 14:48:09: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (01cb61b678c5beb87268621772441483)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 14:48:09: Setting Driver: ChromeDriver: chrome on MAC (01cb61b678c5beb87268621772441483)
+2021/06/06 14:48:09: Opening: http://picsartstage2.com/create
+2021/06/06 14:48:10: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (01cb61b678c5beb87268621772441483)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/06 14:48:11: Setting Driver: ChromeDriver: chrome on MAC (01cb61b678c5beb87268621772441483)
+2021/06/06 14:48:21: Setting Driver: ChromeDriver: chrome on MAC (5cc851578de1d492f51a3a8065a568d2)
+2021/06/06 14:48:21: Opening: http://picsartstage2.com/create
+2021/06/06 14:48:45: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:48:48: Setting Driver: ChromeDriver: chrome on MAC (5cc851578de1d492f51a3a8065a568d2)
+2021/06/06 14:48:48: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 14:49:08: Setting Driver: ChromeDriver: chrome on MAC (5cc851578de1d492f51a3a8065a568d2)
+2021/06/06 14:49:08: Setting Driver: ChromeDriver: chrome on MAC (5cc851578de1d492f51a3a8065a568d2)
+2021/06/06 14:49:15: Setting Driver: ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)
+2021/06/06 14:49:15: Opening: http://picsartstage2.com/create
+2021/06/06 14:49:43: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:49:46: Setting Driver: ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)
+2021/06/06 14:49:46: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 14:49:55: Clicking on the element: [[ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)] -> id: download-button]
+2021/06/06 14:49:55: Setting Driver: ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)
+2021/06/06 14:49:55: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 14:49:55: Clicking on the element: [[ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 14:49:55: Setting Driver: ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)
+2021/06/06 14:49:55: Setting Driver: ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)
+2021/06/06 14:49:55: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)] -> class name: ReactModal__Content]
+2021/06/06 14:49:55: Setting Driver: ChromeDriver: chrome on MAC (2343753612d6db86b341ec6fb0057887)
+2021/06/06 14:50:18: Setting Driver: ChromeDriver: chrome on MAC (ecf5dc7f27ba4454e23ac26b4c60466a)
+2021/06/06 14:50:18: Opening: http://picsartstage2.com/
+2021/06/06 14:50:23: Setting Driver: ChromeDriver: chrome on MAC (ecf5dc7f27ba4454e23ac26b4c60466a)
+2021/06/06 14:50:23: Opening: http://picsartstage2.com/gold
+2021/06/06 14:50:55: Setting Driver: ChromeDriver: chrome on MAC (854232ab67054dd3e182923708e202da)
+2021/06/06 14:50:55: Opening: http://picsartstage2.com/create
+2021/06/06 14:51:02: Creating new user: Email: 3d3f78f0-ad71-4918-9064-4dba3e60ff95@gmail.com, Password: Test!!8493.
+2021/06/06 14:52:31: Setting Driver: ChromeDriver: chrome on MAC (a56ec7defb6f4c0ce6fa61ece4a12579)
+2021/06/06 14:52:31: Opening: http://picsartstage2.com/create
+2021/06/06 14:52:42: Creating new user: Email: 73be75fe-0f13-4503-aa64-564ff61c374c@gmail.com, Password: Test!!8493.
+2021/06/06 14:52:44: Uploading new photo in the user profile: f414762b-fb4a-40dd-be1d-6661350a77d7
+2021/06/06 14:52:46: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: f414762b-fb4a-40dd-be1d-6661350a77d7 photo: 360672765061201
+2021/06/06 14:52:46: Setting Driver: ChromeDriver: chrome on MAC (a56ec7defb6f4c0ce6fa61ece4a12579)
+2021/06/06 14:52:46: Opening: http://picsartstage2.com/i/360672765061201
+2021/06/06 14:53:10: Deleting the user: f414762b-fb4a-40dd-be1d-6661350a77d7
+2021/06/06 14:53:21: Setting Driver: ChromeDriver: chrome on MAC (5d327aedb131e03b96d009101e6acc32)
+2021/06/06 14:53:21: Opening: http://picsartstage2.com/create
+2021/06/06 14:53:29: Creating new user: Email: d408c2d8-176d-4aba-9176-f7d70ae25c4e@gmail.com, Password: Test!!8493.
+2021/06/06 14:53:31: Uploading new photo in the user profile: abb6dc7e-1ef0-42f3-84ab-a0598589330e
+2021/06/06 14:53:33: Liking the photo:  360672812028201 of the following user: abb6dc7e-1ef0-42f3-84ab-a0598589330e
+2021/06/06 14:53:34: Setting Driver: ChromeDriver: chrome on MAC (5d327aedb131e03b96d009101e6acc32)
+2021/06/06 14:53:34: Opening: http://picsartstage2.com/i/360672812028201
+2021/06/06 14:53:56: Deleting the user: abb6dc7e-1ef0-42f3-84ab-a0598589330e
+2021/06/06 14:54:20: Setting Driver: ChromeDriver: chrome on MAC (75f54bd0f22c80a86f38ec450fd10fc2)
+2021/06/06 14:54:20: Opening: http://picsartstage2.com/create
+2021/06/06 14:54:48: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (75f54bd0f22c80a86f38ec450fd10fc2)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 14:54:48: Setting Driver: ChromeDriver: chrome on MAC (75f54bd0f22c80a86f38ec450fd10fc2)
+2021/06/06 14:54:48: Opening: http://picsartstage2.com/i/359193804035201
+2021/06/06 14:55:00: Clicking on the element: [[ChromeDriver: chrome on MAC (75f54bd0f22c80a86f38ec450fd10fc2)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/06/06 14:55:00: Clicking on the element: [[ChromeDriver: chrome on MAC (75f54bd0f22c80a86f38ec450fd10fc2)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/06/06 14:55:11: Setting Driver: ChromeDriver: chrome on MAC (d28a9bdf727178719eaef74682ef252f)
+2021/06/06 14:55:11: Opening: http://picsartstage2.com/create
+2021/06/06 14:55:35: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 14:55:37: Setting Driver: ChromeDriver: chrome on MAC (d28a9bdf727178719eaef74682ef252f)
+2021/06/06 14:55:37: Opening: http://picsartstage2.com/i/359193804035201
+2021/06/06 14:55:46: Clicking on the element: [[ChromeDriver: chrome on MAC (d28a9bdf727178719eaef74682ef252f)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/06/06 14:55:46: Clicking on the element: [[ChromeDriver: chrome on MAC (d28a9bdf727178719eaef74682ef252f)] -> css selector: .actions-section .notifier-hover-toggle .like]
+2021/06/06 14:55:59: Setting Driver: ChromeDriver: chrome on MAC (138b93f23880c40c932ca74e63a9dd79)
+2021/06/06 14:55:59: Opening: http://picsartstage2.com/create
+2021/06/06 14:56:22: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (138b93f23880c40c932ca74e63a9dd79)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 15:22:43: Setting Driver: ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)
+2021/06/06 15:22:43: Opening: http://picsartstage2.com/create
+2021/06/06 15:23:25: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 15:23:25: Setting Driver: ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)
+2021/06/06 15:23:25: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 15:23:27: Clicking on the element: [[ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)] -> id: download-button]
+2021/06/06 15:23:27: Setting Driver: ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)
+2021/06/06 15:23:27: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 15:23:28: Clicking on the element: [[ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 15:23:29: Setting Driver: ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)
+2021/06/06 15:23:29: Setting Driver: ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)
+2021/06/06 15:23:29: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)] -> class name: ReactModal__Content]
+2021/06/06 15:23:29: Setting Driver: ChromeDriver: chrome on MAC (552ed4338c70b1739682541c81b8cf8f)
+2021/06/06 15:35:59: Setting Driver: ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)
+2021/06/06 15:35:59: Opening: http://picsartstage2.com/create
+2021/06/06 15:36:19: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 15:36:21: Setting Driver: ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)
+2021/06/06 15:36:21: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 15:36:32: Clicking on the element: [[ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)] -> id: download-button]
+2021/06/06 15:36:32: Setting Driver: ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)
+2021/06/06 15:36:32: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 15:36:32: Clicking on the element: [[ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 15:36:32: Setting Driver: ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)
+2021/06/06 15:36:32: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)] -> class name: ReactModal__Content]
+2021/06/06 15:36:32: Setting Driver: ChromeDriver: chrome on MAC (7443aa324e37d1222633e4ec76462e82)
+2021/06/06 15:58:12: Setting Driver: ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)
+2021/06/06 15:58:12: Opening: http://picsartstage2.com/
+2021/06/06 15:58:15: Setting Driver: ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)
+2021/06/06 15:58:15: Opening: http://picsartstage2.com/
+2021/06/06 15:58:16: Clicking on the element: [[ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)] -> css selector: [data-test='subNavigation-groupList'] [href='/challenges']]
+2021/06/06 15:58:28: Setting Driver: ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)
+2021/06/06 15:58:28: Clicking on the element: [[ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)] -> css selector: .grid-cards .card]
+2021/06/06 15:58:35: Setting Driver: ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)
+2021/06/06 15:58:35: Clicking on the element: [[ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 15:58:35: Setting Driver: ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)
+2021/06/06 15:58:35: 2021/06/06 15:58:35: Checking is the element displayed: [[ChromeDriver: chrome on MAC (01f8146257e1bbbb1cb92e0fea449580)] -> css selector: .qrcode]
+2021/06/06 15:58:36: Setting Driver: ChromeDriver: chrome on MAC (b6df206931a8c585373836cb3c69752b)
+2021/06/06 15:58:36: Opening: http://picsartstage2.com/
+2021/06/06 15:58:40: Setting Driver: ChromeDriver: chrome on MAC (b6df206931a8c585373836cb3c69752b)
+2021/06/06 15:58:40: Opening: http://picsartstage2.com/challenge/srcneonheadphones
+2021/06/06 15:58:53: Clicking on the element: [[ChromeDriver: chrome on MAC (b6df206931a8c585373836cb3c69752b)] -> css selector: [data-js-get-the-app-popup-source='challenge-landing']]
+2021/06/06 15:58:53: Setting Driver: ChromeDriver: chrome on MAC (b6df206931a8c585373836cb3c69752b)
+2021/06/06 15:58:53: 2021/06/06 15:58:53: Checking is the element displayed: [[ChromeDriver: chrome on MAC (b6df206931a8c585373836cb3c69752b)] -> css selector: .qrcode]
+2021/06/06 15:58:54: Setting Driver: ChromeDriver: chrome on MAC (667224f35bc464d1fab5cdefeaf9ad65)
+2021/06/06 15:58:54: Opening: http://picsartstage2.com/create
+2021/06/06 15:59:18: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 15:59:19: Setting Driver: ChromeDriver: chrome on MAC (667224f35bc464d1fab5cdefeaf9ad65)
+2021/06/06 15:59:19: Opening: http://picsartstage2.com/create
+2021/06/06 15:59:22: Setting Driver: ChromeDriver: chrome on MAC (667224f35bc464d1fab5cdefeaf9ad65)
+2021/06/06 15:59:22: Switching to tab by the index of: 1
+2021/06/06 15:59:23: Clicking on the element: [[ChromeDriver: chrome on MAC (667224f35bc464d1fab5cdefeaf9ad65)] -> id: background-category]
+2021/06/06 15:59:24: Setting Driver: ChromeDriver: chrome on MAC (667224f35bc464d1fab5cdefeaf9ad65)
+2021/06/06 15:59:24: Waiting for the element by locator to appear: By.cssSelector: [class*='customSizeContainer']
+2021/06/06 15:59:43: Setting Driver: ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)
+2021/06/06 15:59:43: Opening: http://picsartstage2.com/create
+2021/06/06 16:00:19: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 16:00:19: Setting Driver: ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)
+2021/06/06 16:00:19: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 16:00:23: Clicking on the element: [[ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)] -> id: download-button]
+2021/06/06 16:00:24: Setting Driver: ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)
+2021/06/06 16:00:24: Waiting for text to appear in the element: [[ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 16:00:24: Clicking on the element: [[ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)] -> css selector: [data-test='downloaded-button']]
+2021/06/06 16:00:25: Setting Driver: ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)
+2021/06/06 16:00:25: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)] -> class name: ReactModal__Content]
+2021/06/06 16:00:25: Setting Driver: ChromeDriver: chrome on MAC (74f25c41afe9ae7e68a8fa182bbb4d97)
+2021/06/06 16:00:26: Setting Driver: ChromeDriver: chrome on MAC (fb777a2e08363240c5d5d6f259dceedc)
+2021/06/06 16:00:26: Opening: http://picsartstage2.com/create
+2021/06/06 16:00:55: Waiting for the element to appear: Proxy element for: DefaultElementLocator 'By.cssSelector: .pa-uiLib-headerProfileInfo-avatar'
+2021/06/06 16:00:58: Setting Driver: ChromeDriver: chrome on MAC (fb777a2e08363240c5d5d6f259dceedc)
+2021/06/06 16:00:58: Opening: http://picsartstage2.com/create/editor?templateSize=insta_story
+2021/06/06 16:01:00: Setting Driver: ChromeDriver: chrome on MAC (fb777a2e08363240c5d5d6f259dceedc)
+2021/06/06 16:01:00: Setting Driver: ChromeDriver: chrome on MAC (fb777a2e08363240c5d5d6f259dceedc)
+2021/06/06 16:01:02: Setting Driver: ChromeDriver: chrome on MAC (f8c9b7e56cbb2dd13099bae5717e22fc)
+2021/06/06 16:01:02: Opening: http://picsartstage2.com/create
+2021/06/06 16:02:01: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (f8c9b7e56cbb2dd13099bae5717e22fc)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 16:02:01: Setting Driver: ChromeDriver: chrome on MAC (f8c9b7e56cbb2dd13099bae5717e22fc)
+2021/06/06 16:02:01: Opening: http://picsartstage2.com/create
+2021/06/06 16:02:02: Writing: "/Users/artyomtonoyan/AutomationHomeworks/src/main/resources/mytest.jpg" in the element: [[ChromeDriver: chrome on MAC (f8c9b7e56cbb2dd13099bae5717e22fc)] -> css selector: [accept='image/jpeg, image/png, image/gif']]
+2021/06/06 16:02:06: Setting Driver: ChromeDriver: chrome on MAC (b1bd4d9797648b62b6e69cb664d94875)
+2021/06/06 16:02:06: Opening: http://picsartstage2.com/create
+2021/06/06 16:02:16: Creating new user: Email: 089cd325-0695-43c3-99a2-f047ede5ac8a@gmail.com, Password: Test!!8493.
+2021/06/06 16:02:17: Uploading new photo in the user profile: 477ba2ee-6f1a-4196-90cb-34ed43d75d20
+2021/06/06 16:02:18: Adding the following hashtags: [#MYTEST, #HELLO, #DDDD] to the following users: 477ba2ee-6f1a-4196-90cb-34ed43d75d20 photo: 360676938015201
+2021/06/06 16:02:19: Setting Driver: ChromeDriver: chrome on MAC (b1bd4d9797648b62b6e69cb664d94875)
+2021/06/06 16:02:19: Opening: http://picsartstage2.com/i/360676938015201
+2021/06/06 16:02:40: Deleting the user: 477ba2ee-6f1a-4196-90cb-34ed43d75d20
+2021/06/06 16:02:42: Setting Driver: ChromeDriver: chrome on MAC (e9f2a9f0470ac501c695c89a013edc83)
+2021/06/06 16:02:42: Opening: http://picsartstage2.com/create
+2021/06/06 16:02:50: Creating new user: Email: 089cd325-0695-43c3-99a2-f047ede5ac8a@gmail.com, Password: Test!!8493.
+2021/06/06 16:02:50: Uploading new photo in the user profile: ebf981af-1dd7-4160-89a8-e2f199bac55a
+2021/06/06 16:02:52: Liking the photo:  360676972000201 of the following user: ebf981af-1dd7-4160-89a8-e2f199bac55a
+2021/06/06 16:02:52: Setting Driver: ChromeDriver: chrome on MAC (e9f2a9f0470ac501c695c89a013edc83)
+2021/06/06 16:02:52: Opening: http://picsartstage2.com/i/360676972000201
+2021/06/06 16:03:13: Deleting the user: ebf981af-1dd7-4160-89a8-e2f199bac55a
+2021/06/06 16:03:15: Setting Driver: ChromeDriver: chrome on MAC (15b39ac8feb6f393ae43a2a467463807)
+2021/06/06 16:03:15: Opening: http://picsartstage2.com/create
+2021/06/06 16:03:48: Waiting for the element to appear: [[ChromeDriver: chrome on MAC (15b39ac8feb6f393ae43a2a467463807)] -> css selector: .pa-uiLib-headerProfileInfo-avatar]
+2021/06/06 16:03:49: Setting Driver: ChromeDriver: chrome on MAC (03f7627379b7eb5b3f1a6a1d093be2ab)
+2021/06/06 16:03:49: Opening: http://picsartstage2.com/
+2021/06/06 16:03:54: Setting Driver: ChromeDriver: chrome on MAC (03f7627379b7eb5b3f1a6a1d093be2ab)
+2021/06/06 16:03:54: Opening: http://picsartstage2.com/gold

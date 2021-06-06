@@ -3,10 +3,11 @@ package pageobjects.dialogs;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
+import pageobjects.pages.CreatePage;
 import utilities.WaitHelper;
 
-public class LoginDialog extends BasePage {
+public class LoginDialog extends PageBase {
 
     @FindBy(name = "username")
     private WebElement usernameField;
@@ -31,9 +32,10 @@ public class LoginDialog extends BasePage {
         type(passwordField, password);
     }
 
-    public void clickSignInButton() {
+    public CreatePage clickSignInButton() {
         WaitHelper.getInstance().waitForElementToDisplayed(signInButton);
         click(signInButton);
+        return new CreatePage();
     }
 
     @Override

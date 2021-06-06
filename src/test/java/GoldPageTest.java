@@ -16,7 +16,6 @@ public class GoldPageTest extends BaseTestWithoutLogin {
 
     @Test(enabled = false)
     public void slideshowWithActions() {
-        GoldPage goldPage = new GoldPage();
-        goldPage.changeCarouselWithActions();
+        new GoldPage().changeCarouselWithActions();
     }
 }

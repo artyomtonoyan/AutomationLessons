@@ -4,9 +4,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
+import pageobjects.dialogs.LoginDialog;
 
-public class HomePage extends BasePage {
+public class HomePage extends PageBase {
 
     @FindBy(css = "[data-test='headerNavigation-navigationListItem-Discover']")
     private WebElement discoverMenu;
@@ -22,14 +23,16 @@ public class HomePage extends BasePage {
         PageFactory.initElements(driver, this);
     }
 
-    public void clickLoginButton() {
+    public LoginDialog clickLoginButton() {
         click(loginButton);
+        return new LoginDialog();
     }
 
-    public void hoverOnDiscoverMenuAndClickOnChallengesFromIt() {
+    public ChallengesPage hoverOnDiscoverMenuAndClickOnChallengesFromIt() {
         Actions actions = new Actions(driver);
         actions.moveToElement(discoverMenu).build().perform();
         click(challengeLinkInDiscoverMenu);
+        return new ChallengesPage();
     }
 
     @Override

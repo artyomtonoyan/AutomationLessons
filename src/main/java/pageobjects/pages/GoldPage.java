@@ -5,16 +5,16 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
 
 import java.time.Duration;
 import java.util.List;
 
 import static setup.DriverSetup.getWebDriver;
 
-public class GoldPage extends BasePage {
+public class GoldPage extends PageBase {
 
-    private static JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
+    private static final JavascriptExecutor javascriptExecutor = (JavascriptExecutor) getWebDriver();
 
     @FindBy(css = ".layout-content-main > div:nth-child(2) > div > ul li")
     private List<WebElement> slideshowDots;

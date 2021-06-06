@@ -2,13 +2,12 @@ package pageobjects.pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.interactions.Actions;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
 import utilities.WaitHelper;
 
 import java.time.Duration;
 
-//Extends in order to get all methods and not to write another super class for this one
-public class DesmosPageForWaitAndActionsExercise extends BasePage {
+public class DesmosPageForWaitAndActionsExercise extends PageBase {
 
     private final By graphingCalculatorButtonLocation = By.cssSelector("[href='/calculator'].dcg-shared-btn-blue");
     private final By secondExpressionField = By.className("dcg-new-expression-fade");

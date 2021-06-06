@@ -3,12 +3,12 @@ package pageobjects.pages;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import pageobjects.base.BasePage;
+import pageobjects.base.PageBase;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ImageBrowserPage extends BasePage {
+public class ImageBrowserPage extends PageBase {
     public static final String[] HASHTAGS = {"#MYTEST", "#HELLO", "#DDDD"};
 
     @FindBy(css = ".actions-section .notifier-hover-toggle .like")
@@ -19,7 +19,6 @@ public class ImageBrowserPage extends BasePage {
 
     @FindBy(css = ".notifier-hover-toggle .js-likes-count")
     private WebElement likesCountIcon;
-
 
     public ImageBrowserPage(String imageId) {
         open(getURL() + imageId);
